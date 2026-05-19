@@ -1,22 +1,23 @@
 # Notas de continuidad
 
-## Viene del Libro 3
+## Nombres normalizados
 
-- Luke y Olic ya forman parte del equipo.
-- Los poderes del cofre dorado siguen activos.
-- Los alienígenas siguen conectados a la historia.
-- Luke tiene un visor espacial azul que puede rastrear energía del platillo.
+Usar Rexxie, Dipo, Trici, Velo, Mega y Olic. Usar Maxi, Luna, Teo, Mía, Leo y Luke. No usar Rexy, Trexy, Olick ni variantes.
 
-## Revelaciones del Libro 4
+## Estado del libro
 
-- Los padres de Rexxie, Trici, Dipo y Mega estaban atrapados en la isla.
-- Orin es el padre de Rexxie.
-- Tricero es el padre de Trici.
-- Brachio es el padre de Dipo.
-- Crick es el padre de Mega.
-- Aeron, padre de Olic, fue llevado al espacio por alienígenas.
+- Tema central: familias perdidas, mapa, retos de isla, rescate familiar, Aeron y marca alienígena.
+- Gancho final: Rexxie queda con una marca roja y deben buscar la Planta Secreta..
+- Objetos principales: mapa de Luke, visor espacial azul, círculos de luz, marca alienígena de Rexxie.
+- Lugares principales: campamento urbano, Isla Perdida de los Dinosaurios, entrada de Baruk, laberinto de las risas, cámara de los protectores, espacio.
 
-## Puente hacia Libro 5
+## Reglas visuales
 
-Rexxie recibe una marca alienígena roja que duele. El médico espacial explica que para calmarla deberán buscar la planta secreta.
+Los dinosaurios son tiernos, expresivos y reconocibles. Los peligros son suaves, mágicos o caricaturescos. Las escenas deben poder convertirse en imagen a color y en página de colorear.
 
+## Riesgos evitados
+
+- No violencia gráfica.
+- No terror realista.
+- No explicaciones científicas complejas.
+- No alienígenas aterradores.

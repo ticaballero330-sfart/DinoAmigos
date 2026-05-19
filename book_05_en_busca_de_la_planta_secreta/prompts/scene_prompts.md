@@ -1,110 +1,129 @@
-# Prompts de escenas
+# Prompts por escena
 
-## 01 Portada
+## Página 01 — Portada
 
-Rexxie mira su marca roja suave mientras sus amigos lo rodean, camino hacia montañas, pared dorada, guardianes dinosaurio y jardín mágico al fondo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie con marca roja frente a camino, pared dorada y jardín mágico. Environment: camino al jardín. Emotion: esperanza.
 
-## 02 Campamento y marca
+## Página 02 — Mañana en el campamento
 
-Campamento de mañana, Rexxie dormido junto a Leo, marca roja brillante en su brazo, ambiente tranquilo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Campamento de día. Environment: campamento. Emotion: calma.
 
-## 03 Trici recuerda
+## Página 03 — Trici recuerda
 
-Trici despierta al grupo y señala a Rexxie recordando que deben buscar la Planta Secreta.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trici despertando al equipo. Environment: campamento. Emotion: urgencia.
 
-## 04 Doctor Lumo
+## Página 04 — Rexxie y la marca
 
-Laboratorio espacial amable con Doctor Lumo, luces suaves, mapas estelares, tubos y maletín brillante.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Leo cuidando a Rexxie. Environment: campamento. Emotion: ternura.
 
-## 05 Sótano secreto
+## Página 05 — Primero un mapa
 
-Sótano lleno de cajas viejas, ruedas rotas, mapas enrollados, linternas antiguas y objetos mágicos raros.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo planificando. Environment: campamento. Emotion: inteligencia.
 
-## 06 Mapa verde y dorado
+## Página 06 — Doctor Lumo
 
-Doctor Lumo entrega mapa verde y dorado brillante al equipo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Laboratorio luminoso. Environment: laboratorio. Emotion: confianza.
 
-## 07 Viaje a la planta
+## Página 07 — Sótano secreto
 
-Niños y Dinoamigos atravesando ríos, montañas y caminos largos con mapa en mano.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Sótano curioso. Environment: sótano secreto. Emotion: misterio.
 
-## 08 Guardianes dinosaurio
+## Página 08 — Mapa verde y dorado
 
-Puerta de piedra custodiada por muchos dinosaurios guardianes, Rugo en el centro.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mapa brillante. Environment: sótano. Emotion: asombro.
 
-## 09 Rugido de Rexxie
+## Página 09 — Advertencia amable
 
-Rexxie ruge con su marca brillando, siluetas luminosas de T-Rex antiguos aparecen en el cielo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo escuchando. Environment: laboratorio. Emotion: atención.
 
-## 10 Red mágica
+## Página 10 — Empieza el viaje
 
-Trici atrapada en red brillante entre árboles altos, Rexxie intenta ayudar.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Camino de aventura. Environment: ríos y montañas. Emotion: humor.
 
-## 11 Nubo ayuda
+## Página 11 — Rugo guardián
 
-Nubo aparece junto a la red y explica que deben aprender a ayudar.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rugo y guardianes dinosaurio. Environment: puerta de Rugo. Emotion: reto.
 
-## 12 Olic al rescate
+## Página 12 — Susto divertido
 
-Olic corta cuerdas de la red con cuidado, Mía usa brazaletes y Luna ilumina nudos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Intentos cómicos. Environment: puerta. Emotion: humor.
 
-## 13 Pata de Olic
+## Página 13 — Rugido de Rexxie
 
-Luke cuida a Olic mientras Nubo coloca una hoja suave sobre su pata.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie con siluetas mágicas. Environment: puerta. Emotion: valentía.
 
-## 14 Pared dorada
+## Página 14 — Red mágica
 
-Pared dorada gigante con rostro de Dorán, equipo intentando empujar sin éxito.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trici en red de luz. Environment: bosque. Emotion: suspenso.
 
-## 15 Contraseña
+## Página 15 — Nubo aparece
 
-Mía lee letras pequeñas y Teo dice “Unidos somos más fuertes”, pared abriéndose con luz dorada.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Nubo junto a la red. Environment: bosque. Emotion: sabiduría.
 
-## 16 Sombrín
+## Página 16 — Olic libera a Trici
 
-Sala violeta suave con Sombrín, sombras redondas y equipo nervioso ante prueba de miedo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rescate de Trici. Environment: bosque. Emotion: trabajo en equipo.
 
-## 17 Miedo verdadero
+## Página 17 — Cuidar a Olic
 
-Leo junto a Rexxie dice que temen que Rexxie se haga daño, Sombrín sonríe y abre la puerta.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Luke cuidando a Olic. Environment: bosque. Emotion: cuidado.
 
-## 18 Flotón
+## Página 18 — Pared Dorada
 
-Flotón dentro de burbuja gigante sobre lago brillante, Mega responde con humor.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Pared dorada gigante. Environment: pared dorada. Emotion: reto.
 
-## 19 Maxi responde
+## Página 19 — La contraseña
 
-Maxi explica que beber agua no convierte a nadie en globo, Flotón aplaude.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Pared abriéndose. Environment: pared dorada. Emotion: inteligencia.
 
-## 20 Pregunta trampa
+## Página 20 — Sombrín
 
-Mía resuelve la pregunta de dinosaurios vivos, puerta acuática se abre.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Guardián violeta suave. Environment: sala violeta. Emotion: miedo suave.
 
-## 21 T-Rex robots
+## Página 21 — Intentos
 
-Sala enorme con muchísimos T-Rex robots cómicos haciendo RAAWR-BIP.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo pensando. Environment: sala violeta. Emotion: tensión suave.
 
-## 22 Batalla final
+## Página 22 — Miedo verdadero
 
-Equipo usando poderes contra robots: Velo y Teo corren, Mega lanza agua, Trici bloquea, Mía activa símbolos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Leo y Rexxie juntos. Environment: sala violeta. Emotion: honestidad.
 
-## 23 Orin y Rexxie
+## Página 23 — Reto del agua
 
-Orin y Rexxie rugen juntos mientras los T-Rex robots se apagan con humo cómico.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Flotón en burbuja. Environment: sala de agua. Emotion: humor.
 
-## 24 Jardín secreto
+## Página 24 — Maxi responde
 
-Jardín mágico con plantas doradas, flores azules, raíces luminosas y hojas que cantan.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Maxi respondiendo. Environment: sala de agua. Emotion: sentido común.
 
-## 25 Doctor Florio
+## Página 25 — Pregunta trampa
 
-Doctor Florio en el centro del jardín, bata de hojas, gafas verdes, rodeado de plantas brillantes.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mía ante pregunta. Environment: sala de agua. Emotion: curiosidad.
 
-## 26 Marca calmada
+## Página 26 — Respuesta inteligente
 
-Doctor Florio toca la marca de Rexxie con hoja dorada, Rexxie sonríe porque ya no duele.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Puerta acuática abriéndose. Environment: sala de agua. Emotion: inteligencia.
 
-## 27 Regreso al campamento
+## Página 27 — T-Rex robots
 
-Equipo vuelve cansado y feliz al campamento, Rexxie mira su marca como pequeña estrella roja.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Robots cómicos. Environment: sala final. Emotion: sorpresa.
 
+## Página 28 — Batalla divertida
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Acción no violenta contra robots. Environment: sala final. Emotion: diversión.
+
+## Página 29 — Orin ayuda
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Orin y Rexxie rugiendo. Environment: sala final. Emotion: familia.
+
+## Página 30 — Jardín secreto
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Jardín mágico. Environment: Jardín de la Planta Secreta. Emotion: maravilla.
+
+## Página 31 — Doctor Florio
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Doctor Florio en el jardín. Environment: jardín. Emotion: descubrimiento.
+
+## Página 32 — La marca ya no duele
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie feliz con todos alrededor. Environment: jardín. Emotion: aceptación.

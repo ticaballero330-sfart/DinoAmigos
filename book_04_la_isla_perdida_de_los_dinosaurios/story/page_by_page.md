@@ -1,194 +1,1335 @@
-# Distribución página por página
+# La Isla Perdida de los Dinosaurios - page by page
 
-## Página 1: Portada
+Cada página mantiene una acción clara, emoción visible y una composición apta para ilustración y libro de colorear.
 
-**Texto:** Los Dinoamigos 4: La Isla Perdida de los Dinosaurios.
+## Página 01 — Portada
 
-**Imagen:** Los niños y los Dinoamigos frente a una isla misteriosa sobre montañas, con Baruk en la entrada. Al fondo se ven trampas antiguas, una puerta gigante, mapa, ríos, lago y una luz espacial.
+### Texto narrativo
 
-## Página 2: Noche en el campamento
+Los Dinoamigos 4: La Isla Perdida de los Dinosaurios.
 
-**Texto:** Era de noche en el campamento. Todos dormían tranquilos. Las estrellas brillaban sobre las tiendas. Pero Luke empezó a moverse en su saco de dormir.
+### Descripción visual
 
-**Imagen:** Campamento nocturno con todos durmiendo y Luke inquieto.
+Equipo ante una isla mágica con Baruk en la entrada.
 
-## Página 3: La pesadilla de Luke
+### Personajes presentes
 
-**Texto:** Luke soñaba con una isla perdida. Había montañas oscuras. Ríos brillantes. Lagos escondidos. Y una puerta enorme protegida por un oso gigante.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Sueño de Luke con isla misteriosa y oso al fondo.
+### Entorno
 
-## Página 4: Luke despierta
+isla perdida
 
-**Texto:** Luke abrió los ojos de golpe. —¡Despierten! ¡Despierten! Olic levantó la cabeza preocupado. —Skreee. Luke respiró rápido. —He tenido una pesadilla.
+### Emoción principal
 
-**Imagen:** Luke despertando asustado, Olic a su lado.
+aventura
 
-## Página 5: ¿Qué viste?
+### Prompt visual base
 
-**Texto:** Todos se acercaron. Luna preguntó: —¿Qué viste en tu pesadilla? Luke respondió: —Vi una isla. Y dentro de la isla estaban atrapados los padres de los Dinoamigos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo ante una isla mágica con Baruk en la entrada. Environment: isla perdida. Emotion: aventura. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
 
-**Imagen:** Todos reunidos alrededor de Luke.
+### Notas para libro de colorear
 
-## Página 6: El mapa
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Luke sacó un papel doblado. —Cuando desperté, dibujé esto antes de llamarlos. Era un mapa. Tenía montañas, ríos, lagos y una isla escondida.
+## Página 02 — Noche inquieta
 
-**Imagen:** Primer plano del mapa dibujado por Luke.
+### Texto narrativo
 
-## Página 7: Olic decide ir
+Todos dormían, pero Luke empezó a moverse en su saco.
 
-**Texto:** Olic abrió sus alas. —Skreee. Luke sonrió. —Olic dice que debemos ir. Rexxie dio un paso adelante. —Si nuestros padres están allí, no podemos esperar.
+### Descripción visual
 
-**Imagen:** Olic abriendo alas y todos decididos.
+Campamento nocturno con Luke inquieto.
 
-## Página 8: Preparando la aventura
+### Personajes presentes
 
-**Texto:** Los niños prepararon mochilas, linternas, cuerdas y comida. Maxi preguntó: —¿Alguien sabe si en las islas perdidas hay pizza? Mega hizo burbujas. —Glu-glu.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Preparativos divertidos en el campamento.
+### Entorno
 
-## Página 9: Cruzando los montes
+campamento
 
-**Texto:** El equipo salió al amanecer. Atravesaron montes verdes. Subieron caminos de piedra. Y siguieron el mapa de Luke.
+### Emoción principal
 
-**Imagen:** Grupo caminando por montes.
+inquietud
 
-## Página 10: Montañas y ríos
+### Prompt visual base
 
-**Texto:** Llegaron a montañas enormes. Dipo ayudó a mirar desde arriba. Después cruzaron un río rápido. Mega sonrió. —¡Glu-glu! ¡Por fin algo fácil!
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Campamento nocturno con Luke inquieto. Environment: campamento. Emotion: inquietud.
 
-**Imagen:** Dipo mirando desde alto y Mega ayudando en el río.
+### Notas para libro de colorear
 
-## Página 11: El lago escondido
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Al otro lado encontraron un lago brillante. Olic voló sobre el agua. Mía miró el mapa. —La isla debe estar cerca.
+## Página 03 — Pesadilla de Luke
 
-**Imagen:** Lago brillante con Olic volando encima.
+### Texto narrativo
 
-## Página 12: La isla aparece
+Luke soñó con una isla, padres atrapados y una puerta enorme.
 
-**Texto:** De pronto, la niebla se abrió. Sobre una montaña enorme apareció una isla. No estaba en ningún mapa normal. Era la Isla Perdida de los Dinosaurios.
+### Descripción visual
 
-**Imagen:** Isla mágica emergiendo entre niebla.
+Sueño con isla y luces.
 
-## Página 13: Baruk, el oso guardián
+### Personajes presentes
 
-**Texto:** En la entrada había un oso gigante. Tenía un ojo herido y un collar antiguo de piedra. —No pueden pasar —dijo con voz grave.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Baruk bloqueando la entrada, imponente pero no terrorífico.
+### Entorno
 
-## Página 14: La advertencia
+sueño
 
-**Texto:** Trici dio un paso adelante. —Tenemos que salvar a nuestras familias. Baruk respondió: —Dentro hay trampas, protectores y caminos que engañan. Leo dijo: —Entonces iremos juntos.
+### Emoción principal
 
-**Imagen:** Trici y Leo hablando con Baruk.
+misterio
 
-## Página 15: La puerta del oso
+### Prompt visual base
 
-**Texto:** Baruk los miró en silencio. —La isla prueba el corazón, no solo la fuerza. Mía respondió: —Venimos por amor. No por tesoros. Baruk se apartó. —Entonces pasen.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Sueño con isla y luces. Environment: sueño. Emotion: misterio.
 
-**Imagen:** Baruk dejando pasar al equipo.
+### Notas para libro de colorear
 
-## Página 16: La primera trampa
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Dentro de la isla todo parecía tranquilo. Demasiado tranquilo. Rexxie dio un paso. CLICK. Todos se quedaron quietos.
+## Página 04 — Luke despierta
 
-**Imagen:** Rexxie pisando una piedra-trampa.
+### Texto narrativo
 
-## Página 17: El Martillo Dormilón
+—¡Despierten! —dijo Luke. Olic levantó la cabeza preocupado.
 
-**Texto:** Un martillo gigante bajó desde arriba. —¡A las esquinas! —gritó Mía. Leo saltó. Luna voló. Trici cubrió a Mía. Dipo empujó a Maxi con su cuello. BOOOM.
+### Descripción visual
 
-**Imagen:** Martillo gigante cayendo de forma caricaturesca.
+Luke despertando con Olic.
 
-## Página 18: Teo se queda atrás
+### Personajes presentes
 
-**Texto:** Teo intentó correr, pero resbaló. Se golpeó la pierna. No era grave, pero no podía correr rápido. Luna dijo: —Te quedas aquí conmigo y Dipo hasta que sea seguro.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
 
-**Imagen:** Teo sentado con Luna y Dipo cuidándolo.
+### Entorno
 
-## Página 19: El Laberinto de las Risas
+campamento
 
-**Texto:** Los demás entraron en un laberinto. Las paredes se movían. En el centro había una estatua muy seria. La estatua dijo: —Solo pasarán si me hacen reír.
+### Emoción principal
 
-**Imagen:** Laberinto con estatua seria.
+alarma suave
 
-## Página 20: Mega hace reír
+### Prompt visual base
 
-**Texto:** Rexxie intentó rugir fuerte. —¡Rawr! Pero le salió un rugido pequeñito. Mega hizo una burbuja enorme que explotó en su nariz. La estatua empezó a reír.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Luke despertando con Olic. Environment: campamento. Emotion: alarma suave.
 
-**Imagen:** Mega haciendo burbujas y estatua riendo.
+### Notas para libro de colorear
 
-## Página 21: Los Puentes Saltarines
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Después llegaron a un lago lleno de piedras flotantes. Las piedras subían y bajaban. Velo corrió primero. —¡Yo pruebo el camino! Mía iluminó las piedras correctas con sus brazaletes.
+## Página 05 — Padres atrapados
 
-**Imagen:** Lago con piedras flotantes.
+### Texto narrativo
 
-## Página 22: Todos cruzan
+Luke contó que vio a los padres de los Dinoamigos atrapados.
 
-**Texto:** Mega empujó piedras con sus aletas turbo. Olic llevó a Leo por el aire. Trici cruzó con cuidado. Rexxie agitó sus alas pequeñas. —¡Estoy volando! Y cayó sobre una piedra blandita.
+### Descripción visual
 
-**Imagen:** Cruce divertido del lago.
+Grupo escuchando a Luke.
 
-## Página 23: La Cámara de los Protectores
+### Personajes presentes
 
-**Texto:** Llegaron a una gran cámara de piedra. Allí despertaron los protectores de la isla. Eran guardianes de roca y musgo con ojos brillantes. —Nadie pasa —dijeron.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
 
-**Imagen:** Guardianes de piedra y musgo despertando.
+### Entorno
 
-## Página 24: ¿Por qué han venido?
+campamento
 
-**Texto:** El guardián principal preguntó: —¿Por qué buscan abrir esta puerta? Rexxie respondió: —Busco a mi papá. Trici dijo: —Busco a mi familia. Mega dijo: —Busco a quien hacía burbujas antes que yo.
+### Emoción principal
 
-**Imagen:** Dinoamigos respondiendo ante los guardianes.
+preocupación
 
-## Página 25: La batalla de piedra y musgo
+### Prompt visual base
 
-**Texto:** Los guardianes atacaron con ramas y redes de lianas. Trici bloqueó con su armadura. Velo corrió alrededor de ellos. Mega lanzó agua. Rexxie rugió. Olic voló sobre todos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo escuchando a Luke. Environment: campamento. Emotion: preocupación.
 
-**Imagen:** Batalla divertida y no violenta contra guardianes.
+### Notas para libro de colorear
 
-## Página 26: Rexxie se levanta
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Un guardián empujó a Rexxie. Rexxie cayó al suelo. Trici corrió hacia él. —¿Rexxie, estás bien? Rexxie se levantó despacio. —Sí. Hay que ganar esta pelea.
+## Página 06 — Mapa dibujado
 
-**Imagen:** Trici ayudando a Rexxie a levantarse.
+### Texto narrativo
 
-## Página 27: La palabra secreta
+Luke mostró un mapa con montañas, ríos, lagos y una isla escondida.
 
-**Texto:** Mía vio una puerta dorada. Tenía una frase escrita: “Lo que se busca con miedo, se encuentra con amor.” Leo preguntó: —¿Cuál es la palabra? Todos dijeron juntos: —Familia.
+### Descripción visual
 
-**Imagen:** Puerta dorada abriéndose con la palabra familia.
+Primer plano del mapa.
 
-## Página 28: Los padres atrapados
+### Personajes presentes
 
-**Texto:** La puerta se abrió. Dentro había dinosaurios adultos atrapados en círculos de luz. Rexxie gritó: —¡Papá! Un enorme T-Rex abrió los ojos. —Rexxie…
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
 
-**Imagen:** Los padres dinosaurios dentro de círculos luminosos.
+### Entorno
 
-## Página 29: Reencuentro familiar
+campamento
 
-**Texto:** Orin abrazó a Rexxie. Tricero abrazó a Trici. Brachio bajó su enorme cuello hacia Dipo. Crick hizo burbujas gigantes al ver a Mega. Todos estaban felices.
+### Emoción principal
 
-**Imagen:** Reencuentro emotivo de padres e hijos dinosaurios.
+decisión
 
-## Página 30: Falta el padre de Olic
+### Prompt visual base
 
-**Texto:** Pero Olic miró alrededor. Su padre no estaba. Luke preguntó: —¿Dónde está Aeron? Orin bajó la cabeza. —Los alienígenas se lo llevaron al espacio.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Primer plano del mapa. Environment: campamento. Emotion: decisión.
 
-**Imagen:** Olic triste, Luke a su lado, Orin explicando.
+### Notas para libro de colorear
 
-## Página 31: Rescate en el espacio
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Luke miró su visor azul. —Puedo encontrarlos. Chasqueó los dedos. SNAP. Una luz azul envolvió al grupo. Aparecieron en el espacio, frente a una nave alienígena.
+## Página 07 — Debemos ir
 
-**Imagen:** Grupo en burbuja espacial frente a nave alienígena.
+### Texto narrativo
 
-## Página 32: Aeron y la marca de Rexxie
+Rexxie dijo: —Si nuestras familias están allí, no podemos esperar.
 
-**Texto:** Encontraron a Aeron en una cápsula de luz. Olic corrió hacia su padre. Pero al escapar, una chispa alienígena tocó a Rexxie y le dejó una marca roja. Ya en casa, el médico dijo: —Para calmar esa marca, deberán buscar la planta secreta. Fin.
+### Descripción visual
 
-**Imagen:** Olic abrazando a Aeron, Rexxie mirando su marca roja, luz verde de próxima aventura.
+Equipo decidido.
 
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+campamento
+
+### Emoción principal
+
+valentía
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo decidido. Environment: campamento. Emotion: valentía.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 08 — Mochilas listas
+
+### Texto narrativo
+
+Prepararon linternas, cuerdas y comida. Maxi preguntó por pizza.
+
+### Descripción visual
+
+Preparativos divertidos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+campamento
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Preparativos divertidos. Environment: campamento. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 09 — Montes verdes
+
+### Texto narrativo
+
+Salieron al amanecer siguiendo el mapa de Luke.
+
+### Descripción visual
+
+Grupo caminando por montes.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+montes
+
+### Emoción principal
+
+aventura
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo caminando por montes. Environment: montes. Emotion: aventura.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 10 — Montañas y ríos
+
+### Texto narrativo
+
+Dipo miró lejos y Mega ayudó en el río.
+
+### Descripción visual
+
+Montaña y río en composición clara.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+montañas y río
+
+### Emoción principal
+
+trabajo en equipo
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Montaña y río en composición clara. Environment: montañas y río. Emotion: trabajo en equipo.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 11 — Lago escondido
+
+### Texto narrativo
+
+Encontraron un lago brillante. Mía dijo: —La isla debe estar cerca.
+
+### Descripción visual
+
+Lago con Olic volando.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+lago
+
+### Emoción principal
+
+expectativa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Lago con Olic volando. Environment: lago. Emotion: expectativa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 12 — La isla aparece
+
+### Texto narrativo
+
+La niebla se abrió y apareció la Isla Perdida de los Dinosaurios.
+
+### Descripción visual
+
+Isla mágica entre niebla.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+isla
+
+### Emoción principal
+
+maravilla
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Isla mágica entre niebla. Environment: isla. Emotion: maravilla. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 13 — Baruk guardián
+
+### Texto narrativo
+
+Baruk, un oso guardián grande pero noble, bloqueó la entrada.
+
+### Descripción visual
+
+Baruk imponente y amable.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+entrada de Baruk
+
+### Emoción principal
+
+respeto
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Baruk imponente y amable. Environment: entrada de Baruk. Emotion: respeto.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 14 — Advertencia
+
+### Texto narrativo
+
+Baruk avisó que la isla tenía retos. Leo respondió: —Iremos juntos.
+
+### Descripción visual
+
+Diálogo ante la entrada.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+entrada
+
+### Emoción principal
+
+decisión
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Diálogo ante la entrada. Environment: entrada. Emotion: decisión.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 15 — Prueba del corazón
+
+### Texto narrativo
+
+Mía dijo: —Venimos por amor, no por tesoros. Baruk se apartó.
+
+### Descripción visual
+
+Baruk dejando pasar.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+entrada
+
+### Emoción principal
+
+confianza
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Baruk dejando pasar. Environment: entrada. Emotion: confianza.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 16 — Primera trampa
+
+### Texto narrativo
+
+Rexxie pisó una piedra. CLICK. Todos se quedaron quietos.
+
+### Descripción visual
+
+Piedra-trampa activada.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+sendero de isla
+
+### Emoción principal
+
+suspenso
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Piedra-trampa activada. Environment: sendero de isla. Emotion: suspenso.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 17 — Martillo Dormilón
+
+### Texto narrativo
+
+Un martillo blando bajó con BOOOM. El equipo esquivó sin daño.
+
+### Descripción visual
+
+Trampa caricaturesca.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+sendero
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Trampa caricaturesca. Environment: sendero. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 18 — Descanso de Teo
+
+### Texto narrativo
+
+Teo resbaló y descansó con Luna y Dipo hasta sentirse mejor.
+
+### Descripción visual
+
+Cuidado suave de Teo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+isla
+
+### Emoción principal
+
+cuidado
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Cuidado suave de Teo. Environment: isla. Emotion: cuidado.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 19 — Laberinto de las Risas
+
+### Texto narrativo
+
+Una estatua seria pidió que la hicieran reír.
+
+### Descripción visual
+
+Laberinto con estatua.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+laberinto
+
+### Emoción principal
+
+reto divertido
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Laberinto con estatua. Environment: laberinto. Emotion: reto divertido.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 20 — Mega hace reír
+
+### Texto narrativo
+
+Mega explotó una burbuja en su nariz. La estatua se rio.
+
+### Descripción visual
+
+Mega y estatua riendo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+laberinto
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mega y estatua riendo. Environment: laberinto. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 21 — Puentes Saltarines
+
+### Texto narrativo
+
+Piedras flotantes subían y bajaban. Mía iluminó las correctas.
+
+### Descripción visual
+
+Lago con piedras flotantes.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+lago
+
+### Emoción principal
+
+concentración
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Lago con piedras flotantes. Environment: lago. Emotion: concentración.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 22 — Cruce en equipo
+
+### Texto narrativo
+
+Olic llevó a Leo, Trici cruzó firme y Rexxie probó sus alas.
+
+### Descripción visual
+
+Cruce dinámico.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+lago
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Cruce dinámico. Environment: lago. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 23 — Cámara de Protectores
+
+### Texto narrativo
+
+Guardianes de roca y musgo despertaron para probarlos.
+
+### Descripción visual
+
+Guardianes mágicos no malvados.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara
+
+### Emoción principal
+
+respeto
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Guardianes mágicos no malvados. Environment: cámara. Emotion: respeto. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 24 — ¿Por qué vienen?
+
+### Texto narrativo
+
+Cada Dinoamigo explicó que buscaba a su familia.
+
+### Descripción visual
+
+Dinoamigos hablando ante guardianes.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara
+
+### Emoción principal
+
+emoción
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Dinoamigos hablando ante guardianes. Environment: cámara. Emotion: emoción.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 25 — Reto de musgo
+
+### Texto narrativo
+
+Las lianas intentaron detenerlos, pero el equipo respondió sin hacer daño.
+
+### Descripción visual
+
+Acción con lianas blandas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara
+
+### Emoción principal
+
+valentía
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Acción con lianas blandas. Environment: cámara. Emotion: valentía.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 26 — Rexxie se levanta
+
+### Texto narrativo
+
+Rexxie cayó sobre musgo suave y se levantó. —Estoy bien.
+
+### Descripción visual
+
+Trici ayudando a Rexxie.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara
+
+### Emoción principal
+
+resiliencia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Trici ayudando a Rexxie. Environment: cámara. Emotion: resiliencia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 27 — Palabra secreta
+
+### Texto narrativo
+
+En la puerta dorada leyeron: lo que se busca con miedo se encuentra con amor. Dijeron: —Familia.
+
+### Descripción visual
+
+Puerta dorada abriéndose.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+puerta familiar
+
+### Emoción principal
+
+ternura
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Puerta dorada abriéndose. Environment: puerta familiar. Emotion: ternura.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 28 — Padres en luz
+
+### Texto narrativo
+
+Dentro estaban Orin, Tricero, Brachio y Crick en círculos luminosos.
+
+### Descripción visual
+
+Padres dinosaurios atrapados sin dolor.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara familiar
+
+### Emoción principal
+
+alivio
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Padres dinosaurios atrapados sin dolor. Environment: cámara familiar. Emotion: alivio.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 29 — Reencuentro
+
+### Texto narrativo
+
+Orin abrazó a Rexxie. Tricero, Brachio y Crick abrazaron a sus hijos.
+
+### Descripción visual
+
+Abrazo familiar grande.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Abrazo familiar grande. Environment: cámara. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 30 — Falta Aeron
+
+### Texto narrativo
+
+Olic miró alrededor. Aeron no estaba. Orin dijo que estaba en el espacio.
+
+### Descripción visual
+
+Olic triste con Luke.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+cámara
+
+### Emoción principal
+
+preocupación
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Olic triste con Luke. Environment: cámara. Emotion: preocupación.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 31 — Salto espacial
+
+### Texto narrativo
+
+Luke usó su visor y una burbuja azul llevó al equipo a una nave lejana.
+
+### Descripción visual
+
+Burbuja espacial frente a nave.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+espacio
+
+### Emoción principal
+
+asombro
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Burbuja espacial frente a nave. Environment: espacio. Emotion: asombro. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 32 — Aeron y la marca
+
+### Texto narrativo
+
+Rescataron a Aeron. Una chispa dejó en Rexxie una marca roja. Doctor Lumo dijo: —Busquen la Planta Secreta.
+
+### Descripción visual
+
+Aeron reunido con Olic y Rexxie mirando su marca.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Luke
+- Baruk
+- Orin
+- Tricero
+
+### Entorno
+
+regreso al campamento
+
+### Emoción principal
+
+gancho
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Aeron reunido con Olic y Rexxie mirando su marca. Environment: regreso al campamento. Emotion: gancho.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer

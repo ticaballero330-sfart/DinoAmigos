@@ -1,33 +1,21 @@
-# Libro 4: La Isla Perdida de los Dinosaurios
+# La Isla Perdida de los Dinosaurios
 
-**Título completo sugerido:** Los Dinoamigos 4: La Isla Perdida de los Dinosaurios.
+Libro 04 de Los Dinoamigos.
 
-**Subtítulo opcional:** Una aventura de mapas, trampas y familias perdidas.
+## Foco editorial
 
-## Logline
+familias perdidas, mapa, retos de isla, rescate familiar, Aeron y marca alienígena.
 
-Una noche en el campamento, Luke tiene una pesadilla sobre una isla perdida donde los padres de los Dinoamigos están atrapados. Al despertar, revela que dibujó un mapa de la isla. El equipo viaja atravesando montes, montañas, ríos y lagos hasta llegar a una isla custodiada por Baruk, un oso guardián con un ojo herido. Dentro deberán superar trampas, retos y guardianes encantados para rescatar a los padres de los dinosaurios. Pero descubrirán que el padre de Olic no está allí: los alienígenas se lo llevaron al espacio.
+## Archivos clave
 
-## Idea central
+- `story/synopsis.md`: resumen editorial.
+- `story/full_story.md`: cuento completo para lectura.
+- `story/page_by_page.md`: estructura obligatoria de 32 páginas.
+- `story/dialogues.md`: voces y frases útiles para animación.
+- `story/continuity_notes.md`: reglas del libro y puente de saga.
+- `prompts/`: prompts de estilo, personajes, escenas, colorear y portada.
+- `animation/`: outline, storyboard, shot list y notas de movimiento.
 
-El Libro 4 es una gran aventura de exploración y rescate familiar. La isla perdida prueba la valentía, la inteligencia y el trabajo en equipo del grupo. El final abre el camino al Libro 5 cuando Rexxie recibe una marca alienígena dolorosa y el equipo debe buscar la planta secreta.
+## Cierre
 
-## Temas
-
-- familia
-- valentía
-- prudencia
-- trabajo en equipo
-- cuidado
-- misterio mayor
-- puente hacia la planta secreta
-
-## Carpetas
-
-- `story/`: sinopsis, historia, páginas, diálogos, continuidad y retos.
-- `characters/`: personajes existentes, padres, Baruk y guardianes.
-- `scenes/`: escenas listas para ilustración y storyboard.
-- `prompts/`: prompts visuales y de colorear.
-- `images/`: referencias, borradores, finales y páginas de colorear.
-- `animation/`: adaptación a miniserie.
-
+Rexxie queda con una marca roja y deben buscar la Planta Secreta.

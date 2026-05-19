@@ -1,26 +1,21 @@
-# Libro 1: Los Dinoamigos nacen
+# Los Dinoamigos nacen
 
-**Subtítulo opcional:** Una aventura de huevos, burbujas y estrellas.
+Libro 01 de Los Dinoamigos.
 
-## Logline
+## Foco editorial
 
-Cinco dinosaurios bebés nacen de huevos mágicos en la prehistoria. Después de encontrarse y cruzar montes, montañas y ríos, sobreviven a un meteorito y son llevados al futuro por un platillo azul lleno de luces y burbujas. Allí, unos niños exploradores los encuentran, los adoptan y les enseñan la ciudad moderna.
+nacimiento, amistad, burbujas mágicas, llegada al futuro y adopción tierna.
 
-## Formato recomendado
+## Archivos clave
 
-- 32 páginas
-- 24 a 28 escenas coloreables
-- portada
-- presentación de personajes
-- página de actividades opcional
-- contraportada opcional
+- `story/synopsis.md`: resumen editorial.
+- `story/full_story.md`: cuento completo para lectura.
+- `story/page_by_page.md`: estructura obligatoria de 32 páginas.
+- `story/dialogues.md`: voces y frases útiles para animación.
+- `story/continuity_notes.md`: reglas del libro y puente de saga.
+- `prompts/`: prompts de estilo, personajes, escenas, colorear y portada.
+- `animation/`: outline, storyboard, shot list y notas de movimiento.
 
-## Carpetas
+## Cierre
 
-- `story/`: textos narrativos y distribución por página.
-- `characters/`: fichas individuales.
-- `scenes/`: escenas resumidas para ilustración y storyboard.
-- `prompts/`: prompts visuales globales, por personaje y por escena.
-- `images/`: referencias, borradores, finales y páginas de colorear.
-- `animation/`: adaptación a temporada/miniserie.
-
+Una luz azul misteriosa parpadea en el cielo.

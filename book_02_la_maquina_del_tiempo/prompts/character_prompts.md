@@ -2,45 +2,44 @@
 
 ## Rexxie
 
-T-Rex bebé llamado Rexxie, pequeño y valiente, cabeza grande, dientes redondeados, ojos tiernos, expresión preocupada pero decidida, junto a Leo, estilo infantil animado, apto para colorear.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Rexxie: Pequeño, ojos expresivos, dientes redondeados, alas de energía desde Libro 3, marca roja desde Libro 4.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Dipo
 
-Diplodocus bebé llamado Dipo, cuello largo, sonrisa dulce, cuerpo redondeado, mirada tranquila y observadora, ayudando a mirar huellas desde arriba, estilo infantil animado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Dipo: Cuello largo, cuerpo redondeado, sonrisa amable, patas fuertes desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Trici
 
-Triceratops bebé llamada Trici, tres cuernitos redondeados, fuerte y tierna, algo asustada pero valiente, protegida por un T-Rex gigante, estilo infantil animado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Trici: Tres cuernitos redondeados, escudo suave, armadura brillante desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Velo
 
-Velociraptor bebé llamado Velo, rápido y travieso, siguiendo huellas con emoción, postura de corredor, mirada pícara, estilo infantil animado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Velo: Pequeño, ágil, postura de corredor, garras veloces desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Mega
 
-Megalodón bebé llamado Mega dentro de un carrito-acuario transparente con ruedas y luces azules, burbujas alrededor, sonrisa nerviosa y divertida, estilo infantil animado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Mega: Tiburón prehistórico bebé con carrito-acuario transparente y aletas turbo desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Maxi
 
-Niño moreno llamado Maxi, energético y expresivo, sosteniendo linterna y empujando o cuidando el carrito-acuario de Mega, ropa de explorador urbano.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Maxi: Ropa cómoda de explorador, sonrisa grande.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Luna
 
-Niña rubia llamada Luna, dulce y observadora, sosteniendo mapa, mirando estrellas o calmando al grupo, ropa de campamento urbano.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Luna: Cabello claro, mirada calma, alas luminosas desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Teo
 
-Niño con pelo rizado llamado Teo, curioso e inquieto, mirando botones grandes de una máquina del tiempo, ropa de explorador, expresión de asombro.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Teo: Pelo rizado, mochila, patas veloces desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Mía
 
-Niña con rasgos asiáticos llamada Mía, inteligente y valiente, libreta o lupa, analizando huellas de Trici, expresión preocupada y decidida.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Mía: Ropa de exploradora ordenada, brazaletes de energía desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Leo
 
-Niño pelirrojo o con pecas llamado Leo, noble y valiente, con linterna, caminando junto a Rexxie aunque tiene miedo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Leo: Pecas, expresión expresiva, botas de salto desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Gran T-Rex protector
 
-T-Rex adulto enorme, serio pero no malvado, postura protectora delante de Trici, mirada fuerte, cicatriz suave o marca en la cara, cuerpo poderoso, estilo infantil animado, imponente pero no terrorífico.
-
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Gran T-Rex protector: Gran T-Rex protector. Consistent children's book design, friendly expression, readable silhouette.

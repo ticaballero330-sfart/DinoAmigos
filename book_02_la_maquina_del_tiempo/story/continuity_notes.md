@@ -1,18 +1,23 @@
 # Notas de continuidad
 
-## Viene del Libro 1
+## Nombres normalizados
 
-- Los dinosaurios ya viven como mascotas pequeñas en el presente.
-- Mega usa su carrito-acuario transparente con ruedas y luces azules.
-- Los niños ya adoptaron a los Dinoamigos.
-- El campamento urbano es el lugar de reunión principal.
-- La luz azul misteriosa del Libro 1 sigue apareciendo como señal de algo mayor.
+Usar Rexxie, Dipo, Trici, Velo, Mega y Olic. Usar Maxi, Luna, Teo, Mía, Leo y Luke. No usar Rexy, Trexy, Olick ni variantes.
 
-## Puente hacia Libro 3
+## Estado del libro
 
-El deseo de la estrella fugaz al final del Libro 2 abre el camino a más aventuras. La luz azul que parpadea de nuevo prepara el regreso del platillo azul y el descubrimiento de su secreto.
+- Tema central: búsqueda, huellas, primer viaje temporal y rescate silencioso.
+- Gancho final: Una estrella fugaz concede el deseo de más aventuras y la luz azul vuelve a parpadear..
+- Objetos principales: Máquina del Tiempo, huellas de Trici, linternas, mapa.
+- Lugares principales: campamento urbano, túnel de raíces, Máquina del Tiempo, era de los dinosaurios.
 
-## Orin
+## Reglas visuales
 
-El gran T-Rex protector puede ser Orin en el futuro, pero en este libro no se revela su identidad. Debe quedar como una figura misteriosa, poderosa y protectora.
+Los dinosaurios son tiernos, expresivos y reconocibles. Los peligros son suaves, mágicos o caricaturescos. Las escenas deben poder convertirse en imagen a color y en página de colorear.
 
+## Riesgos evitados
+
+- No violencia gráfica.
+- No terror realista.
+- No explicaciones científicas complejas.
+- No alienígenas aterradores.

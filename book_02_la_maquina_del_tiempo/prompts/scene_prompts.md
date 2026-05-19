@@ -1,90 +1,129 @@
-# Prompts de escenas
+# Prompts por escena
 
-## 01 Portada
+## Página 01 — Portada
 
-Niños exploradores y Dinoamigos frente a una máquina del tiempo luminosa bajo raíces gigantes, huellas de Trici en el suelo, estrellas arriba, Trici como silueta dentro del portal, estilo infantil animado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo frente a una máquina luminosa con huellas de Trici. Environment: Máquina del Tiempo. Emotion: misterio.
 
-## 02 Campamento nocturno
+## Página 02 — Noche en el campamento
 
-Campamento urbano de noche con tiendas, linternas apagadas, niños y dinosaurios bebés durmiendo tranquilos bajo estrellas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Campamento nocturno con tiendas y linternas apagadas. Environment: campamento urbano. Emotion: calma.
 
-## 03 Trici desaparece
+## Página 03 — Todos duermen
 
-Mía descubre la manta vacía de Trici al amanecer en el campamento, expresión alarmada, amigos despertando.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Escena tierna de sueño grupal. Environment: campamento. Emotion: ternura.
 
-## 04 Huellas de Trici
+## Página 04 — Amanece
 
-Primer plano de huellas pequeñas de Triceratops en tierra húmeda, niños y dinosaurios observando alrededor.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Primeras luces del día en el campamento. Environment: campamento. Emotion: inquietud.
 
-## 05 Equipo explorador
+## Página 05 — Trici desaparece
 
-Maxi, Luna, Teo, Mía y Leo preparan linterna, mapa, cuerda y libreta para buscar a Trici, con Dinoamigos atentos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mía señalando el lugar vacío. Environment: campamento. Emotion: preocupación.
 
-## 06 Sendero escondido
+## Página 06 — Todos se preocupan
 
-Grupo siguiendo huellas por un bosque cercano al campamento, Velo corre delante, Dipo mira desde alto, Mega avanza en carrito-acuario.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo buscando alrededor. Environment: campamento. Emotion: urgencia.
 
-## 07 Túnel de raíces
+## Página 07 — Las huellas
 
-Entrada a un túnel bajo raíces gigantes con pequeñas luces azules en las paredes, huellas de Trici entrando.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Huellas pequeñas en tierra húmeda. Environment: sendero. Emotion: curiosidad.
 
-## 08 Puerta secreta
+## Página 08 — Equipo explorador
 
-Máquina del tiempo con puerta circular, espiral azul, relojes, botones grandes y tubos con burbujas, Teo sorprendido.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Niños preparándose. Environment: campamento. Emotion: decisión.
 
-## 09 Huellas al portal
+## Página 09 — Siguiendo el rastro
 
-Leo ilumina huellas de Trici entrando directamente en la máquina del tiempo, Rexxie traga saliva.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo siguiendo huellas. Environment: bosque. Emotion: concentración.
 
-## 10 Viaje temporal
+## Página 10 — Túnel de raíces
 
-Niños y Dinoamigos flotando en un túnel del tiempo con relojes, estrellas, burbujas, luces azules y doradas, Mega dando vueltas en su carrito-acuario.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Entrada al túnel brillante. Environment: túnel de raíces. Emotion: misterio.
 
-## 11 Llegada al pasado
+## Página 11 — Puerta secreta
 
-Grupo cayendo sobre hojas gigantes en una selva prehistórica, Rexxie sacando la cabeza primero.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Máquina del Tiempo cerrada. Environment: subsuelo. Emotion: asombro.
 
-## 12 Mundo antiguo
+## Página 12 — La máquina despierta
 
-Paisaje de era de dinosaurios con árboles enormes, montañas gigantes, volcanes lejanos, flores grandes y huellas enormes.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Teo sorprendido ante botones. Environment: Máquina del Tiempo. Emotion: humor.
 
-## 13 Nuevas huellas
+## Página 13 — Huellas al portal
 
-Mía y Velo analizan huellas pequeñas de Trici junto a huellas grandes misteriosas, grupo en silencio.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Huellas entrando en luz azul. Environment: portal. Emotion: valentía.
 
-## 14 Rugido
+## Página 14 — Entrando juntos
 
-Hojas moviéndose por un rugido enorme, sombras grandes entre árboles, Rexxie escondido detrás de Leo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo entrando en la máquina. Environment: portal. Emotion: unión.
 
-## 15 Gran T-Rex
+## Página 15 — Viaje temporal
 
-T-Rex adulto enorme aparece entre árboles, serio e imponente pero no terrorífico, niños y Dinoamigos escondidos tras rocas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Túnel de tiempo dinámico. Environment: túnel temporal. Emotion: diversión.
 
-## 16 Trici protegida
+## Página 16 — Caída en el pasado
 
-Trici aparece detrás del gran T-Rex protector, Mía la ve entre ramas y susurra su nombre.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo en selva prehistórica. Environment: era de los dinosaurios. Emotion: sorpresa.
 
-## 17 El protector
+## Página 17 — Mundo antiguo
 
-Gran T-Rex se coloca delante de Trici y ruge para alejar a otro dinosaurio salvaje, escena protectora y amable.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Paisaje prehistórico claro. Environment: selva antigua. Emotion: maravilla.
 
-## 18 Espera al atardecer
+## Página 18 — Más huellas
 
-Niños y Dinoamigos escondidos entre plantas gigantes esperando la noche, Dipo vigilando desde arriba.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mía y Velo analizando rastros. Environment: sendero antiguo. Emotion: tensión suave.
 
-## 19 Rescate nocturno
+## Página 19 — El rugido
 
-Noche prehistórica con estrellas enormes, T-Rex dormido, grupo caminando despacito hacia Trici, Mega intentando no hacer burbujas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Sombras grandes entre árboles. Environment: selva. Emotion: miedo suave.
 
-## 20 Trici vuelve
+## Página 20 — Gran T-Rex
 
-Mía abraza a Trici, Rexxie agradece al T-Rex dormido al fondo, escena tierna.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. T-Rex adulto imponente y protector. Environment: claro. Emotion: respeto.
 
-## 21 Regreso al portal
+## Página 21 — Trici está allí
 
-Grupo corriendo hacia el portal azul entre árboles, Trici ya con ellos, Velo guía el camino.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trici protegida detrás del T-Rex. Environment: claro. Emotion: alivio.
 
-## 22 Estrella fugaz
+## Página 22 — El protector
 
-Niños y Dinoamigos unidos en el campamento mirando una estrella fugaz, luz azul misteriosa parpadeando al fondo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. T-Rex alejando un peligro sin daño. Environment: claro. Emotion: protección.
 
+## Página 23 — No es enemigo
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie observando con admiración. Environment: rocas. Emotion: comprensión.
+
+## Página 24 — Esperar la noche
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo escondido esperando. Environment: atardecer. Emotion: prudencia.
+
+## Página 25 — Noche prehistórica
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. T-Rex dormido bajo estrellas. Environment: claro. Emotion: calma.
+
+## Página 26 — Rescate silencioso
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rescate cómico en silencio. Environment: claro. Emotion: suspenso divertido.
+
+## Página 27 — Trici vuelve
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Abrazo con T-Rex dormido al fondo. Environment: claro. Emotion: ternura.
+
+## Página 28 — Al portal
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo regresando al portal. Environment: selva. Emotion: urgencia.
+
+## Página 29 — Regreso temporal
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Viaje temporal con Trici recuperada. Environment: túnel temporal. Emotion: emoción.
+
+## Página 30 — De vuelta
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Regreso feliz al campamento. Environment: campamento. Emotion: alegría.
+
+## Página 31 — Estrella fugaz
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo mirando estrella fugaz. Environment: campamento. Emotion: esperanza.
+
+## Página 32 — Más aventuras
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo unido con luz azul lejana. Environment: cielo nocturno. Emotion: gancho.

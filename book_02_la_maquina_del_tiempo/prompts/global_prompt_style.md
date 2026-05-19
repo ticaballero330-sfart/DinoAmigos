@@ -1,22 +1,17 @@
-# Prompt global de estilo
+# Estilo global de prompts
 
-Ilustración infantil animada premium para cuento ilustrado y libro de colorear, aventura amable de búsqueda y rescate, niños exploradores y dinosaurios bebés tiernos, ojos grandes, formas redondeadas, líneas claras, expresiones fáciles de leer, misterio luminoso, máquina del tiempo con luces azules, burbujas, estrellas, relojes y espirales, tono emocionante pero seguro para niños de 5 a 10 años.
+## Prompt maestro
 
-## Versión color
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference.
 
-Colores alegres y mágicos, luz azul para la tecnología temporal, dorados suaves para estrellas, verdes vivos para selvas y campamento con luces cálidas.
+## Escenas mágicas
 
-## Versión coloreable
+Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
 
-Dibujo lineal limpio en blanco y negro, contornos gruesos, espacios amplios para colorear, pocos detalles diminutos, personajes muy identificables, maquinaria con formas grandes y reconocibles.
+## Escenas modernas
 
-## Evitar
+Modern city park, children explorer camp, tents, flashlights, backpacks, friendly urban environment, buses, crosswalks, fountains, buildings, ice cream shop, joyful children walking small pet-sized dinosaurs, clean bold outlines, children's coloring book style.
 
-- miedo excesivo
-- T-Rex adulto terrorífico
-- violencia realista
-- heridas gráficas
-- oscuridad pesada
-- tecnología demasiado compleja
-- fondos saturados de detalles pequeños
+## Libro de colorear
 
+Black and white coloring book page for children ages 5 to 10, clean bold outlines, simple readable shapes, large expressive characters, cute baby dinosaurs, friendly children explorers, magical adventure scene, no shading overload, no tiny excessive details, clear background spaces for coloring.

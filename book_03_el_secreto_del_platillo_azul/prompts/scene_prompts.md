@@ -1,114 +1,129 @@
-# Prompts de escenas
+# Prompts por escena
 
-## 01 Portada
+## Página 01 — Portada
 
-Rexxie, Leo, los niños y Dinoamigos mirando un platillo azul enorme en el cielo, Olic vuela cerca con Luke encima, cofre dorado como detalle pequeño, estrellas y luces mágicas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie, Leo, Luke y Olic frente al Platillo Azul. Environment: ruinas y cielo. Emotion: asombro.
 
-## 02 Campamento nocturno
+## Página 02 — Campamento tranquilo
 
-Campamento de noche con tiendas moviéndose suavemente, niños y dinosaurios bebés durmiendo, ambiente tranquilo bajo estrellas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Campamento nocturno. Environment: campamento. Emotion: calma.
 
-## 03 Rexxie ve la luz
+## Página 03 — Rexxie despierta
 
-Rexxie despierta en el campamento y mira una luz azul moviéndose por encima de las tiendas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie mirando por encima de la tienda. Environment: campamento. Emotion: curiosidad.
 
-## 04 Platillo azul
+## Página 04 — Vuelve el platillo
 
-Platillo azul redondo, brillante y silencioso en el cielo nocturno, luces suaves y rastro azul.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Platillo redondo y brillante. Environment: cielo. Emotion: misterio.
 
-## 05 Despertar del equipo
+## Página 05 — Despierten
 
-Rexxie despierta a Leo, niños y Dinoamigos, todos salen de las tiendas sorprendidos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie despertando al grupo. Environment: campamento. Emotion: urgencia.
 
-## 06 Siguiendo la luz
+## Página 06 — Todos miran
 
-Grupo caminando de noche con linternas, mapas, mochilas y Mega en carrito-acuario, siguiendo un rastro azul hacia montañas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo mirando al cielo. Environment: campamento. Emotion: asombro.
 
-## 07 Ruinas antiguas
+## Página 07 — Rastro azul
 
-Ruinas antiguas con piedras viejas, símbolos azules, círculo en el suelo y luces debajo de hojas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rastro luminoso. Environment: cielo. Emotion: expectativa.
 
-## 08 Alas misteriosas
+## Página 08 — Camino nocturno
 
-Alas azules mágicas flotando en el centro de un círculo de piedra, Luna maravillada y Teo curioso.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo avanzando de noche. Environment: sendero. Emotion: aventura.
 
-## 09 Olic aparece
+## Página 09 — Ruinas antiguas
 
-Silueta de dinosaurio volador cruzando la luna, luego Olic aterriza con Luke sobre su espalda.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Ruinas circulares. Environment: ruinas. Emotion: misterio.
 
-## 10 Luke y Olic
+## Página 10 — Alas de luz
 
-Luke presenta a Olic al grupo, Olic abre sus alas con marcas azules, Velo salta emocionado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Alas misteriosas brillando. Environment: ruinas. Emotion: maravilla.
 
-## 11 La nave desciende
+## Página 11 — Sombra voladora
 
-Platillo azul enorme aparece sobre las ruinas, luces girando, puertas brillantes y rampa azul bajando al suelo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Silueta de Olic. Environment: cielo. Emotion: sorpresa.
 
-## 12 Entrada a la nave
+## Página 12 — Aparece Olic
 
-Trici lidera un paso adelante, Leo toma la patita de Rexxie y todos suben por la rampa azul.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Olic y Luke aterrizando. Environment: ruinas. Emotion: presentación.
 
-## 13 Interior del platillo
+## Página 13 — Nuevo amigo
 
-Pasillos redondos, luces azules, botones grandes, pantallas con símbolos y tubos con burbujas, Teo mirando un botón.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Luke saludando al grupo. Environment: ruinas. Emotion: alegría.
 
-## 14 Alienígenas traviesos
+## Página 14 — Es una nave
 
-Alienígenas pequeños con cascos transparentes aparecen por una puerta, gritando y señalando al grupo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Luke señalando el cielo. Environment: ruinas. Emotion: sorpresa.
 
-## 15 Redes de luz
+## Página 15 — Rampa azul
 
-Alienígenas lanzan redes de luz, Velo esquiva, Dipo levanta a Luna, Mega lanza chorro de agua.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Platillo sobre las ruinas. Environment: ruinas. Emotion: asombro.
 
-## 16 Batalla divertida
+## Página 16 — Entramos juntos
 
-Trici empuja un robot pequeño, Rexxie ruge, Olic vuela, Luke guía al grupo y alienígenas corren de forma cómica.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo subiendo la rampa. Environment: rampa. Emotion: valentía.
 
-## 17 Puerta escondida
+## Página 17 — Interior redondo
 
-Mía toca tres símbolos azules en una pared de la nave y abre una puerta secreta.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Interior amigable de nave. Environment: nave. Emotion: humor.
 
-## 18 Cofre dorado
+## Página 18 — Alienígenas traviesos
 
-Cofre dorado brillante en sala circular con símbolos de alas, garras, aletas, patas, estrellas y burbujas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Alienígenas cómicos con cascos. Environment: nave. Emotion: diversión.
 
-## 19 Llave del equipo
+## Página 19 — Redes de luz
 
-Niños, Dinoamigos y Olic ponen manos, patas, aletas, garras y ala sobre el cofre dorado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Acción con redes luminosas. Environment: pasillo. Emotion: juego.
 
-## 20 Poderes mágicos
+## Página 20 — Pelea cómica
 
-Cofre abierto con lluvia de luces doradas y azules rodeando a todos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Batalla caricaturesca. Environment: nave. Emotion: humor.
 
-## 21 Dinoamigos con poderes
+## Página 21 — Puerta secreta
 
-Rexxie con alas rojas, Dipo con patas fuertes, Trici con armadura, Velo con garras veloces y Mega con aletas turbo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mía abriendo puerta. Environment: pasillo. Emotion: inteligencia.
 
-## 22 Niños con poderes
+## Página 22 — Cofre Dorado
 
-Maxi con cola acuática, Luna con alas luminosas, Teo con patas veloces, Mía con brazaletes, Leo con botas de salto y Luke con visor azul.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Cofre con dibujos de alas y estrellas. Environment: sala secreta. Emotion: maravilla.
 
-## 23 Poderes en acción
+## Página 23 — Llave del equipo
 
-Equipo usando poderes de forma divertida mientras alienígenas quedan sorprendidos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Todos tocando el cofre. Environment: sala secreta. Emotion: unión.
 
-## 24 Alienígenas se rinden
+## Página 24 — Lluvia de luces
 
-Alienígenas escondidos detrás de robot pequeño levantan banderita blanca, escena graciosa.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Luces rodeando al equipo. Environment: sala secreta. Emotion: magia.
 
-## 25 Salida de la nave
+## Página 25 — Poderes Dinoamigos
 
-Nave parpadeando, luces apagándose, Olic abre alas y todos corren hacia la rampa.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Transformación de Dinoamigos. Environment: sala. Emotion: emoción.
 
-## 26 Vuelo sobre la ciudad
+## Página 26 — Poderes niños
 
-Olic lleva a Luke, Luna planea, Rexxie agita sus alas, Leo salta y Mega viaja feliz en su carrito-acuario sobre ciudad nocturna.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Niños con poderes. Environment: sala. Emotion: alegría.
 
-## 27 Nuevos amigos
+## Página 27 — Prueba de poderes
 
-Luke y Olic se integran al equipo en el campamento, todos sonríen.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo probando poderes. Environment: nave. Emotion: diversión.
 
-## 28 Final estelar
+## Página 28 — Alienígenas se rinden
 
-Grupo unido mirando las estrellas, pequeña estrella azul lejana, sensación de universo abierto y nuevas aventuras.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rendición cómica. Environment: nave. Emotion: humor.
 
+## Página 29 — La nave parpadea
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo saliendo. Environment: rampa. Emotion: urgencia.
+
+## Página 30 — Vuelo sobre la ciudad
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Regreso nocturno a la ciudad. Environment: cielo urbano. Emotion: alegría.
+
+## Página 31 — Luke se une
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo integrado en campamento. Environment: campamento. Emotion: amistad.
+
+## Página 32 — No estamos solos
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo unido bajo cielo estrellado. Environment: campamento. Emotion: gancho.

@@ -1,32 +1,21 @@
-# Libro 5: En busca de la Planta Secreta
+# En busca de la Planta Secreta
 
-**Título completo sugerido:** Los Dinoamigos 5: En busca de la Planta Secreta.
+Libro 05 de Los Dinoamigos.
 
-**Subtítulo opcional:** Una aventura de mapas, retos y una marca misteriosa.
+## Foco editorial
 
-## Logline
+sanación, retos, inteligencia, amistad y aceptación de la marca.
 
-Al despertar en el campamento, Trici recuerda que deben buscar la Planta Secreta para ayudar a Rexxie. El equipo visita al Doctor Lumo, quien les entrega un mapa escondido en un sótano lleno de cajas viejas. Para llegar hasta la planta deberán atravesar ríos, montañas y una ruta llena de retos mágicos: guardianes dinosaurio, una red-trampa, una pared dorada, acertijos, pruebas de miedo, preguntas de agua y una batalla final contra T-Rex robots. Al final descubren que la Planta Secreta no es solo una planta, sino un jardín vivo cuidado por Doctor Florio, capaz de calmar la marca de Rexxie.
+## Archivos clave
 
-## Idea central
+- `story/synopsis.md`: resumen editorial.
+- `story/full_story.md`: cuento completo para lectura.
+- `story/page_by_page.md`: estructura obligatoria de 32 páginas.
+- `story/dialogues.md`: voces y frases útiles para animación.
+- `story/continuity_notes.md`: reglas del libro y puente de saga.
+- `prompts/`: prompts de estilo, personajes, escenas, colorear y portada.
+- `animation/`: outline, storyboard, shot list y notas de movimiento.
 
-El Libro 5 es una aventura de sanación, ingenio y valentía. Rexxie conserva la marca alienígena, pero gracias a sus amigos aprende que no tiene que ser fuerte todo el tiempo y que algunas marcas cuentan una historia.
+## Cierre
 
-## Temas
-
-- cuidar a un amigo
-- valentía
-- inteligencia
-- trabajo en equipo
-- sanación
-- aceptación
-
-## Carpetas
-
-- `story/`: sinopsis, historia, páginas, diálogos, continuidad y retos.
-- `characters/`: personajes principales, secundarios, guardianes y Doctor Florio.
-- `scenes/`: escenas para ilustración y storyboard.
-- `prompts/`: prompts visuales y de colorear.
-- `images/`: referencias, borradores, finales y páginas de colorear.
-- `animation/`: adaptación a miniserie.
-
+La marca de Rexxie deja de doler y queda como símbolo de valentía.

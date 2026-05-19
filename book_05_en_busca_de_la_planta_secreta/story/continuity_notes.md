@@ -1,21 +1,23 @@
 # Notas de continuidad
 
-## Viene del Libro 4
+## Nombres normalizados
 
-- Rexxie tiene una marca alienígena roja que le duele.
-- El médico espacial dijo que debían buscar la Planta Secreta.
-- Olic fue rescatado junto a su padre Aeron.
-- Orin, padre de Rexxie, ya forma parte del círculo familiar.
+Usar Rexxie, Dipo, Trici, Velo, Mega y Olic. Usar Maxi, Luna, Teo, Mía, Leo y Luke. No usar Rexy, Trexy, Olick ni variantes.
 
-## Revelación del Libro 5
+## Estado del libro
 
-La Planta Secreta no es una sola planta. Es un jardín vivo cuidado por Doctor Florio, un médico de plantas mágicas.
+- Tema central: sanación, retos, inteligencia, amistad y aceptación de la marca.
+- Gancho final: La marca de Rexxie deja de doler y queda como símbolo de valentía..
+- Objetos principales: mapa de la Planta Secreta, marca alienígena de Rexxie, hoja dorada, T-Rex robots.
+- Lugares principales: laboratorio del Doctor Lumo, sótano secreto, puerta de Rugo, Pared Dorada, sala de Sombrín, Jardín de la Planta Secreta.
 
-## Estado final
+## Reglas visuales
 
-La marca de Rexxie no desaparece, pero deja de doler. Se convierte en un símbolo de valentía y memoria.
+Los dinosaurios son tiernos, expresivos y reconocibles. Los peligros son suaves, mágicos o caricaturescos. Las escenas deben poder convertirse en imagen a color y en página de colorear.
 
-## Puente hacia Libro 6
+## Riesgos evitados
 
-La marca puede brillar suavemente una noche y señalar hacia un planeta verde, origen de algunas plantas mágicas del jardín.
-
+- No violencia gráfica.
+- No terror realista.
+- No explicaciones científicas complejas.
+- No alienígenas aterradores.

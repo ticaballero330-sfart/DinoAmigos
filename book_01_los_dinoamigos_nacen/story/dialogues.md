@@ -1,44 +1,42 @@
-# Diálogos clave
+# Diálogos
 
-## Rexxie
+    Diálogos cortos, repetibles y útiles para cuento ilustrado o animación.
 
-- —¡Rawr!
-- —¿Yo hice ese ruidito?
-- —Soy Rexxie.
-- —Estoy flotando.
-- —Huelo comida.
+    Rexxie:
+    —¡Rawr! Espera... ¿eso sonó pequeño?
 
-## Dipo
+    Mega:
+    —¡Glu-glu! ¿Eso se come?
 
-- —Hola, mundo.
+    Teo:
+    —Prometo no tocar nada... casi nada.
+
+    Mía:
+    —Esperen. Esto no se rompe. Se piensa.
+
+    Luna:
+    —Respiremos. Estamos juntos.
+
+    Leo:
+    —Tengo miedo, pero voy igual.
+
+    Maxi:
+    —¿Alguien trajo merienda?
+
+    Luke:
+    —Mi visor dice que esto no es normal.
+
+    Olic:
+    —Skreee.
+
+
+## Frases específicas del libro
+
+- —¡Rawr! Sonó tan pequeño que él mismo se sorprendió.
 - —Tal vez allí encuentre amigos.
-- —No me gusta esa piedra.
-- —Hace cosquillas.
-
-## Trici
-
-- —Yo voy a cuidar de todos.
+- —dijo Trici. Luego tropezó con su cola y se rio.
+- —¡Soy rápido!
+- —¡Glu-glu, hola! Los peces se escondieron, pero él solo quería jugar.
 - —Podemos subir juntos.
-- —Yo voy primero.
-
-## Velo
-
-- —¡Soy rápido! ¡Soy Velo!
-- —Tengo que encontrar a alguien para jugar.
-- —¿Eso es una piedra gigante?
-
-## Mega
-
-- —¡Glu-glu, hola!
 - —¡Glu-glu! ¡Yo ayudo!
-- —¡Tengo vehículo nuevo!
-
-## Niños
-
-- Mía: —Miren esto.
-- Leo: —Yo ilumino.
-- Maxi: —¿Eso es un dinosaurio... bebé?
-- Luna: —Creo que están solos.
-- Teo: —Entonces tenemos nuevos amigos.
-- Todos: —Nunca estarán solos.
-
+- —dijo Dipo.

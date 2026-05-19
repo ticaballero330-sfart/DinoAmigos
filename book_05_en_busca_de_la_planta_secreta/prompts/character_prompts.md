@@ -1,38 +1,81 @@
 # Prompts de personajes
 
-## Rexxie con marca
+## Rexxie
 
-T-Rex bebé llamado Rexxie, ojos tiernos, dientes redondeados, alas pequeñas de energía, marca alienígena roja luminosa en el brazo, expresión valiente y sensible, no herida gráfica.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Rexxie: Pequeño, ojos expresivos, dientes redondeados, alas de energía desde Libro 3, marca roja desde Libro 4.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Dipo
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Dipo: Cuello largo, cuerpo redondeado, sonrisa amable, patas fuertes desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Trici
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Trici: Tres cuernitos redondeados, escudo suave, armadura brillante desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Velo
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Velo: Pequeño, ágil, postura de corredor, garras veloces desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Mega
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Mega: Tiburón prehistórico bebé con carrito-acuario transparente y aletas turbo desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Olic
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Olic: Alas grandes, azul verdoso, marcas luminosas, ojos dorados.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Maxi
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Maxi: Ropa cómoda de explorador, sonrisa grande.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Luna
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Luna: Cabello claro, mirada calma, alas luminosas desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Teo
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Teo: Pelo rizado, mochila, patas veloces desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Mía
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Mía: Ropa de exploradora ordenada, brazaletes de energía desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Leo
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Leo: Pecas, expresión expresiva, botas de salto desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Luke
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Luke: Ropa de explorador aéreo, visor espacial azul desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Doctor Lumo
 
-Médico espacial amable llamado Doctor Lumo, bata con luces, gafas redondas, maletín brillante, laboratorio luminoso con mapas estelares y tubos.
-
-## Nubo
-
-Dinosaurio raro y simpático llamado Nubo, mezcla de reptil, ave y lagarto de fantasía, ojos verdes, cola larga, placas brillantes, expresión amable.
-
-## Rugo
-
-Dinosaurio guardián grande llamado Rugo, rodeado de guardianes dinosaurio, expresión exagerada, le gustan los sustos, no terrorífico.
-
-## Dorán
-
-Rostro gracioso en una pared dorada gigante, guardián de contraseñas, expresión seria pero divertida.
-
-## Sombrín
-
-Guardián suave de sombras violetas llamado Sombrín, ojos amables, forma redondeada, misterioso pero no aterrador.
-
-## Flotón
-
-Guardián acuático redondo llamado Flotón, mezcla de rana, pez y nube, dentro de burbuja gigante, muy bromista.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Doctor Lumo: Bata clara, luces azules, herramientas amables.. Consistent children's book design, friendly expression, readable silhouette.
 
 ## Doctor Florio
 
-Médico de plantas mágicas llamado Doctor Florio, bata de hojas, gafas de cristal verde, rodeado de plantas doradas, flores azules y raíces luminosas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Doctor Florio: Ropa verde, hoja dorada, sonrisa serena.. Consistent children's book design, friendly expression, readable silhouette.
 
-## T-Rex robots
+## Nubo
 
-Robots con forma de T-Rex, ojos de luz, piezas redondas, tornillos grandes, chispas cómicas, humo en forma de nubes, no violentos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Nubo: Formas suaves, nube luminosa cerca.. Consistent children's book design, friendly expression, readable silhouette.
 
+## Rugo
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Rugo: Dinosaurio grande con expresión teatral.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Dorán
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Dorán: Rostro grabado en pared dorada.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Sombrín
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Sombrín: Sombra violeta suave, ojos amables.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Flotón
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Flotón: Personaje redondo dentro de burbuja.. Consistent children's book design, friendly expression, readable silhouette.
+
+## Orin
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Orin: T-Rex adulto amable, mirada cálida.. Consistent children's book design, friendly expression, readable silhouette.

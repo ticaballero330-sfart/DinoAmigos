@@ -1,86 +1,129 @@
-# Prompts de escenas
+# Prompts por escena
 
-## 01 Portada
+## Página 01 — Portada
 
-Cinco huevos gigantes con manchas brillan en un valle prehistórico, montañas redondeadas, volcanes suaves, estrellas, selva alrededor y una pequeña luz azul en el cielo, ilustración infantil animada.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Cinco huevos brillan en un valle prehistórico con montañas suaves y una luz azul lejana. Environment: huevos mágicos. Emotion: asombro.
 
-## 02 Mundo antiguo
+## Página 02 — El mundo antiguo
 
-Valle prehistórico amplio con árboles enormes, helechos, río brillante, volcanes lejanos y nubes suaves, sensación mágica y tranquila.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Valle prehistórico amplio con helechos, río y volcanes lejanos. Environment: valle prehistórico. Emotion: maravilla.
 
-## 03 Huevos misteriosos
+## Página 03 — Los huevos misteriosos
 
-Composición dividida con cinco ambientes: valle, pradera, rocas, selva y océano; en cada ambiente hay un huevo misterioso brillando suavemente.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Composición con huevos en valle, pradera, rocas, selva y océano. Environment: cinco lugares. Emotion: misterio suave.
 
-## 04 Rexxie nace
+## Página 04 — Nace Rexxie
 
-Rexxie, T-Rex bebé, rompe su huevo en un valle y asoma la cabeza con dientes redondeados y cara graciosa.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie rompiendo el cascarón con dientes redondeados. Environment: valle. Emotion: ternura.
 
-## 05 Dipo nace
+## Página 05 — El rugido pequeño
 
-Dipo, Diplodocus bebé, sale de su huevo en una pradera llena de flores y hojas gigantes, sonriendo dulcemente.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Rexxie intentando parecer feroz mientras aves lo miran. Environment: valle. Emotion: humor.
 
-## 06 Trici nace
+## Página 06 — Nace Dipo
 
-Trici, Triceratops bebé, rompe su cascarón con cuernitos redondeados entre rocas y flores, con pedacitos de huevo volando.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Dipo saliendo del huevo entre flores grandes. Environment: pradera. Emotion: calma.
 
-## 07 Velo nace
+## Página 07 — Dipo mira lejos
 
-Velo, Velociraptor bebé, sale corriendo de su huevo en la selva, entre hojas grandes y raíces.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Dipo mirando hacia montañas lejanas. Environment: pradera. Emotion: esperanza.
 
-## 08 Mega nace
+## Página 08 — Nace Trici
 
-Mega, Megalodón bebé, nace de un huevo bajo el mar dentro de una burbuja gigante, rodeado de peces y burbujas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trici saliendo con energía y cascarón alrededor. Environment: zona rocosa. Emotion: energía.
 
-## 09 Primer encuentro
+## Página 09 — Trici protege
 
-Rexxie, Dipo, Trici, Velo y Mega se ven por primera vez junto a un río, sorprendidos y tiernos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trici cayendo suavemente sin daño. Environment: zona rocosa. Emotion: humor.
 
-## 10 Montañas
+## Página 10 — Nace Velo
 
-Los Dinoamigos suben una montaña juntos; Dipo ayuda con su cuello, Velo encuentra el camino, Trici protege, Rexxie mira serio y Mega avanza por un arroyo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Velo saliendo entre hojas y raíces. Environment: selva. Emotion: alegría.
 
-## 11 Río
+## Página 11 — Velo explora
 
-Los Dinoamigos cruzan un río brillante; Mega nada al frente, Dipo hace de puente con su cuello, Trici empuja una roca, Velo salta piedras y Rexxie cruza con cuidado.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Velo corriendo por la selva. Environment: selva. Emotion: curiosidad.
 
-## 12 Meteorito
+## Página 12 — Nace Mega
 
-Una bola de fuego cae lejos en el cielo rojo de la noche, los Dinoamigos miran asustados pero la escena sigue siendo infantil y no terrorífica.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mega bajo el agua con peces y burbujas. Environment: océano. Emotion: sorpresa.
 
-## 13 Cueva
+## Página 13 — Mega saluda
 
-Los Dinoamigos se abrazan dentro de una cueva con cristales azules que brillan como estrellas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mega sonriendo con peces tímidos. Environment: océano. Emotion: humor.
 
-## 14 Platillo azul
+## Página 14 — Caminos que se juntan
 
-Un platillo volador azul aparece en el cielo sobre la entrada de la cueva, redondo, brillante, amable y misterioso.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mapa sencillo con cinco caminos que se unen. Environment: mapa prehistórico. Emotion: expectativa.
 
-## 15 Burbujas
+## Página 15 — Primer encuentro
 
-Cada Dinoamigo flota dentro de una burbuja luminosa mientras el platillo azul lanza luces suaves.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Los cinco bebés dinosaurios viéndose por primera vez. Environment: claro junto al río. Emotion: sorpresa.
 
-## 16 Viaje al futuro
+## Página 16 — Somos amigos
 
-Túnel de tiempo con estrellas, burbujas, relojes suaves, rayos azules y los Dinoamigos flotando juntos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Los cinco juntos sonriendo. Environment: claro. Emotion: alegría.
 
-## 17 Parque moderno
+## Página 17 — El gran viaje
 
-Los Dinoamigos aparecen pequeños como mascotas en un parque urbano de noche; Mega está dentro de un carrito-acuario transparente con ruedas y luces azules.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo avanzando por montes verdes. Environment: montes. Emotion: compañerismo.
 
-## 18 Campamento urbano
+## Página 18 — Las montañas
 
-Maxi, Luna, Teo, Mía y Leo juegan a ser exploradores en un campamento urbano con tiendas, linternas, mapas y mochilas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Dinosaurios subiendo con ayuda mutua. Environment: montañas. Emotion: valentía.
 
-## 19 Primer contacto
+## Página 19 — El río brillante
 
-Niños y dinosaurios bebés se miran detrás de arbustos con sorpresa; todos parecen asustados de forma graciosa.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mega en el agua junto al grupo. Environment: río. Emotion: confianza.
 
-## 20 Adopción
+## Página 20 — Cruce divertido
 
-Los niños abrazan a sus Dinoamigos: Maxi con Mega, Luna con Dipo, Teo con Velo, Mía con Trici y Leo con Rexxie.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Escena cómica cruzando el río. Environment: río. Emotion: humor.
 
-## 21 Ciudad
+## Página 21 — El cielo cambia
 
-Niños pasean a los Dinoamigos por la ciudad: semáforos, autobuses, edificios, fuente, parque, tienda de helados y Mega en su carrito-acuario.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Meteorito lejano visto con asombro. Environment: noche prehistórica. Emotion: miedo suave.
 
+## Página 22 — El meteorito lejano
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Explosión lejana no terrorífica. Environment: camino. Emotion: urgencia.
+
+## Página 23 — La cueva brillante
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Cueva luminosa con cristales y grupo unido. Environment: cueva brillante. Emotion: ternura.
+
+## Página 24 — La luz azul
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Platillo Azul visto desde la cueva. Environment: entrada de cueva. Emotion: misterio.
+
+## Página 25 — El Platillo Azul
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Platillo amigable lanzando burbujas. Environment: cielo. Emotion: maravilla.
+
+## Página 26 — Burbujas mágicas
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Dinosaurios dentro de burbujas luminosas. Environment: cueva. Emotion: alegría.
+
+## Página 27 — Viaje al futuro
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Túnel con estrellas, relojes y burbujas. Environment: túnel temporal. Emotion: asombro.
+
+## Página 28 — Llegada al parque
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Dinoamigos pequeños en parque moderno nocturno. Environment: parque moderno. Emotion: sorpresa.
+
+## Página 29 — Niños exploradores
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Niños con linternas, mapa y mochilas. Environment: campamento urbano. Emotion: curiosidad.
+
+## Página 30 — El descubrimiento
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Primer encuentro entre niños y Dinoamigos. Environment: arbustos del parque. Emotion: sorpresa divertida.
+
+## Página 31 — Promesa de amistad
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Abrazos tiernos de adopción. Environment: campamento. Emotion: ternura.
+
+## Página 32 — Paseo por la ciudad
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Paseo urbano y cierre con luz azul en el cielo. Environment: ciudad moderna. Emotion: misterio feliz.

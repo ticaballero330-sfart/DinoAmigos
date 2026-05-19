@@ -1,79 +1,45 @@
-# Diálogos clave
+# Diálogos
 
-## Rexxie
+    Diálogos cortos, repetibles y útiles para cuento ilustrado o animación.
 
-- —Trici es nuestra amiga. La vamos a encontrar.
-- —Entonces… tenemos que entrar.
-- —¡No me gustan los túneles brillantes!
-- —Ese rugido no fui yo.
-- —Pensé que era malo.
-- —Gracias, gigante.
+    Rexxie:
+    —¡Rawr! Espera... ¿eso sonó pequeño?
 
-## Dipo
+    Mega:
+    —¡Glu-glu! ¿Eso se come?
 
-- —Veo más marcas cerca de los arbustos.
-- —Desde aquí arriba veo huellas cerca de los árboles.
-- —A veces alguien grande solo quiere cuidar.
+    Teo:
+    —Prometo no tocar nada... casi nada.
 
-## Trici
+    Mía:
+    —Esperen. Esto no se rompe. Se piensa.
 
-- —Sabía que vendrían.
-- —Lo prometo.
+    Luna:
+    —Respiremos. Estamos juntos.
 
-## Velo
+    Leo:
+    —Tengo miedo, pero voy igual.
 
-- —¡Huellas!
-- —¡Las huellas van por aquí!
-- —¡Aventura, aventura!
-- —Y no está sola.
-- —¡El portal sigue abierto!
-- —¡Por aquí!
+    Maxi:
+    —¿Alguien trajo merienda?
 
-## Mega
+    Luke:
+    —Mi visor dice que esto no es normal.
 
-- —¡Glu-glu! ¡Nadie se pierde si yo voy mirando desde el agua!
-- —¡Glu-glu-glu-glu!
-- —Glu.
-- —¡Glu-glu! Creo que mi agua está viajando también.
+    Olic:
+    —Skreee.
 
-## Maxi
 
-- —Eso no lo tocó nadie, ¿verdad?
-- —Ese sí que come mucho.
-- —¡Cuidado con los baches!
-- —¡Nadie pierde a un Dinoamigo en mi equipo!
-
-## Luna
-
-- —¿Dónde está Trici?
-- —Espera.
-- —A veces alguien grande solo quiere cuidar.
-- —Pidamos un deseo.
-- —Miren el cielo… creo que algo mágico va a pasar.
-
-## Teo
-
-- —Esto es increíble.
-- —No iba a tocar nada.
-- —Prometo no tocar nada… bueno, casi nada.
-- —Estamos en la era de los dinosaurios.
-- —¿Y ahora qué hacemos?
-
-## Mía
+## Frases específicas del libro
 
 - —¡Trici no está!
-- —Son de Trici. Estoy segura.
-- —Las huellas entran aquí.
-- —No toques nada.
-- —Tenemos que encontrar a Trici.
-- —Ya vinimos por ti.
-- —No vuelvas a desaparecer sin avisar.
-
-## Leo
-
-- —¡Tenemos que buscarla!
-- —Equipo explorador, vamos por Trici.
-- —Tengo miedo… pero voy igual.
-- —Esperamos a la noche.
-- —Ahora.
-
+- —gritó Velo. Las marcas de Trici entraban entre los árboles.
+- —Vamos por Trici.
+- —No toques nada. La máquina se encendió sola.
+- —¡Glu-glu-glu!
+- —Ya no estamos en el parque.
+- —Y no está sola.
+- —dijo Rexxie.
+- —A veces alguien grande solo quiere cuidar.
+- —dijo Trici.
+- —Pidamos un deseo.

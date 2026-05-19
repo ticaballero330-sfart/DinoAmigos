@@ -1,102 +1,129 @@
-# Prompts de escenas
+# Prompts por escena
 
-## 01 Portada
+## Página 01 — Portada
 
-Niños exploradores y Dinoamigos frente a una isla perdida sobre montañas, Baruk en la entrada, mapa, río, lago, puerta antigua, estrellas y luz espacial.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo ante una isla mágica con Baruk en la entrada. Environment: isla perdida. Emotion: aventura.
 
-## 02 Pesadilla de Luke
+## Página 02 — Noche inquieta
 
-Luke duerme inquieto en el campamento y sueña con una isla perdida, montañas, ríos, lagos y un oso guardián.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Campamento nocturno con Luke inquieto. Environment: campamento. Emotion: inquietud.
 
-## 03 Mapa de la isla
+## Página 03 — Pesadilla de Luke
 
-Luke muestra un mapa dibujado con montañas, ríos, lagos, isla escondida y oso en la entrada.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Sueño con isla y luces. Environment: sueño. Emotion: misterio.
 
-## 04 Viaje al amanecer
+## Página 04 — Luke despierta
 
-Grupo caminando por montes verdes al amanecer, mochilas, linternas, cuerdas y Dinoamigos con poderes.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Luke despertando con Olic. Environment: campamento. Emotion: alarma suave.
 
-## 05 Ríos y lagos
+## Página 05 — Padres atrapados
 
-Dipo mira desde alto, Mega ayuda a cruzar un río rápido y Olic vuela sobre un lago brillante.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo escuchando a Luke. Environment: campamento. Emotion: preocupación.
 
-## 06 Isla aparece
+## Página 06 — Mapa dibujado
 
-Isla mágica aparece entre niebla sobre una montaña enorme, árboles gigantes, luces verdes y puertas antiguas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Primer plano del mapa. Environment: campamento. Emotion: decisión.
 
-## 07 Baruk
+## Página 07 — Debemos ir
 
-Baruk, oso guardián grande con collar de piedra y ojo herido suave, bloquea la entrada sin parecer villano.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Equipo decidido. Environment: campamento. Emotion: valentía.
 
-## 08 Puerta del oso
+## Página 08 — Mochilas listas
 
-Trici, Mía y Leo hablan con Baruk, el equipo explica que viene por amor y familia.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Preparativos divertidos. Environment: campamento. Emotion: humor.
 
-## 09 Martillo dormilón
+## Página 09 — Montes verdes
 
-Rexxie pisa una piedra trampa y un martillo gigante acolchado baja de forma caricaturesca.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Grupo caminando por montes. Environment: montes. Emotion: aventura.
 
-## 10 Teo descansa
+## Página 10 — Montañas y ríos
 
-Teo sentado con pierna golpeada suavemente, Luna y Dipo lo cuidan en zona segura.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Montaña y río en composición clara. Environment: montañas y río. Emotion: trabajo en equipo.
 
-## 11 Laberinto de las risas
+## Página 11 — Lago escondido
 
-Laberinto de hojas y lianas con paredes móviles y estatua seria en el centro.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Lago con Olic volando. Environment: lago. Emotion: expectativa.
 
-## 12 Mega hace reír
+## Página 12 — La isla aparece
 
-Mega hace una burbuja enorme que explota en la nariz de Rexxie y la estatua empieza a reír.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Isla mágica entre niebla. Environment: isla. Emotion: maravilla.
 
-## 13 Puentes saltarines
+## Página 13 — Baruk guardián
 
-Lago con piedras flotantes que suben y bajan, Mía ilumina piedras correctas y Mega ayuda desde el agua.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Baruk imponente y amable. Environment: entrada de Baruk. Emotion: respeto.
 
-## 14 Cámara de protectores
+## Página 14 — Advertencia
 
-Sala de piedra y musgo, guardianes encantados despiertan frente a una puerta antigua.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Diálogo ante la entrada. Environment: entrada. Emotion: decisión.
 
-## 15 Dinoamigos responden
+## Página 15 — Prueba del corazón
 
-Rexxie, Trici, Velo, Mega y Olic dicen por qué han venido ante el guardián principal.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Baruk dejando pasar. Environment: entrada. Emotion: confianza.
 
-## 16 Batalla de piedra y musgo
+## Página 16 — Primera trampa
 
-Batalla no violenta contra guardianes: Trici bloquea, Velo corre, Mega lanza agua, Rexxie ruge, Olic vuela.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Piedra-trampa activada. Environment: sendero de isla. Emotion: suspenso.
 
-## 17 Puerta familiar
+## Página 17 — Martillo Dormilón
 
-Puerta dorada con frase mágica, todos dicen “Familia” juntos y la puerta se abre.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trampa caricaturesca. Environment: sendero. Emotion: humor.
 
-## 18 Padres atrapados
+## Página 18 — Descanso de Teo
 
-Dinosaurios adultos atrapados en círculos de luz dentro de una sala brillante.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Cuidado suave de Teo. Environment: isla. Emotion: cuidado.
 
-## 19 Reencuentro familiar
+## Página 19 — Laberinto de las Risas
 
-Orin abraza a Rexxie, Tricero a Trici, Brachio baja el cuello hacia Dipo y Crick hace burbujas con Mega.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Laberinto con estatua. Environment: laberinto. Emotion: reto divertido.
 
-## 20 Falta Aeron
+## Página 20 — Mega hace reír
 
-Olic triste al no encontrar a su padre, Luke lo acompaña y Orin explica que los alienígenas se lo llevaron.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Mega y estatua riendo. Environment: laberinto. Emotion: humor.
 
-## 21 Salto espacial
+## Página 21 — Puentes Saltarines
 
-Luke usa su visor azul, chasquea los dedos y una burbuja azul envuelve al grupo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Lago con piedras flotantes. Environment: lago. Emotion: concentración.
 
-## 22 Nave alienígena dormida
+## Página 22 — Cruce en equipo
 
-Grupo en burbuja espacial frente a nave alienígena con luces apagadas y alienígenas dormidos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Cruce dinámico. Environment: lago. Emotion: alegría.
 
-## 23 Rescate de Aeron
+## Página 23 — Cámara de Protectores
 
-Aeron dentro de una cápsula de luz, Olic corre hacia él, Luke activa su visor.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Guardianes mágicos no malvados. Environment: cámara. Emotion: respeto.
 
-## 24 Marca de Rexxie
+## Página 24 — ¿Por qué vienen?
 
-Chispa alienígena toca a Rexxie y deja una marca roja luminosa en su brazo, Leo lo acompaña.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Dinoamigos hablando ante guardianes. Environment: cámara. Emotion: emoción.
 
-## 25 Médico espacial
+## Página 25 — Reto de musgo
 
-Médico espacial examina la marca de Rexxie en el campamento y anuncia que deben buscar la planta secreta.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Acción con lianas blandas. Environment: cámara. Emotion: valentía.
 
+## Página 26 — Rexxie se levanta
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Trici ayudando a Rexxie. Environment: cámara. Emotion: resiliencia.
+
+## Página 27 — Palabra secreta
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Puerta dorada abriéndose. Environment: puerta familiar. Emotion: ternura.
+
+## Página 28 — Padres en luz
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Padres dinosaurios atrapados sin dolor. Environment: cámara familiar. Emotion: alivio.
+
+## Página 29 — Reencuentro
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Abrazo familiar grande. Environment: cámara. Emotion: alegría.
+
+## Página 30 — Falta Aeron
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Olic triste con Luke. Environment: cámara. Emotion: preocupación.
+
+## Página 31 — Salto espacial
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Burbuja espacial frente a nave. Environment: espacio. Emotion: asombro.
+
+## Página 32 — Aeron y la marca
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Aeron reunido con Olic y Rexxie mirando su marca. Environment: regreso al campamento. Emotion: gancho.

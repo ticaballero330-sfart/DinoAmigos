@@ -1,35 +1,46 @@
 # Los Dinoamigos
 
-Proyecto de serie infantil ilustrada, libro de colorear y futura miniserie animada basada en una historia creada por un niño de 6 años.
-
-La primera fase se centra en **Libro 1 / Temporada 1: Los Dinoamigos nacen**, una aventura de huevos misteriosos, dinosaurios bebés, montañas, ríos, meteoritos, burbujas mágicas, un platillo volador azul y un encuentro con niños exploradores en la ciudad moderna.
-
-El proyecto ya incluye también la base completa de **Libro 2 / Temporada 2: La Máquina del Tiempo**, donde Trici desaparece, el grupo sigue sus huellas, viaja al pasado, descubre a un gran T-Rex protector y pide a una estrella fugaz tener más aventuras.
-
-También está desarrollado **Libro 3 / Temporada 3: El Secreto del Platillo Azul**, donde Rexxie descubre el regreso del platillo, el equipo conoce a Luke y Olic, entra en una nave alienígena, encuentra un cofre dorado y recibe nuevos poderes.
-
-También está desarrollado **Libro 4 / Temporada 4: La Isla Perdida de los Dinosaurios**, donde Luke sueña con una isla, el equipo rescata a los padres de los Dinoamigos, salva a Aeron en el espacio y Rexxie recibe una marca alienígena que conduce a la planta secreta.
-
-También está desarrollado **Libro 5 / Temporada 5: En busca de la Planta Secreta**, donde el equipo busca una cura para la marca de Rexxie, supera retos mágicos y descubre que la Planta Secreta es un jardín vivo cuidado por Doctor Florio.
+Proyecto editorial infantil basado en las ideas originales de un niño de 6 años. La saga está dirigida a niños y niñas de 5 a 10 años y combina dinosaurios bebés, huevos mágicos, burbujas, viajes en el tiempo, platillos voladores, campamentos, mapas, retos, familias y amistad.
 
 ## Carpetas principales
 
-- `bible/`: reglas generales de la saga, personajes, estilo visual y continuidad.
-- `book_01_los_dinoamigos_nacen/`: desarrollo completo del primer libro.
-- `book_02_la_maquina_del_tiempo/`: desarrollo completo del segundo libro.
-- `book_03_el_secreto_del_platillo_azul/`: desarrollo completo del tercer libro.
-- `book_04_la_isla_perdida_de_los_dinosaurios/`: desarrollo completo del cuarto libro.
-- `book_05_en_busca_de_la_planta_secreta/`: desarrollo completo del quinto libro.
+- `bible/`: biblia global de continuidad, personajes, reglas del mundo, estilo visual, objetos, lugares, checklist y auditoría editorial.
+- `book_01_los_dinoamigos_nacen/`: origen, nacimientos, burbujas, viaje al futuro y adopción.
+- `book_02_la_maquina_del_tiempo/`: desaparición de Trici, huellas, Máquina del Tiempo y rescate.
+- `book_03_el_secreto_del_platillo_azul/`: Luke, Olic, nave alienígena, Cofre Dorado y poderes.
+- `book_04_la_isla_perdida_de_los_dinosaurios/`: isla, Baruk, padres dinosaurios, Aeron y marca de Rexxie.
+- `book_05_en_busca_de_la_planta_secreta/`: Doctor Lumo, retos, Doctor Florio y aceptación de la marca.
 
-## Objetivo creativo
+## Cómo trabajar cada libro
 
-Crear una historia infantil clara, tierna, emocionante y visualmente potente, apta para:
+1. Leer `bible/00_saga_overview.md`.
+2. Revisar `bible/02_characters_master.md` y `bible/continuity_matrix.md`.
+3. Abrir el libro correspondiente y trabajar desde `story/page_by_page.md`.
+4. Usar `prompts/global_prompt_style.md` antes de generar imágenes.
+5. Validar con `bible/editorial_checklist.md`.
 
-- cuento ilustrado
-- libro de colorear
-- storyboard de animación
-- miniserie infantil
+## Estructura por libro
 
-## Público
+Cada libro contiene `story/`, `characters/`, `locations/`, `objects/`, `challenges/`, `scenes/`, `prompts/`, `images/` y `animation/`.
 
-Niños y niñas de 5 a 10 años, especialmente quienes aman dinosaurios, huevos, nacimientos, viajes, campamentos, platillos voladores, burbujas, ciudad moderna y amistad.
+## Generación de prompts
+
+Usar el prompt maestro visual, los prompts por personaje y los prompts por página. Para libro de colorear, usar siempre `prompts/coloring_book_prompts.md`.
+
+## Reglas para no romper la historia
+
+- No cambiar nombres normalizados.
+- No eliminar personajes principales.
+- No convertir la saga en ciencia ficción dura.
+- No añadir violencia gráfica.
+- No hacer que alienígenas o guardianes sean terroríficos.
+- Mantener frases claras para 5 a 10 años.
+- Mantener 32 páginas por libro.
+
+## Cómo añadir nuevos libros
+
+Crear una carpeta `book_XX_titulo/` con la misma estructura. Añadir el resumen a la biblia, actualizar la matriz de continuidad y definir un gancho suave desde el libro anterior.
+
+## Validación antes de crear imágenes
+
+Comprobar que cada página tiene acción clara, personajes grandes, emoción visible, fondo coloreable, prompt base y notas para libro de colorear.

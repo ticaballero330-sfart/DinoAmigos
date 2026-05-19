@@ -1,194 +1,1335 @@
-# Distribución página por página
+# En busca de la Planta Secreta - page by page
 
-## Página 1: Portada
+Cada página mantiene una acción clara, emoción visible y una composición apta para ilustración y libro de colorear.
 
-**Texto:** Los Dinoamigos 5: En busca de la Planta Secreta.
+## Página 01 — Portada
 
-**Imagen:** Rexxie mirando su marca roja brillante mientras sus amigos lo rodean. Al fondo se ve un camino hacia montañas, una pared dorada, guardianes dinosaurio y un jardín mágico brillante.
+### Texto narrativo
 
-## Página 2: Mañana en el campamento
+Los Dinoamigos 5: En busca de la Planta Secreta.
 
-**Texto:** El sol salió sobre el campamento. Todos dormían después de la aventura en el espacio. Rexxie descansaba con su brazo cerca de Leo. La marca roja brillaba suavemente.
+### Descripción visual
 
-**Imagen:** Campamento de día, Rexxie dormido con marca suave.
+Rexxie con marca roja frente a camino, pared dorada y jardín mágico.
 
-## Página 3: Trici recuerda
+### Personajes presentes
 
-**Texto:** Trici abrió los ojos de golpe. —¡Ay! ¡Recuerden! Todos despertaron. —¿Qué pasa? —preguntó Maxi. Trici señaló a Rexxie. —¡Tenemos que buscar la Planta Secreta!
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Trici despertando al grupo.
+### Entorno
 
-## Página 4: Rexxie y la marca
+camino al jardín
 
-**Texto:** Rexxie miró su brazo. La marca alienígena seguía allí. No era una herida. Pero a veces le molestaba. Leo tomó su patita. —Vamos a ayudarte.
+### Emoción principal
 
-**Imagen:** Leo cuidando a Rexxie.
+esperanza
 
-## Página 5: Ir al médico
+### Prompt visual base
 
-**Texto:** Mía pensó un momento. —Primero debemos preguntarle al médico si tiene un mapa. Luke asintió. —Sin mapa, podríamos acabar en otro planeta. Mega hizo burbujas. —Glu-glu. Mejor mapa.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie con marca roja frente a camino, pared dorada y jardín mágico. Environment: camino al jardín. Emotion: esperanza. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
 
-**Imagen:** Grupo decidiendo ir al médico.
+### Notas para libro de colorear
 
-## Página 6: El laboratorio del Doctor Lumo
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** El Doctor Lumo abrió la puerta de su laboratorio. —Sabía que vendrían. Rexxie levantó el brazo. —Necesitamos encontrar la planta. El médico asintió. —Entonces necesitarán el mapa.
+## Página 02 — Mañana en el campamento
 
-**Imagen:** Doctor Lumo en laboratorio luminoso.
+### Texto narrativo
 
-## Página 7: El sótano secreto
+El sol salió. Rexxie descansaba junto a Leo y su marca brillaba suave.
 
-**Texto:** El médico los llevó al sótano. Había cajas viejas. Ruedas rotas. Mapas enrollados. Linternas antiguas. Y una puerta que hacía: CRIIIIIC.
+### Descripción visual
 
-**Imagen:** Sótano lleno de cajas y objetos.
+Campamento de día.
 
-## Página 8: El mapa de la Planta Secreta
+### Personajes presentes
 
-**Texto:** Doctor Lumo sacó un mapa verde y dorado. —Este mapa los llevará hasta la Planta Secreta. Luego bajó la voz. —Pero no será fácil.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Doctor Lumo entregando mapa brillante.
+### Entorno
 
-## Página 9: La advertencia
+campamento
 
-**Texto:** —Hay retos en el camino —dijo el médico. Teo sonrió. —No nos importa. Somos mejores juntos. Doctor Lumo respondió: —Entonces recuerden: algunos retos se ganan pensando.
+### Emoción principal
 
-**Imagen:** Equipo escuchando advertencia.
+calma
 
-## Página 10: Empieza el viaje
+### Prompt visual base
 
-**Texto:** El equipo salió del campamento. Atravesaron ríos. Subieron montañas. Cruzaron caminos largos. Y caminaron tanto que Maxi preguntó: —¿La planta vive muy lejos o solo se está escondiendo?
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Campamento de día. Environment: campamento. Emotion: calma.
 
-**Imagen:** Viaje por ríos y montañas.
+### Notas para libro de colorear
 
-## Página 11: Primer reto: los guardianes
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Llegaron a una puerta custodiada por muchos dinosaurios guardianes. Rugo, el guardián principal, rugió: —Nadie pasa. Trici respondió: —Tenemos que buscar la Planta Secreta.
+## Página 03 — Trici recuerda
 
-**Imagen:** Guardianes dinosaurio bloqueando puerta.
+### Texto narrativo
 
-## Página 12: El susto enorme
+Trici abrió los ojos. —¡Tenemos que buscar la Planta Secreta!
 
-**Texto:** Rugo dijo: —Si quieren pasar, tendrán que darme el susto más enorme. Velo corrió. Mega hizo burbujas. Dipo se puso alto. Pero Rugo no se asustó.
+### Descripción visual
 
-**Imagen:** Todos intentando asustar a Rugo.
+Trici despertando al equipo.
 
-## Página 13: El rugido de Rexxie
+### Personajes presentes
 
-**Texto:** Rexxie respiró profundo. Su marca brilló. Entonces rugió: —¡¡RAAAWR!! El cielo se llenó de siluetas luminosas de T-Rex antiguos. Los guardianes se asustaron. —¡Qué miedo divertido!
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Rexxie rugiendo con siluetas mágicas en el cielo.
+### Entorno
 
-## Página 14: La red-trampa
+campamento
 
-**Texto:** El camino siguió entre árboles altos. De pronto, Trici pisó una liana. ¡ZAS! Una red brillante cayó sobre ella. —¡Estoy atrapada!
+### Emoción principal
 
-**Imagen:** Trici atrapada en red mágica.
+urgencia
 
-## Página 15: Aparece Nubo
+### Prompt visual base
 
-**Texto:** Rexxie intentó morder la red. Pero la red era mágica. Entonces apareció Nubo, un dinosaurio raro. —Para encontrar una planta que ayuda, primero deben aprender a ayudar.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Trici despertando al equipo. Environment: campamento. Emotion: urgencia.
 
-**Imagen:** Nubo apareciendo junto a la red.
+### Notas para libro de colorear
 
-## Página 16: Olic al rescate
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Olic voló alrededor de la red. Cortó las cuerdas con mucho cuidado. Mía usó sus brazaletes. Luna iluminó los nudos. Trici cayó suavemente sobre hojas.
+## Página 04 — Rexxie y la marca
 
-**Imagen:** Olic cortando red con cuidado.
+### Texto narrativo
 
-## Página 17: La pata de Olic
+La marca no era una herida, pero a veces molestaba. Leo tomó su patita.
 
-**Texto:** Al bajar, Olic se golpeó una pata con una rama. —Skreee. Luke corrió hacia él. Nubo puso una hoja suave sobre la pata. —No es grave. Ya pueden seguir.
+### Descripción visual
 
-**Imagen:** Luke cuidando a Olic, Nubo ayudando.
+Leo cuidando a Rexxie.
 
-## Página 18: La pared dorada
+### Personajes presentes
 
-**Texto:** El siguiente reto era una pared dorada enorme. Dorán habló desde la pared: —Para pasar, deben romperme. Rexxie empujó. Trici empujó. Dipo empujó. La pared no se movió.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
 
-**Imagen:** Pared dorada gigante.
+### Entorno
 
-## Página 19: La contraseña
+campamento
 
-**Texto:** Mía vio unas letras pequeñas. —No hay que romperla. Hay que decir la contraseña. Teo recordó: —¡Unidos somos más fuertes! La pared se abrió. Dorán rió: —¡Correcto!
+### Emoción principal
 
-**Imagen:** Pared abriéndose con luz dorada.
+ternura
 
-## Página 20: El guardián de los miedos
+### Prompt visual base
 
-**Texto:** En una sala violeta apareció Sombrín. —Para pasar, deben decir su verdadero miedo. —Tienen tres intentos. Todos se miraron nerviosos.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Leo cuidando a Rexxie. Environment: campamento. Emotion: ternura.
 
-**Imagen:** Sombrín, guardián suave de sombras violetas.
+### Notas para libro de colorear
 
-## Página 21: Primeros intentos
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Maxi dijo: —¿Las naves alienígenas? —No —respondió Sombrín. Teo dijo: —¿Los T-Rex veloces y súper fuertes? —No —respondió Sombrín. Solo quedaba una oportunidad.
+## Página 05 — Primero un mapa
 
-**Imagen:** Niños pensando preocupados.
+### Texto narrativo
 
-## Página 22: El miedo verdadero
+Mía dijo que debían preguntar al Doctor Lumo. Mega estuvo de acuerdo: —Glu-glu, mejor mapa.
 
-**Texto:** Leo miró a Rexxie. —Tenemos miedo de que Rexxie se haga daño y no pueda seguir con nosotros. Sombrín sonrió. —Ese sí es un miedo verdadero. La puerta se abrió.
+### Descripción visual
 
-**Imagen:** Momento emocional, Leo y Rexxie juntos.
+Equipo planificando.
 
-## Página 23: El reto del agua
+### Personajes presentes
 
-**Texto:** Flotón apareció dentro de una burbuja gigante. —Si beben mucha agua, ¿podrán flotar como globos? Mega levantó una aleta. —¡Sí! ¡Glu-glu! Flotón rió. —Incorrecto, pero divertido.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
 
-**Imagen:** Flotón haciendo pregunta del agua.
+### Entorno
 
-## Página 24: Maxi responde
+campamento
 
-**Texto:** Maxi pensó. —Beber mucha agua no te convierte en globo. Para flotar necesitas nadar, aire o algo que te ayude. Flotón aplaudió. —¡Correcto! ¡Y con sentido común!
+### Emoción principal
 
-**Imagen:** Maxi respondiendo, Mega sorprendido.
+inteligencia
 
-## Página 25: La pregunta trampa
+### Prompt visual base
 
-**Texto:** Flotón hizo otra pregunta: —¿Cuántos dinosaurios vivos hay en el mundo moderno? Todos se quedaron callados. Mía pensó. —Es una pregunta trampa.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo planificando. Environment: campamento. Emotion: inteligencia.
 
-**Imagen:** Mía pensando ante Flotón.
+### Notas para libro de colorear
 
-## Página 26: Respuesta inteligente
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Mía respondió: —Para los humanos, los dinosaurios están extintos. Pero nosotros sabemos que algunos siguen aquí. Flotón sonrió. —¡Correcto! Pueden pasar.
+## Página 06 — Doctor Lumo
 
-**Imagen:** Puerta acuática abriéndose.
+### Texto narrativo
 
-## Página 27: Los T-Rex robots
+Doctor Lumo abrió su laboratorio. —Sabía que vendrían.
 
-**Texto:** El último reto era una sala enorme. Dentro había muchísimos T-Rex robots. Todos hicieron: —RAAWR-BIP. Velo susurró: —Esto va a ser interesante.
+### Descripción visual
 
-**Imagen:** Sala con T-Rex robots cómicos.
+Laboratorio luminoso.
 
-## Página 28: Batalla final divertida
+### Personajes presentes
 
-**Texto:** Velo corrió como un rayo. Mega lanzó agua. Trici bloqueó con su armadura. Mía activó símbolos. Leo saltó alto. Dipo movió una palanca. Y Rexxie rugió con valentía.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
 
-**Imagen:** Batalla cómica y dinámica contra robots.
+### Entorno
 
-## Página 29: Orin ayuda
+laboratorio
 
-**Texto:** Un T-Rex enorme apareció entre el humo. Rexxie pensó que era otro robot. Pero era Orin, su padre. —Rugamos juntos —dijo Orin. Padre e hijo rugieron. Los robots se apagaron.
+### Emoción principal
 
-**Imagen:** Orin y Rexxie rugiendo juntos.
+confianza
 
-## Página 30: El jardín secreto
+### Prompt visual base
 
-**Texto:** Al final del camino encontraron un jardín brillante. Había plantas doradas. Flores azules. Raíces luminosas. Y hojas que cantaban suavemente. —La Planta Secreta —susurró Luna.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Laboratorio luminoso. Environment: laboratorio. Emotion: confianza.
 
-**Imagen:** Jardín mágico de plantas brillantes.
+### Notas para libro de colorear
 
-## Página 31: Doctor Florio
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Pero no había una sola planta. En el centro estaba Doctor Florio, el médico de plantas especiales. —La Planta Secreta no es una planta. Es un jardín vivo. Y yo escucho lo que las plantas dicen.
+## Página 07 — Sótano secreto
 
-**Imagen:** Doctor Florio en jardín mágico.
+### Texto narrativo
 
-## Página 32: La marca ya no duele
+Bajaron a un sótano con cajas, ruedas, linternas y mapas viejos.
 
-**Texto:** Doctor Florio curó la pata de Olic. Luego tocó la marca de Rexxie con una hoja dorada. La marca no desapareció. Pero dejó de doler. —Algunas marcas no se borran —dijo Florio—. Se aprenden a llevar sin dolor. Fin.
+### Descripción visual
 
-**Imagen:** Rexxie feliz con su marca suave, todos juntos en jardín luminoso.
+Sótano curioso.
 
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sótano secreto
+
+### Emoción principal
+
+misterio
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Sótano curioso. Environment: sótano secreto. Emotion: misterio.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 08 — Mapa verde y dorado
+
+### Texto narrativo
+
+Doctor Lumo entregó el mapa. —Los llevará al Jardín de la Planta Secreta.
+
+### Descripción visual
+
+Mapa brillante.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sótano
+
+### Emoción principal
+
+asombro
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mapa brillante. Environment: sótano. Emotion: asombro.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 09 — Advertencia amable
+
+### Texto narrativo
+
+—Algunos retos se ganan pensando —dijo Doctor Lumo.
+
+### Descripción visual
+
+Equipo escuchando.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+laboratorio
+
+### Emoción principal
+
+atención
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo escuchando. Environment: laboratorio. Emotion: atención.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 10 — Empieza el viaje
+
+### Texto narrativo
+
+Atravesaron ríos y montañas. Maxi preguntó si la planta se escondía.
+
+### Descripción visual
+
+Camino de aventura.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ríos y montañas
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Camino de aventura. Environment: ríos y montañas. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 11 — Rugo guardián
+
+### Texto narrativo
+
+Rugo bloqueó una puerta. —Para pasar, necesito el susto más enorme.
+
+### Descripción visual
+
+Rugo y guardianes dinosaurio.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+puerta de Rugo
+
+### Emoción principal
+
+reto
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rugo y guardianes dinosaurio. Environment: puerta de Rugo. Emotion: reto.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 12 — Susto divertido
+
+### Texto narrativo
+
+Velo corrió, Mega hizo burbujas y Dipo se puso alto. Rugo no se asustó.
+
+### Descripción visual
+
+Intentos cómicos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+puerta
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Intentos cómicos. Environment: puerta. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 13 — Rugido de Rexxie
+
+### Texto narrativo
+
+Rexxie rugió y aparecieron siluetas luminosas. Rugo dijo: —¡Miedo divertido!
+
+### Descripción visual
+
+Rexxie con siluetas mágicas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+puerta
+
+### Emoción principal
+
+valentía
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie con siluetas mágicas. Environment: puerta. Emotion: valentía. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 14 — Red mágica
+
+### Texto narrativo
+
+Una red brillante atrapó a Trici sin hacerle daño.
+
+### Descripción visual
+
+Trici en red de luz.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+bosque
+
+### Emoción principal
+
+suspenso
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Trici en red de luz. Environment: bosque. Emotion: suspenso.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 15 — Nubo aparece
+
+### Texto narrativo
+
+Nubo dijo: —Para encontrar una planta que ayuda, aprendan a ayudar.
+
+### Descripción visual
+
+Nubo junto a la red.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+bosque
+
+### Emoción principal
+
+sabiduría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Nubo junto a la red. Environment: bosque. Emotion: sabiduría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 16 — Olic libera a Trici
+
+### Texto narrativo
+
+Olic cortó cuerdas con cuidado. Mía iluminó nudos y Luna ayudó.
+
+### Descripción visual
+
+Rescate de Trici.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+bosque
+
+### Emoción principal
+
+trabajo en equipo
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rescate de Trici. Environment: bosque. Emotion: trabajo en equipo.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 17 — Cuidar a Olic
+
+### Texto narrativo
+
+Olic se golpeó suavemente una pata. Nubo puso una hoja fresca.
+
+### Descripción visual
+
+Luke cuidando a Olic.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+bosque
+
+### Emoción principal
+
+cuidado
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Luke cuidando a Olic. Environment: bosque. Emotion: cuidado.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 18 — Pared Dorada
+
+### Texto narrativo
+
+Dorán dijo: —Para pasar, deben romperme. La pared no se movió.
+
+### Descripción visual
+
+Pared dorada gigante.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+pared dorada
+
+### Emoción principal
+
+reto
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Pared dorada gigante. Environment: pared dorada. Emotion: reto.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 19 — La contraseña
+
+### Texto narrativo
+
+Mía leyó letras pequeñas. Teo recordó: —Unidos somos más fuertes.
+
+### Descripción visual
+
+Pared abriéndose.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+pared dorada
+
+### Emoción principal
+
+inteligencia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Pared abriéndose. Environment: pared dorada. Emotion: inteligencia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 20 — Sombrín
+
+### Texto narrativo
+
+Sombrín pidió que dijeran su miedo verdadero.
+
+### Descripción visual
+
+Guardián violeta suave.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala violeta
+
+### Emoción principal
+
+miedo suave
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Guardián violeta suave. Environment: sala violeta. Emotion: miedo suave.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 21 — Intentos
+
+### Texto narrativo
+
+Maxi y Teo probaron respuestas. Solo quedaba una oportunidad.
+
+### Descripción visual
+
+Equipo pensando.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala violeta
+
+### Emoción principal
+
+tensión suave
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo pensando. Environment: sala violeta. Emotion: tensión suave.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 22 — Miedo verdadero
+
+### Texto narrativo
+
+Leo dijo: —Tememos que Rexxie se haga daño. Sombrín abrió la puerta.
+
+### Descripción visual
+
+Leo y Rexxie juntos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala violeta
+
+### Emoción principal
+
+honestidad
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Leo y Rexxie juntos. Environment: sala violeta. Emotion: honestidad.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 23 — Reto del agua
+
+### Texto narrativo
+
+Flotón preguntó si beber mucha agua hacía flotar como globo. Mega dijo que sí.
+
+### Descripción visual
+
+Flotón en burbuja.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala de agua
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Flotón en burbuja. Environment: sala de agua. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 24 — Maxi responde
+
+### Texto narrativo
+
+Maxi explicó que para flotar se necesita nadar, aire o ayuda.
+
+### Descripción visual
+
+Maxi respondiendo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala de agua
+
+### Emoción principal
+
+sentido común
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Maxi respondiendo. Environment: sala de agua. Emotion: sentido común.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 25 — Pregunta trampa
+
+### Texto narrativo
+
+Flotón preguntó cuántos dinosaurios vivos hay en el mundo moderno. Mía pensó.
+
+### Descripción visual
+
+Mía ante pregunta.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala de agua
+
+### Emoción principal
+
+curiosidad
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mía ante pregunta. Environment: sala de agua. Emotion: curiosidad.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 26 — Respuesta inteligente
+
+### Texto narrativo
+
+Mía dijo que para los humanos están extintos, pero ellos saben que algunos siguen aquí.
+
+### Descripción visual
+
+Puerta acuática abriéndose.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala de agua
+
+### Emoción principal
+
+inteligencia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Puerta acuática abriéndose. Environment: sala de agua. Emotion: inteligencia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 27 — T-Rex robots
+
+### Texto narrativo
+
+El último reto era una sala de T-Rex robots que decían: RAAWR-BIP.
+
+### Descripción visual
+
+Robots cómicos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala final
+
+### Emoción principal
+
+sorpresa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Robots cómicos. Environment: sala final. Emotion: sorpresa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 28 — Batalla divertida
+
+### Texto narrativo
+
+El equipo apagó robots con agua, símbolos y trabajo en equipo. Salía humo en forma de flor.
+
+### Descripción visual
+
+Acción no violenta contra robots.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala final
+
+### Emoción principal
+
+diversión
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Acción no violenta contra robots. Environment: sala final. Emotion: diversión.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 29 — Orin ayuda
+
+### Texto narrativo
+
+Orin apareció. —Rugamos juntos. Padre e hijo apagaron los robots.
+
+### Descripción visual
+
+Orin y Rexxie rugiendo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala final
+
+### Emoción principal
+
+familia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Orin y Rexxie rugiendo. Environment: sala final. Emotion: familia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 30 — Jardín secreto
+
+### Texto narrativo
+
+Encontraron un jardín vivo con flores azules, raíces luminosas y hojas que cantaban.
+
+### Descripción visual
+
+Jardín mágico.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+Jardín de la Planta Secreta
+
+### Emoción principal
+
+maravilla
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Jardín mágico. Environment: Jardín de la Planta Secreta. Emotion: maravilla. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 31 — Doctor Florio
+
+### Texto narrativo
+
+Doctor Florio explicó: —La Planta Secreta es un jardín vivo.
+
+### Descripción visual
+
+Doctor Florio en el jardín.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+jardín
+
+### Emoción principal
+
+descubrimiento
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Doctor Florio en el jardín. Environment: jardín. Emotion: descubrimiento. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 32 — La marca ya no duele
+
+### Texto narrativo
+
+Florio tocó la marca con una hoja dorada. No desapareció, pero dejó de doler y brilló como una estrella roja.
+
+### Descripción visual
+
+Rexxie feliz con todos alrededor.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+jardín
+
+### Emoción principal
+
+aceptación
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie feliz con todos alrededor. Environment: jardín. Emotion: aceptación. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer

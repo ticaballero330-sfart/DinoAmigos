@@ -1,80 +1,46 @@
-# Diálogos clave
+# Diálogos
 
-## Rexxie
+    Diálogos cortos, repetibles y útiles para cuento ilustrado o animación.
 
-- —La marca me molesta… pero no voy a dejar de ayudar a mis amigos.
-- —¿Yo?
-- —Sí. Sigamos.
-- —Ya no duele.
-- —Sí. Mi historia.
+    Rexxie:
+    —¡Rawr! Espera... ¿eso sonó pequeño?
 
-## Trici
+    Mega:
+    —¡Glu-glu! ¿Eso se come?
 
-- —¡Recuerden! ¡Tenemos que buscar la planta para Rexxie!
-- —¡Estoy atrapada!
-- —Entonces está bien.
+    Teo:
+    —Prometo no tocar nada... casi nada.
 
-## Dipo
+    Mía:
+    —Esperen. Esto no se rompe. Se piensa.
 
-- —A veces el camino se ve mejor desde arriba.
-- —Ahora la marca cuenta una historia.
+    Luna:
+    —Respiremos. Estamos juntos.
 
-## Velo
+    Leo:
+    —Tengo miedo, pero voy igual.
 
-- —Puedo correr como un rayo, pero esta vez miraré dónde piso.
-- —Esto va a ser interesante.
+    Maxi:
+    —¿Alguien trajo merienda?
 
-## Mega
+    Luke:
+    —Mi visor dice que esto no es normal.
 
-- —¡Glu-glu! Si el reto tiene agua, es mi turno.
-- —Glu-glu. Mejor mapa.
-- —Glu-glu. Buen equipo.
-- —Glu-glu. Una historia brillante.
+    Olic:
+    —Skreee.
 
-## Olic
 
-- —Skreee.
+## Frases específicas del libro
 
-## Maxi
-
-- —¿La planta cura marcas alienígenas o también cura sustos?
-- —¿La planta vive muy lejos o solo se está escondiendo?
-- —Beber mucha agua no te convierte en globo.
-
-## Luna
-
-- —Respiremos. Siempre encontramos una salida juntos.
-- —La Planta Secreta.
-
-## Teo
-
-- —¡Tengo una idea! Esta vez no es tocar botones.
+- —¡Tenemos que buscar la Planta Secreta!
+- —Glu-glu, mejor mapa.
+- —Sabía que vendrían.
+- —Los llevará al Jardín de la Planta Secreta.
+- —dijo Doctor Lumo.
+- —Para pasar, necesito el susto más enorme.
+- —¡Miedo divertido!
+- —Para encontrar una planta que ayuda, aprendan a ayudar.
+- —Para pasar, deben romperme. La pared no se movió.
 - —Unidos somos más fuertes.
-- —¡Ahora sí puedo correr!
-
-## Mía
-
-- —No todo lo que parece una pared se rompe. Algunas paredes se piensan.
-- —Es una pregunta trampa.
-
-## Leo
-
-- —Vamos a ayudarte.
-- —No importa si la marca se queda. Tú sigues siendo Rexxie.
-- —Tenemos miedo de que Rexxie se haga daño y no pueda seguir con nosotros.
-
-## Luke
-
-- —Sin mapa podríamos acabar en otro planeta.
-- —Mi visor dice que la planta está cerca… o que alguien escondió muy bien el camino.
-
-## Doctor Lumo
-
-- —El mapa los llevará hasta la Planta Secreta, pero el camino probará su valentía y su cabeza.
-- —Algunos retos se ganan corriendo. Otros se ganan pensando.
-
-## Doctor Florio
-
-- —La Planta Secreta no es una sola planta. Es un jardín vivo. Y yo escucho lo que las plantas dicen.
-- —Algunas marcas no se borran. Se aprenden a llevar sin dolor.
-
+- —Tememos que Rexxie se haga daño. Sombrín abrió la puerta.
+- —Rugamos juntos. Padre e hijo apagaron los robots.

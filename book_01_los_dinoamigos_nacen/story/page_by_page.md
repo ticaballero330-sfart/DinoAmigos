@@ -1,194 +1,1202 @@
-# Distribución página por página
+# Los Dinoamigos nacen - page by page
 
-## Página 1: Portada
+Cada página mantiene una acción clara, emoción visible y una composición apta para ilustración y libro de colorear.
 
-**Texto:** Los Dinoamigos nacen.
+## Página 01 — Portada
 
-**Imagen:** Cinco huevos gigantes brillando en un valle prehistórico. Al fondo, montañas, volcanes suaves, estrellas y una luz azul pequeña en el cielo.
+### Texto narrativo
 
-## Página 2: Presentación del mundo antiguo
+Los Dinoamigos nacen.
 
-**Texto:** Hace muchísimo tiempo, antes de las ciudades, los coches y los parques, el mundo estaba lleno de montañas gigantes, ríos brillantes y árboles enormes. En ese mundo antiguo, algo mágico estaba a punto de pasar.
+### Descripción visual
 
-**Imagen:** Valle prehistórico amplio con volcanes lejanos, helechos grandes, ríos y nubes.
+Cinco huevos brillan en un valle prehistórico con montañas suaves y una luz azul lejana.
 
-## Página 3: Los huevos misteriosos
+### Personajes presentes
 
-**Texto:** En distintos lugares del mundo aparecieron cinco huevos misteriosos. Uno estaba en un valle. Otro en una pradera. Otro entre rocas. Otro en la selva. Y otro bajo el mar. Todos brillaban suavemente.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
 
-**Imagen:** Composición con varios huevos en diferentes ambientes.
+### Entorno
 
-## Página 4: El huevo de Rexxie
+huevos mágicos
 
-**Texto:** En el valle, un huevo grande comenzó a moverse. Crac. Crac. CRAC. De pronto, salió una cabecita con dientes pequeños. Era Rexxie, el T-Rex bebé.
+### Emoción principal
 
-**Imagen:** Rexxie rompiendo el huevo, con cara graciosa.
+asombro
 
-## Página 5: Rexxie ruge
+### Prompt visual base
 
-**Texto:** Rexxie levantó la cabeza y quiso rugir como un dinosaurio enorme. —¡Rawr! Pero su rugido sonó tan pequeño que él mismo se asustó.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Cinco huevos brillan en un valle prehistórico con montañas suaves y una luz azul lejana. Environment: huevos mágicos. Emotion: asombro. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
 
-**Imagen:** Rexxie rugiendo, con pájaros prehistóricos mirando sorprendidos.
+### Notas para libro de colorear
 
-## Página 6: Nace Dipo
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** En una pradera verde, otro huevo se abrió lentamente. De allí salió Dipo, un Diplodocus bebé con un cuello muy largo y una sonrisa muy dulce. —Hola, mundo —dijo Dipo.
+## Página 02 — El mundo antiguo
 
-**Imagen:** Dipo saliendo del huevo, rodeado de flores y hojas gigantes.
+### Texto narrativo
 
-## Página 7: Dipo mira las montañas
+Hace muchísimo tiempo, el mundo estaba lleno de montañas, ríos y árboles enormes. Algo mágico iba a pasar.
 
-**Texto:** Dipo estiró su cuello y vio unas montañas altísimas. —Tal vez allí encuentre amigos —pensó. Y comenzó a caminar despacito.
+### Descripción visual
 
-**Imagen:** Dipo mirando montañas lejanas.
+Valle prehistórico amplio con helechos, río y volcanes lejanos.
 
-## Página 8: Nace Trici
+### Personajes presentes
 
-**Texto:** Entre rocas y flores, un huevo pequeño pero fuerte empezó a temblar. PUM. PUM. PUM. Trici rompió el cascarón con sus cuernitos.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
 
-**Imagen:** Trici saliendo con energía, pedacitos de cascarón volando.
+### Entorno
 
-## Página 9: Trici quiere proteger
+valle prehistórico
 
-**Texto:** Trici miró a su alrededor y dijo: —Yo voy a cuidar de todos. Pero al dar su primer paso, se tropezó con su propia cola.
+### Emoción principal
 
-**Imagen:** Trici cayendo suavemente, con expresión graciosa.
+maravilla
 
-## Página 10: Nace Velo
+### Prompt visual base
 
-**Texto:** En la selva, un huevo empezó a dar saltitos. Antes de abrirse del todo, Velo ya estaba corriendo. —¡Soy rápido! ¡Soy Velo!
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Valle prehistórico amplio con helechos, río y volcanes lejanos. Environment: valle prehistórico. Emotion: maravilla.
 
-**Imagen:** Velo saliendo del huevo y corriendo entre hojas.
+### Notas para libro de colorear
 
-## Página 11: Velo explora
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Velo corrió entre árboles gigantes, saltó una raíz y dio tres vueltas alrededor de una palmera. —Tengo que encontrar a alguien para jugar —dijo.
+## Página 03 — Los huevos misteriosos
 
-**Imagen:** Velo explorando la selva.
+### Texto narrativo
 
-## Página 12: Nace Mega
+Cinco huevos aparecieron en lugares distintos. Todos brillaban como pequeñas lunas.
 
-**Texto:** En el océano, dentro de una burbuja enorme, brillaba el último huevo. Glu. Glu. GLU. El huevo se abrió y salió Mega, el Megalodón bebé.
+### Descripción visual
 
-**Imagen:** Mega saliendo del huevo bajo el mar, rodeado de peces y burbujas.
+Composición con huevos en valle, pradera, rocas, selva y océano.
 
-## Página 13: Mega saluda
+### Personajes presentes
 
-**Texto:** Mega sonrió con todos sus dientecitos. —¡Glu-glu, hola! Los peces se asustaron, pero Mega solo quería jugar.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
 
-**Imagen:** Mega sonriendo mientras peces pequeños se esconden.
+### Entorno
 
-## Página 14: Los caminos se cruzan
+cinco lugares
 
-**Texto:** Sin saberlo, todos los Dinoamigos empezaron a caminar hacia el mismo lugar. Rexxie venía del valle. Dipo venía de la pradera. Trici venía de las rocas. Velo venía de la selva. Y Mega nadaba por el río.
+### Emoción principal
 
-**Imagen:** Mapa visual sencillo con caminos que se unen.
+misterio suave
 
-## Página 15: Primer encuentro
+### Prompt visual base
 
-**Texto:** El primero en llegar fue Rexxie. Luego apareció Dipo. Después llegó Trici. Velo apareció corriendo. Y Mega asomó la cabeza desde el agua. Todos se miraron en silencio.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Composición con huevos en valle, pradera, rocas, selva y océano. Environment: cinco lugares. Emotion: misterio suave.
 
-**Imagen:** Los cinco dinosaurios viéndose por primera vez.
+### Notas para libro de colorear
 
-## Página 16: Se hacen amigos
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Rexxie dijo: —Yo soy Rexxie. Dipo dijo: —Yo soy Dipo. Trici dijo: —Yo soy Trici. Velo gritó: —¡Yo soy Velo! Mega hizo burbujas y dijo: —¡Y yo soy Mega! Desde ese momento, fueron amigos.
+## Página 04 — Nace Rexxie
 
-**Imagen:** Los cinco dinosaurios juntos sonriendo.
+### Texto narrativo
 
-## Página 17: El gran viaje
+Crac, crac, crac. Del primer huevo salió Rexxie, un T-Rex bebé con ojos enormes.
 
-**Texto:** Los Dinoamigos decidieron buscar un lugar seguro. Caminaron juntos por montes verdes y caminos llenos de hojas. Dipo miraba desde arriba. Velo corría adelante. Trici cuidaba el camino. Rexxie iba muy serio. Y Mega seguía el río.
+### Descripción visual
 
-**Imagen:** Grupo caminando por montes.
+Rexxie rompiendo el cascarón con dientes redondeados.
 
-## Página 18: Las montañas
+### Personajes presentes
 
-**Texto:** Después llegaron a unas montañas enormes. —Son muy altas —dijo Rexxie. —Podemos subir juntos —respondió Trici. Dipo ayudó con su cuello largo y Velo encontró el mejor camino.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
 
-**Imagen:** Dinosaurios subiendo una montaña.
+### Entorno
 
-## Página 19: El río brillante
+valle
 
-**Texto:** Al otro lado de la montaña había un río muy ancho. Rexxie miró el agua con miedo. Mega saltó feliz. —¡Glu-glu! ¡Yo ayudo!
+### Emoción principal
 
-**Imagen:** Mega en el agua ayudando a cruzar.
+ternura
 
-## Página 20: Todos cruzan
+### Prompt visual base
 
-**Texto:** Mega nadó al frente. Dipo usó su cuello como puente. Trici empujó una roca. Velo saltó de piedra en piedra. Y Rexxie cruzó despacito, sin mirar abajo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie rompiendo el cascarón con dientes redondeados. Environment: valle. Emotion: ternura.
 
-**Imagen:** Escena divertida cruzando el río.
+### Notas para libro de colorear
 
-## Página 21: El cielo cambia
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Esa noche, el cielo se puso rojo. Las estrellas dejaron de brillar. El suelo empezó a temblar. Y una bola de fuego apareció en el cielo.
+## Página 05 — El rugido pequeño
 
-**Imagen:** Meteorito cayendo a lo lejos, dinosaurios mirando asustados.
+### Texto narrativo
 
-## Página 22: El meteorito
+Rexxie quiso rugir fuerte. —¡Rawr! Sonó tan pequeño que él mismo se sorprendió.
 
-**Texto:** —¿Eso es una piedra gigante? —preguntó Velo. —No me gusta esa piedra —dijo Dipo. El meteorito cayó lejos, pero hizo temblar todo el mundo. BOOOOM.
+### Descripción visual
 
-**Imagen:** Explosión lejana, sin ser terrorífica, con los dinosaurios corriendo.
+Rexxie intentando parecer feroz mientras aves lo miran.
 
-## Página 23: La cueva brillante
+### Personajes presentes
 
-**Texto:** Los Dinoamigos corrieron hasta una cueva. Dentro había cristales azules que brillaban como estrellas. Todos se abrazaron. Y juntos sobrevivieron.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
 
-**Imagen:** Dinosaurios refugiados en una cueva luminosa.
+### Entorno
 
-## Página 24: La luz azul
+valle
 
-**Texto:** Cuando todo quedó en silencio, una luz azul apareció en el cielo. No era una estrella. No era la luna. Era algo redondo, brillante y misterioso.
+### Emoción principal
 
-**Imagen:** Platillo azul en el cielo, visto desde la entrada de la cueva.
+humor
 
-## Página 25: El platillo volador
+### Prompt visual base
 
-**Texto:** El platillo bajó lentamente. Tenía luces violetas, verdes, rosas y azules. De él salieron burbujas mágicas que flotaban en el aire.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie intentando parecer feroz mientras aves lo miran. Environment: valle. Emotion: humor.
 
-**Imagen:** Platillo volador colorido lanzando burbujas.
+### Notas para libro de colorear
 
-## Página 26: Las burbujas mágicas
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Una burbuja rodeó a Rexxie. Otra a Dipo. Otra a Trici. Otra a Velo. Y otra a Mega. —¡Estoy flotando! —gritó Rexxie. —¡Hace cosquillas! —dijo Dipo.
+## Página 06 — Nace Dipo
 
-**Imagen:** Cada dinosaurio dentro de una burbuja luminosa.
+### Texto narrativo
 
-## Página 27: El viaje al futuro
+En una pradera verde nació Dipo, un Diplodocus bebé de cuello largo y sonrisa dulce.
 
-**Texto:** El platillo lanzó un rayo azul muy suave. Las burbujas comenzaron a girar. Las montañas desaparecieron. Las estrellas cambiaron. Y los Dinoamigos viajaron al futuro.
+### Descripción visual
 
-**Imagen:** Túnel de tiempo con relojes, estrellas, burbujas y colores.
+Dipo saliendo del huevo entre flores grandes.
 
-## Página 28: Llegada al parque
+### Personajes presentes
 
-**Texto:** POP. Las burbujas explotaron suavemente. Los Dinoamigos aparecieron en un parque moderno. Ahora eran pequeños, como mascotas. Mega apareció dentro de un carrito-acuario con ruedas y luces azules. —¡Glu-glu! ¡Tengo vehículo nuevo!
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
 
-**Imagen:** Dinosaurios pequeños en un parque urbano de noche.
+### Entorno
 
-## Página 29: Los niños exploradores
+pradera
 
-**Texto:** Cerca de allí, cinco niños jugaban a ser exploradores. Maxi llevaba una linterna. Luna tenía un mapa. Teo cargaba una mochila. Mía observaba las huellas. Leo iba delante con mucho valor.
+### Emoción principal
 
-**Imagen:** Niños en campamento urbano con tiendas, linternas y mapas.
+calma
 
-## Página 30: El descubrimiento
+### Prompt visual base
 
-**Texto:** Mía vio unas huellas pequeñas. —Miren esto —susurró. Leo iluminó unos arbustos. Algo se movió. —Rawr... Los niños gritaron. Los dinosaurios también gritaron. Y todos se asustaron a la vez.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Dipo saliendo del huevo entre flores grandes. Environment: pradera. Emotion: calma.
 
-**Imagen:** Niños y dinosaurios mirándose con sorpresa.
+### Notas para libro de colorear
 
-## Página 31: La adopción
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Después del susto, todos empezaron a reír. Los niños entendieron que los Dinoamigos estaban solos. Maxi adoptó a Mega. Luna adoptó a Dipo. Teo adoptó a Velo. Mía adoptó a Trici. Leo adoptó a Rexxie. Y todos prometieron: —Nunca estarán solos.
+## Página 07 — Dipo mira lejos
 
-**Imagen:** Niños abrazando a los dinosaurios.
+### Texto narrativo
 
-## Página 32: Paseo por la ciudad
+Dipo estiró el cuello y vio montañas. —Tal vez allí encuentre amigos.
 
-**Texto:** Al día siguiente, los niños llevaron a los Dinoamigos a conocer la ciudad. Vieron semáforos, autobuses, fuentes, parques, edificios altos y tiendas de helados. Esa noche volvieron al campamento y miraron las estrellas. A lo lejos, una luz azul parpadeó.
+### Descripción visual
 
-**Imagen:** Niños paseando dinosaurios por la ciudad de día y escena final nocturna con luz azul.
+Dipo mirando hacia montañas lejanas.
 
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+pradera
+
+### Emoción principal
+
+esperanza
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Dipo mirando hacia montañas lejanas. Environment: pradera. Emotion: esperanza.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 08 — Nace Trici
+
+### Texto narrativo
+
+Entre rocas y flores, Trici rompió su cascarón con tres cuernitos redondos.
+
+### Descripción visual
+
+Trici saliendo con energía y cascarón alrededor.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+zona rocosa
+
+### Emoción principal
+
+energía
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Trici saliendo con energía y cascarón alrededor. Environment: zona rocosa. Emotion: energía.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 09 — Trici protege
+
+### Texto narrativo
+
+—Yo voy a cuidar de todos —dijo Trici. Luego tropezó con su cola y se rio.
+
+### Descripción visual
+
+Trici cayendo suavemente sin daño.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+zona rocosa
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Trici cayendo suavemente sin daño. Environment: zona rocosa. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 10 — Nace Velo
+
+### Texto narrativo
+
+En la selva, Velo salió del huevo casi corriendo. —¡Soy rápido!
+
+### Descripción visual
+
+Velo saliendo entre hojas y raíces.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+selva
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Velo saliendo entre hojas y raíces. Environment: selva. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 11 — Velo explora
+
+### Texto narrativo
+
+Velo saltó raíces, dio vueltas y buscó a alguien con quien jugar.
+
+### Descripción visual
+
+Velo corriendo por la selva.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+selva
+
+### Emoción principal
+
+curiosidad
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Velo corriendo por la selva. Environment: selva. Emotion: curiosidad.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 12 — Nace Mega
+
+### Texto narrativo
+
+Bajo el mar, un huevo dentro de una burbuja se abrió. Nació Mega, el Megalodón bebé.
+
+### Descripción visual
+
+Mega bajo el agua con peces y burbujas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+océano
+
+### Emoción principal
+
+sorpresa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mega bajo el agua con peces y burbujas. Environment: océano. Emotion: sorpresa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 13 — Mega saluda
+
+### Texto narrativo
+
+Mega sonrió. —¡Glu-glu, hola! Los peces se escondieron, pero él solo quería jugar.
+
+### Descripción visual
+
+Mega sonriendo con peces tímidos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+océano
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mega sonriendo con peces tímidos. Environment: océano. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 14 — Caminos que se juntan
+
+### Texto narrativo
+
+Sin saberlo, todos avanzaron hacia el mismo lugar.
+
+### Descripción visual
+
+Mapa sencillo con cinco caminos que se unen.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+mapa prehistórico
+
+### Emoción principal
+
+expectativa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mapa sencillo con cinco caminos que se unen. Environment: mapa prehistórico. Emotion: expectativa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 15 — Primer encuentro
+
+### Texto narrativo
+
+Rexxie, Dipo, Trici, Velo y Mega se miraron en silencio.
+
+### Descripción visual
+
+Los cinco bebés dinosaurios viéndose por primera vez.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+claro junto al río
+
+### Emoción principal
+
+sorpresa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Los cinco bebés dinosaurios viéndose por primera vez. Environment: claro junto al río. Emotion: sorpresa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 16 — Somos amigos
+
+### Texto narrativo
+
+Cada uno dijo su nombre. Mega hizo burbujas. Desde ese momento fueron amigos.
+
+### Descripción visual
+
+Los cinco juntos sonriendo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+claro
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Los cinco juntos sonriendo. Environment: claro. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 17 — El gran viaje
+
+### Texto narrativo
+
+Decidieron buscar un lugar seguro. Cada Dinoamigo ayudó a su manera.
+
+### Descripción visual
+
+Grupo avanzando por montes verdes.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+montes
+
+### Emoción principal
+
+compañerismo
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo avanzando por montes verdes. Environment: montes. Emotion: compañerismo.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 18 — Las montañas
+
+### Texto narrativo
+
+Las montañas eran altas, pero Trici dijo: —Podemos subir juntos.
+
+### Descripción visual
+
+Dinosaurios subiendo con ayuda mutua.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+montañas
+
+### Emoción principal
+
+valentía
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Dinosaurios subiendo con ayuda mutua. Environment: montañas. Emotion: valentía.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 19 — El río brillante
+
+### Texto narrativo
+
+Al otro lado había un río ancho. Mega saltó feliz. —¡Glu-glu! ¡Yo ayudo!
+
+### Descripción visual
+
+Mega en el agua junto al grupo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+río
+
+### Emoción principal
+
+confianza
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mega en el agua junto al grupo. Environment: río. Emotion: confianza.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 20 — Cruce divertido
+
+### Texto narrativo
+
+Dipo hizo de puente, Velo saltó piedras y Rexxie cruzó despacito.
+
+### Descripción visual
+
+Escena cómica cruzando el río.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+río
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Escena cómica cruzando el río. Environment: río. Emotion: humor.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 21 — El cielo cambia
+
+### Texto narrativo
+
+Esa noche el cielo se puso rojo y una bola de fuego apareció muy lejos.
+
+### Descripción visual
+
+Meteorito lejano visto con asombro.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+noche prehistórica
+
+### Emoción principal
+
+miedo suave
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Meteorito lejano visto con asombro. Environment: noche prehistórica. Emotion: miedo suave.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 22 — El meteorito lejano
+
+### Texto narrativo
+
+El meteorito cayó lejos. Hizo BOOOM, pero los Dinoamigos corrieron juntos.
+
+### Descripción visual
+
+Explosión lejana no terrorífica.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+camino
+
+### Emoción principal
+
+urgencia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Explosión lejana no terrorífica. Environment: camino. Emotion: urgencia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 23 — La cueva brillante
+
+### Texto narrativo
+
+Se refugiaron en una cueva con cristales azules. Se abrazaron hasta que pasó el temblor.
+
+### Descripción visual
+
+Cueva luminosa con cristales y grupo unido.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+cueva brillante
+
+### Emoción principal
+
+ternura
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Cueva luminosa con cristales y grupo unido. Environment: cueva brillante. Emotion: ternura.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 24 — La luz azul
+
+### Texto narrativo
+
+Cuando todo quedó tranquilo, una luz azul apareció. No era una estrella.
+
+### Descripción visual
+
+Platillo Azul visto desde la cueva.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+entrada de cueva
+
+### Emoción principal
+
+misterio
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Platillo Azul visto desde la cueva. Environment: entrada de cueva. Emotion: misterio. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 25 — El Platillo Azul
+
+### Texto narrativo
+
+El platillo bajó despacio y soltó burbujas mágicas de muchos colores.
+
+### Descripción visual
+
+Platillo amigable lanzando burbujas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+cielo
+
+### Emoción principal
+
+maravilla
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Platillo amigable lanzando burbujas. Environment: cielo. Emotion: maravilla. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 26 — Burbujas mágicas
+
+### Texto narrativo
+
+Una burbuja rodeó a cada Dinoamigo. —¡Hace cosquillas! —dijo Dipo.
+
+### Descripción visual
+
+Dinosaurios dentro de burbujas luminosas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+cueva
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Dinosaurios dentro de burbujas luminosas. Environment: cueva. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 27 — Viaje al futuro
+
+### Texto narrativo
+
+Las burbujas giraron. Las montañas cambiaron. Los Dinoamigos viajaron al futuro.
+
+### Descripción visual
+
+Túnel con estrellas, relojes y burbujas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+túnel temporal
+
+### Emoción principal
+
+asombro
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Túnel con estrellas, relojes y burbujas. Environment: túnel temporal. Emotion: asombro.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 28 — Llegada al parque
+
+### Texto narrativo
+
+POP. Aparecieron en un parque moderno, pequeños como mascotas. Mega tenía un carrito-acuario.
+
+### Descripción visual
+
+Dinoamigos pequeños en parque moderno nocturno.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+
+### Entorno
+
+parque moderno
+
+### Emoción principal
+
+sorpresa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Dinoamigos pequeños en parque moderno nocturno. Environment: parque moderno. Emotion: sorpresa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 29 — Niños exploradores
+
+### Texto narrativo
+
+Cerca había cinco niños exploradores: Maxi, Luna, Teo, Mía y Leo.
+
+### Descripción visual
+
+Niños con linternas, mapa y mochilas.
+
+### Personajes presentes
+
+- Maxi
+- Luna
+- Teo
+- Mía
+- Leo
+
+### Entorno
+
+campamento urbano
+
+### Emoción principal
+
+curiosidad
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Niños con linternas, mapa y mochilas. Environment: campamento urbano. Emotion: curiosidad.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 30 — El descubrimiento
+
+### Texto narrativo
+
+Niños y dinosaurios se asustaron a la vez. Luego se miraron mejor.
+
+### Descripción visual
+
+Primer encuentro entre niños y Dinoamigos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Maxi
+- Luna
+- Teo
+- Mía
+- Leo
+
+### Entorno
+
+arbustos del parque
+
+### Emoción principal
+
+sorpresa divertida
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Primer encuentro entre niños y Dinoamigos. Environment: arbustos del parque. Emotion: sorpresa divertida.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 31 — Promesa de amistad
+
+### Texto narrativo
+
+Los niños prometieron cuidarlos. Cada niño encontró a su Dinoamigo.
+
+### Descripción visual
+
+Abrazos tiernos de adopción.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Maxi
+- Luna
+- Teo
+- Mía
+- Leo
+
+### Entorno
+
+campamento
+
+### Emoción principal
+
+ternura
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Abrazos tiernos de adopción. Environment: campamento. Emotion: ternura.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 32 — Paseo por la ciudad
+
+### Texto narrativo
+
+Conocieron semáforos, fuentes, autobuses y helados. De noche, una luz azul parpadeó.
+
+### Descripción visual
+
+Paseo urbano y cierre con luz azul en el cielo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Maxi
+- Luna
+- Teo
+- Mía
+- Leo
+
+### Entorno
+
+ciudad moderna
+
+### Emoción principal
+
+misterio feliz
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Paseo urbano y cierre con luz azul en el cielo. Environment: ciudad moderna. Emotion: misterio feliz. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer

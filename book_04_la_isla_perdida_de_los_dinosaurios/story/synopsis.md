@@ -1,24 +1,21 @@
-# Sinopsis
+# La Isla Perdida de los Dinosaurios - sinopsis
 
-Una noche en el campamento, Luke tiene una pesadilla. Ve una isla perdida con montañas, ríos, lagos, una puerta enorme y un oso guardián con un ojo herido. Dentro de la isla están atrapados los padres de los Dinoamigos.
+## Concepto
 
-Al despertar, Luke descubre que ha dibujado un mapa. Olic abre las alas y Luke entiende su mensaje: deben ir.
+Libro 04 de la saga Los Dinoamigos. El foco editorial es familias perdidas, mapa, retos de isla, rescate familiar, Aeron y marca alienígena.
 
-El equipo prepara mochilas, linternas, cuerdas y comida. Viajan al amanecer atravesando montes, montañas, ríos y un lago brillante. Al cruzar la niebla, la Isla Perdida de los Dinosaurios aparece sobre una montaña enorme.
+## Resumen breve
 
-En la entrada los espera Baruk, el oso guardián. Parece duro, pero no es malo. Advierte que la isla tiene trampas, protectores y caminos que engañan. Al ver que el equipo entra por amor y no por tesoros, los deja pasar.
+Los Dinoamigos 4: La Isla Perdida de los Dinosaurios. La aventura avanza desde campamento hasta regreso al campamento, con retos pensados para niños de 5 a 10 años, humor visual, peligro suave y resolución por amistad.
 
-Dentro de la isla superan varios retos: el Martillo Dormilón, el Laberinto de las Risas, los Puentes Saltarines, la Cámara de los Protectores, la Batalla de Piedra y Musgo y la Puerta Familiar.
+## Problema principal
 
-En el camino, Teo aprende que no todo se resuelve corriendo. Se golpea la pierna de forma leve y se queda un rato con Luna y Dipo en una zona segura.
+El equipo debe resolver una misión clara sin perder la ternura de la historia original.
 
-Al final, el grupo dice la palabra secreta: “Familia”. La puerta se abre y encuentran a los padres atrapados: Orin, padre de Rexxie; Tricero, padre de Trici; Brachio, padre de Dipo; y Crick, padre de Mega.
+## Resolución
 
-Pero falta Aeron, el padre de Olic. Orin revela que los alienígenas se lo llevaron al espacio. Luke usa su visor azul para rastrear la energía de la nave, chasquea los dedos y una burbuja espacial transporta al grupo.
+Rexxie queda con una marca roja y deben buscar la Planta Secreta.
 
-Rescatan a Aeron de una cápsula de luz, pero durante la huida una chispa alienígena toca a Rexxie y le deja una marca roja que duele.
+## Puente de continuidad
 
-De vuelta en el campamento, el médico espacial explica que para calmar esa marca deberán buscar la planta secreta.
-
-Así empieza la siguiente aventura.
-
+Este libro conserva los nombres oficiales, refuerza los vínculos niño-Dinoamigo y prepara el siguiente paso de la temporada sin convertir la saga en ciencia ficción dura.

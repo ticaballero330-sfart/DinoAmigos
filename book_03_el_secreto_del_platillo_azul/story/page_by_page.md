@@ -1,194 +1,1335 @@
-# Distribución página por página
+# El Secreto del Platillo Azul - page by page
 
-## Página 1: Portada
+Cada página mantiene una acción clara, emoción visible y una composición apta para ilustración y libro de colorear.
 
-**Texto:** Los Dinoamigos 3: El Secreto del Platillo Azul.
+## Página 01 — Portada
 
-**Imagen:** Rexxie, Leo y los demás mirando un platillo azul enorme en el cielo. Olic vuela cerca de la nave con Luke encima. Abajo, los Dinoamigos observan con sorpresa. El cofre dorado puede aparecer como detalle pequeño.
+### Texto narrativo
 
-## Página 2: Noche en el campamento
+Los Dinoamigos 3: El Secreto del Platillo Azul.
 
-**Texto:** Después de pedir más aventuras a la estrella fugaz, todos volvieron a dormir en el campamento. La noche estaba tranquila. Las tiendas se movían suavemente con el viento.
+### Descripción visual
 
-**Imagen:** Campamento de noche con niños y dinosaurios durmiendo.
+Rexxie, Leo, Luke y Olic frente al Platillo Azul.
 
-## Página 3: Rexxie despierta
+### Personajes presentes
 
-**Texto:** Rexxie abrió un ojo. Luego abrió el otro. Algo azul brillaba en el cielo. No era una estrella. No era la luna. Y se estaba moviendo.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Rexxie despertando y mirando una luz azul por encima de las tiendas.
+### Entorno
 
-## Página 4: El platillo azul
+ruinas y cielo
 
-**Texto:** Rexxie levantó la cabeza. —¿Qué es eso? La luz azul bajó un poco. Era redonda. Era brillante. Era silenciosa. Era el platillo azul.
+### Emoción principal
 
-**Imagen:** Platillo azul en el cielo con luces suaves.
+asombro
 
-## Página 5: Rexxie despierta a todos
+### Prompt visual base
 
-**Texto:** Rexxie corrió por el campamento. —¡Despierten! ¡Despierten! Leo se levantó asustado. —¿Qué pasa? Rexxie señaló el cielo. —¡El platillo azul volvió!
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie, Leo, Luke y Olic frente al Platillo Azul. Environment: ruinas y cielo. Emotion: asombro. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
 
-**Imagen:** Rexxie despertando a niños y Dinoamigos.
+### Notas para libro de colorear
 
-## Página 6: Todos miran el cielo
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Todos salieron de las tiendas. Maxi abrió la boca. Luna miró las luces. Teo quiso correr hacia allí. Mía observó el movimiento. Leo susurró: —Nos está llamando.
+## Página 02 — Campamento tranquilo
 
-**Imagen:** Grupo completo mirando el platillo azul.
+### Texto narrativo
 
-## Página 7: La luz desaparece
+Después del deseo, todos volvieron a dormir. La noche parecía quieta.
 
-**Texto:** El platillo se movió lentamente. Después dejó un rastro azul en el cielo. Y desapareció detrás de unas montañas. Velo gritó: —¡Hay que seguirlo!
+### Descripción visual
 
-**Imagen:** Platillo alejándose detrás de montañas.
+Campamento nocturno.
 
-## Página 8: El camino misterioso
+### Personajes presentes
 
-**Texto:** Los niños tomaron linternas, mapas y mochilas. Los Dinoamigos caminaron junto a ellos. Mega hizo burbujas en su carrito-acuario. —¡Glu-glu! ¡Otra aventura!
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Grupo caminando de noche siguiendo la luz azul.
+### Entorno
 
-## Página 9: El lugar antiguo
+campamento
 
-**Texto:** Llegaron a un lugar que los niños habían visto antes. Había piedras antiguas. Había símbolos azules. Había un círculo dibujado en el suelo. Mía dijo: —Este lugar no estaba así antes.
+### Emoción principal
 
-**Imagen:** Ruinas antiguas con símbolos azules brillando.
+calma
 
-## Página 10: Las alas
+### Prompt visual base
 
-**Texto:** En el centro del círculo había unas alas. No eran de plumas. No eran de metal normal. Parecían hechas de luz azul. Luna susurró: —Son preciosas.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Campamento nocturno. Environment: campamento. Emotion: calma.
 
-**Imagen:** Alas azules mágicas flotando sobre piedras.
+### Notas para libro de colorear
 
-## Página 11: Una sombra en el cielo
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Entonces una sombra grande cruzó la luna. Todos miraron hacia arriba. Algo volaba sobre ellos. No era el platillo. Era un dinosaurio volador.
+## Página 03 — Rexxie despierta
 
-**Imagen:** Silueta de Olic cruzando el cielo nocturno.
+### Texto narrativo
 
-## Página 12: Aparece Olic
+Rexxie vio algo azul moviéndose en el cielo.
 
-**Texto:** El dinosaurio volador bajó suavemente. Sus alas brillaban con marcas azules. Sobre su espalda iba un niño. El niño levantó la mano. —Hola. Soy Luke.
+### Descripción visual
 
-**Imagen:** Olic aterrizando con Luke montado encima.
+Rexxie mirando por encima de la tienda.
 
-## Página 13: Luke se presenta
+### Personajes presentes
 
-**Texto:** Luke sonrió. —Y él es Olic. Olic hizo: —Skreee. Velo dio un salto. —¡Un nuevo Dinoamigo!
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
 
-**Imagen:** Luke y Olic saludando al grupo.
+### Entorno
 
-## Página 14: Luke conoce el platillo
+campamento
 
-**Texto:** Luke señaló el cielo. —Llevo días siguiendo esa luz azul. —No es una estrella. —No es una nube. —Es una nave. Todos gritaron: —¿Una nave?
+### Emoción principal
 
-**Imagen:** Luke explicando, todos sorprendidos.
+curiosidad
 
-## Página 15: El platillo vuelve
+### Prompt visual base
 
-**Texto:** De pronto, las nubes se abrieron. El platillo azul apareció sobre las ruinas. Sus luces giraban. Sus puertas brillaban. Y una rampa bajó hasta el suelo.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie mirando por encima de la tienda. Environment: campamento. Emotion: curiosidad.
 
-**Imagen:** Platillo azul descendiendo sobre las ruinas.
+### Notas para libro de colorear
 
-## Página 16: Entrando en la nave
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Trici dio un paso adelante. —Si entramos, entramos juntos. Rexxie respiró profundo. Leo tomó su patita. Y todos subieron por la rampa azul.
+## Página 04 — Vuelve el platillo
 
-**Imagen:** Grupo entrando en el platillo.
+### Texto narrativo
 
-## Página 17: Dentro del platillo
+No era una estrella. Era el Platillo Azul.
 
-**Texto:** Dentro había pasillos redondos. Luces azules. Botones grandes. Pantallas con símbolos. Y tubos llenos de burbujas. Teo miró un botón. Mía dijo: —Ni lo pienses.
+### Descripción visual
 
-**Imagen:** Interior colorido de la nave.
+Platillo redondo y brillante.
 
-## Página 18: Los alienígenas
+### Personajes presentes
 
-**Texto:** De pronto, una puerta se abrió. Aparecieron pequeños alienígenas con cascos transparentes. Uno gritó: —¡Intrusos brillantes! Otro gritó: —¡Protejan el cofre!
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
 
-**Imagen:** Alienígenas pequeños y cómicos apareciendo.
+### Entorno
 
-## Página 19: Redes de luz
+cielo
 
-**Texto:** Los alienígenas lanzaron redes de luz. Velo corrió tan rápido que ninguna lo atrapó. Dipo levantó a Luna con su cuello. Mega lanzó un chorro de agua. —¡Glu-glu ataque!
+### Emoción principal
 
-**Imagen:** Acción cómica con redes de luz.
+misterio
 
-## Página 20: La pelea divertida
+### Prompt visual base
 
-**Texto:** Trici empujó un robot pequeño. Rexxie rugió. Olic voló por encima de todos. Luke gritó: —¡Por aquí! Los alienígenas corrían de un lado a otro.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Platillo redondo y brillante. Environment: cielo. Emotion: misterio. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
 
-**Imagen:** Batalla caricaturesca, dinámica y segura.
+### Notas para libro de colorear
 
-## Página 21: El pasillo secreto
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Mía vio unos símbolos en la pared. —Esto no es una pared. Es una puerta escondida. Teo preguntó: —¿Y cómo se abre? Mía tocó tres símbolos azules. La puerta se abrió.
+## Página 05 — Despierten
 
-**Imagen:** Mía activando símbolos en pared.
+### Texto narrativo
 
-## Página 22: El cofre dorado
+Rexxie corrió. —¡El Platillo Azul volvió!
 
-**Texto:** Dentro de la sala secreta había un cofre dorado. Brillaba como el sol. Tenía dibujos de alas, garras, aletas y estrellas. Todos se acercaron despacio.
+### Descripción visual
 
-**Imagen:** Cofre dorado en sala circular.
+Rexxie despertando al grupo.
 
-## Página 23: La llave del equipo
+### Personajes presentes
 
-**Texto:** El cofre no se abrió. Luke leyó un símbolo. —Dice que solo se abre cuando todos ayudan. Entonces niños y Dinoamigos pusieron sus manos, patas, aletas y garras sobre el cofre.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
 
-**Imagen:** Todos tocando el cofre dorado.
+### Entorno
 
-## Página 24: El cofre se abre
+campamento
 
-**Texto:** El cofre brilló. BOOOOM. Pero no fue una explosión mala. Fue una lluvia de luces doradas y azules. Las luces rodearon a todos.
+### Emoción principal
 
-**Imagen:** Cofre abriéndose con luces mágicas.
+urgencia
 
-## Página 25: Poderes para los Dinoamigos
+### Prompt visual base
 
-**Texto:** Rexxie recibió alas rojas. Dipo recibió patas fuertes. Trici recibió armadura brillante. Velo recibió garras veloces. Mega recibió aletas turbo. Todos brillaban.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rexxie despertando al grupo. Environment: campamento. Emotion: urgencia.
 
-**Imagen:** Dinosaurios transformándose con poderes.
+### Notas para libro de colorear
 
-## Página 26: Poderes para los niños
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** Maxi recibió una cola acuática. Luna recibió alas luminosas. Teo recibió patas veloces. Mía recibió brazaletes de energía. Leo recibió botas de salto gigante. Luke recibió un visor espacial azul.
+## Página 06 — Todos miran
 
-**Imagen:** Niños recibiendo poderes mágicos.
+### Texto narrativo
 
-## Página 27: Usando los poderes
+Maxi abrió la boca. Mía observó la ruta. Leo susurró: —Nos llama.
 
-**Texto:** Los alienígenas volvieron corriendo. Pero ahora el equipo estaba listo. Velo corrió como un rayo. Luna planeó suavemente. Mega giró con sus aletas turbo. Y Rexxie intentó volar. —¡Mis alas funcionan!
+### Descripción visual
 
-**Imagen:** Grupo usando poderes de forma divertida.
+Grupo mirando al cielo.
 
-## Página 28: Los alienígenas se rinden
+### Personajes presentes
 
-**Texto:** Los alienígenas se escondieron detrás de un robot. Uno levantó una banderita blanca. —Está bien. Pueden quedarse con los poderes. Maxi sonrió. —Y ustedes pueden dejar de lanzar redes.
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
 
-**Imagen:** Alienígenas rendidos de forma graciosa.
+### Entorno
 
-## Página 29: La nave se apaga
+campamento
 
-**Texto:** La nave comenzó a parpadear. Las luces azules se apagaban. Luke gritó: —¡Tenemos que salir! Olic abrió sus alas. —Skreee.
+### Emoción principal
 
-**Imagen:** Grupo saliendo de la nave mientras las luces parpadean.
+asombro
 
-## Página 30: Vuelo sobre la ciudad
+### Prompt visual base
 
-**Texto:** Olic llevó a Luke por el cielo. Luna planeó con sus alas. Rexxie agitó las suyas muy rápido. Mega iba feliz en su carrito-acuario. Todos volvieron a la ciudad.
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo mirando al cielo. Environment: campamento. Emotion: asombro.
 
-**Imagen:** Grupo volando o viajando sobre ciudad nocturna.
+### Notas para libro de colorear
 
-## Página 31: Nuevos amigos
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
 
-**Texto:** De vuelta en el campamento, Luke y Olic se quedaron con el grupo. —¿Podemos ser parte del equipo? —preguntó Luke. Todos respondieron: —¡Claro!
+## Página 07 — Rastro azul
 
-**Imagen:** Luke y Olic integrándose con los niños y Dinoamigos.
+### Texto narrativo
 
-## Página 32: Final misterioso
+El platillo dejó una línea azul y desapareció tras las montañas.
 
-**Texto:** Esa noche, todos miraron las estrellas. El platillo azul había desaparecido. Pero ahora sabían su secreto. No estaban solos en el universo. Y todavía quedaban muchas aventuras por vivir. Fin.
+### Descripción visual
 
-**Imagen:** Grupo unido mirando el cielo, con una pequeña estrella azul lejana.
+Rastro luminoso.
 
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+cielo
+
+### Emoción principal
+
+expectativa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rastro luminoso. Environment: cielo. Emotion: expectativa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 08 — Camino nocturno
+
+### Texto narrativo
+
+Tomaron mochilas y siguieron la luz. Mega hizo burbujas de emoción.
+
+### Descripción visual
+
+Equipo avanzando de noche.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sendero
+
+### Emoción principal
+
+aventura
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo avanzando de noche. Environment: sendero. Emotion: aventura.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 09 — Ruinas antiguas
+
+### Texto narrativo
+
+Llegaron a piedras con símbolos azules que antes no brillaban.
+
+### Descripción visual
+
+Ruinas circulares.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ruinas
+
+### Emoción principal
+
+misterio
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Ruinas circulares. Environment: ruinas. Emotion: misterio.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 10 — Alas de luz
+
+### Texto narrativo
+
+En el centro flotaban alas hechas de luz azul.
+
+### Descripción visual
+
+Alas misteriosas brillando.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ruinas
+
+### Emoción principal
+
+maravilla
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Alas misteriosas brillando. Environment: ruinas. Emotion: maravilla.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 11 — Sombra voladora
+
+### Texto narrativo
+
+Una sombra cruzó la luna. No era el platillo.
+
+### Descripción visual
+
+Silueta de Olic.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+cielo
+
+### Emoción principal
+
+sorpresa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Silueta de Olic. Environment: cielo. Emotion: sorpresa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 12 — Aparece Olic
+
+### Texto narrativo
+
+Un dinosaurio volador aterrizó. Sobre él iba Luke.
+
+### Descripción visual
+
+Olic y Luke aterrizando.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ruinas
+
+### Emoción principal
+
+presentación
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Olic y Luke aterrizando. Environment: ruinas. Emotion: presentación.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 13 — Nuevo amigo
+
+### Texto narrativo
+
+—Soy Luke. Y él es Olic. —Skreee.
+
+### Descripción visual
+
+Luke saludando al grupo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ruinas
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Luke saludando al grupo. Environment: ruinas. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 14 — Es una nave
+
+### Texto narrativo
+
+Luke explicó que la luz azul era una nave. Todos gritaron: —¿Una nave?
+
+### Descripción visual
+
+Luke señalando el cielo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ruinas
+
+### Emoción principal
+
+sorpresa
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Luke señalando el cielo. Environment: ruinas. Emotion: sorpresa.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 15 — Rampa azul
+
+### Texto narrativo
+
+El Platillo Azul bajó y abrió una rampa luminosa.
+
+### Descripción visual
+
+Platillo sobre las ruinas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+ruinas
+
+### Emoción principal
+
+asombro
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Platillo sobre las ruinas. Environment: ruinas. Emotion: asombro. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 16 — Entramos juntos
+
+### Texto narrativo
+
+Trici dijo: —Si entramos, entramos juntos.
+
+### Descripción visual
+
+Grupo subiendo la rampa.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+rampa
+
+### Emoción principal
+
+valentía
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo subiendo la rampa. Environment: rampa. Emotion: valentía.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 17 — Interior redondo
+
+### Texto narrativo
+
+Había botones grandes, pantallas y tubos con burbujas. Teo miró un botón.
+
+### Descripción visual
+
+Interior amigable de nave.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+nave
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Interior amigable de nave. Environment: nave. Emotion: humor. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 18 — Alienígenas traviesos
+
+### Texto narrativo
+
+Aparecieron alienígenas pequeños. —¡Protejan el cofre!
+
+### Descripción visual
+
+Alienígenas cómicos con cascos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+nave
+
+### Emoción principal
+
+diversión
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Alienígenas cómicos con cascos. Environment: nave. Emotion: diversión. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 19 — Redes de luz
+
+### Texto narrativo
+
+Las redes brillaban, pero no hacían daño. Velo corrió entre ellas.
+
+### Descripción visual
+
+Acción con redes luminosas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+pasillo
+
+### Emoción principal
+
+juego
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Acción con redes luminosas. Environment: pasillo. Emotion: juego.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 20 — Pelea cómica
+
+### Texto narrativo
+
+Trici empujó un robot pequeño. Mega lanzó agua. Nadie se lastimó.
+
+### Descripción visual
+
+Batalla caricaturesca.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+nave
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Batalla caricaturesca. Environment: nave. Emotion: humor. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 21 — Puerta secreta
+
+### Texto narrativo
+
+Mía leyó símbolos. —Esto se piensa. Tocó tres luces azules.
+
+### Descripción visual
+
+Mía abriendo puerta.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+pasillo
+
+### Emoción principal
+
+inteligencia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Mía abriendo puerta. Environment: pasillo. Emotion: inteligencia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 22 — Cofre Dorado
+
+### Texto narrativo
+
+En una sala circular brillaba el Cofre Dorado.
+
+### Descripción visual
+
+Cofre con dibujos de alas y estrellas.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala secreta
+
+### Emoción principal
+
+maravilla
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Cofre con dibujos de alas y estrellas. Environment: sala secreta. Emotion: maravilla.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 23 — Llave del equipo
+
+### Texto narrativo
+
+Solo se abrió cuando todos pusieron manos, patas, aletas y garras.
+
+### Descripción visual
+
+Todos tocando el cofre.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala secreta
+
+### Emoción principal
+
+unión
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Todos tocando el cofre. Environment: sala secreta. Emotion: unión.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 24 — Lluvia de luces
+
+### Texto narrativo
+
+El cofre soltó luces doradas y azules. Fue bonito, no peligroso.
+
+### Descripción visual
+
+Luces rodeando al equipo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala secreta
+
+### Emoción principal
+
+magia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Luces rodeando al equipo. Environment: sala secreta. Emotion: magia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 25 — Poderes Dinoamigos
+
+### Texto narrativo
+
+Rexxie recibió alas pequeñas, Dipo patas fuertes, Trici armadura, Velo garras veloces y Mega aletas turbo.
+
+### Descripción visual
+
+Transformación de Dinoamigos.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala
+
+### Emoción principal
+
+emoción
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Transformación de Dinoamigos. Environment: sala. Emotion: emoción.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 26 — Poderes niños
+
+### Texto narrativo
+
+Maxi recibió poder acuático, Luna alas luminosas, Teo patas veloces, Mía brazaletes, Leo botas de salto y Luke visor espacial.
+
+### Descripción visual
+
+Niños con poderes.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+sala
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Niños con poderes. Environment: sala. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 27 — Prueba de poderes
+
+### Texto narrativo
+
+Usaron sus poderes con cuidado. Rexxie gritó: —¡Mis alas funcionan!
+
+### Descripción visual
+
+Equipo probando poderes.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+nave
+
+### Emoción principal
+
+diversión
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Equipo probando poderes. Environment: nave. Emotion: diversión. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 28 — Alienígenas se rinden
+
+### Texto narrativo
+
+Los alienígenas levantaron una banderita blanca. —Ya no lanzaremos redes.
+
+### Descripción visual
+
+Rendición cómica.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+nave
+
+### Emoción principal
+
+humor
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Rendición cómica. Environment: nave. Emotion: humor. Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 29 — La nave parpadea
+
+### Texto narrativo
+
+Las luces se apagaban. Luke dijo: —¡Tenemos que salir!
+
+### Descripción visual
+
+Grupo saliendo.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+rampa
+
+### Emoción principal
+
+urgencia
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo saliendo. Environment: rampa. Emotion: urgencia.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 30 — Vuelo sobre la ciudad
+
+### Texto narrativo
+
+Olic voló, Luna planeó y Mega rodó feliz en su carrito-acuario.
+
+### Descripción visual
+
+Regreso nocturno a la ciudad.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+cielo urbano
+
+### Emoción principal
+
+alegría
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Regreso nocturno a la ciudad. Environment: cielo urbano. Emotion: alegría.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 31 — Luke se une
+
+### Texto narrativo
+
+Luke preguntó si podía quedarse. Todos dijeron: —¡Claro!
+
+### Descripción visual
+
+Grupo integrado en campamento.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+campamento
+
+### Emoción principal
+
+amistad
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo integrado en campamento. Environment: campamento. Emotion: amistad.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer
+
+## Página 32 — No estamos solos
+
+### Texto narrativo
+
+Miraron las estrellas. Ahora sabían que el universo guardaba más aventuras.
+
+### Descripción visual
+
+Grupo unido bajo cielo estrellado.
+
+### Personajes presentes
+
+- Rexxie
+- Dipo
+- Trici
+- Velo
+- Mega
+- Olic
+- Maxi
+- Luna
+- Teo
+- Mía
+
+### Entorno
+
+campamento
+
+### Emoción principal
+
+gancho
+
+### Prompt visual base
+
+Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Scene: Grupo unido bajo cielo estrellado. Environment: campamento. Emotion: gancho.
+
+### Notas para libro de colorear
+
+- contornos claros
+- personajes grandes
+- evitar exceso de detalles
+- emoción fácil de leer

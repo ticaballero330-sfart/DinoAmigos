@@ -1,18 +1,21 @@
-# Sinopsis
+# Los Dinoamigos nacen - sinopsis
 
-Hace muchísimo tiempo, cuando los volcanes pintaban el cielo de naranja, aparecieron cinco huevos misteriosos en distintos lugares del mundo.
+## Concepto
 
-De un huevo nació Rexxie, un pequeño T-Rex valiente. De otro nació Dipo, un Diplodocus amable. Entre rocas y flores nació Trici, una Triceratops fuerte. En la selva nació Velo, un Velociraptor rapidísimo. Y en el océano, dentro de una burbuja gigante, nació Mega, un Megalodón divertido.
+Libro 01 de la saga Los Dinoamigos. El foco editorial es nacimiento, amistad, burbujas mágicas, llegada al futuro y adopción tierna.
 
-Al principio todos estaban separados, pero cada uno comenzó a buscar un lugar seguro. En su viaje, se fueron encontrando. Juntos atravesaron montes, subieron montañas y cruzaron ríos.
+## Resumen breve
 
-Una noche, el cielo cambió. Cayó un meteorito. El mundo tembló. Los Dinoamigos se escondieron juntos y sobrevivieron.
+Los Dinoamigos nacen. La aventura avanza desde valle prehistórico hasta ciudad moderna, con retos pensados para niños de 5 a 10 años, humor visual, peligro suave y resolución por amistad.
 
-Después apareció un platillo volador azul, lleno de luces, burbujas y rayos suaves. El platillo rodeó a los dinosaurios con burbujas mágicas y los llevó al futuro, donde se hicieron pequeños como mascotas.
+## Problema principal
 
-Llegaron a un parque moderno, cerca de un campamento urbano donde jugaban cinco niños exploradores: Maxi, Luna, Teo, Mía y Leo. Los niños encontraron a los Dinoamigos, se asustaron, luego se rieron y finalmente los adoptaron.
+El equipo debe resolver una misión clara sin perder la ternura de la historia original.
 
-Al día siguiente los pasearon por la ciudad. Cuando volvió la noche, todos miraron las estrellas desde el campamento. A lo lejos, una luz azul parpadeó en el cielo.
+## Resolución
 
-Nadie sabía si era una estrella o si el platillo volador seguía mirando.
+Una luz azul misteriosa parpadea en el cielo.
 
+## Puente de continuidad
+
+Este libro conserva los nombres oficiales, refuerza los vínculos niño-Dinoamigo y prepara el siguiente paso de la temporada sin convertir la saga en ciencia ficción dura.
