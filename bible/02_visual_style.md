@@ -4,6 +4,18 @@
 
 Estilo de libro infantil animado, con dibujos grandes, expresivos y fáciles de convertir en páginas de colorear.
 
+## Estilo oficial de color
+
+El acabado de color oficial para los 5 libros es el de las imagenes finales
+del Libro 1 en `book_01_los_dinoamigos_nacen/images/finals/`: alegre,
+luminoso, pulido, magico, con colores vivos pero suaves, luz calida o azul
+magica, personajes redondeados y fondos ricos pero faciles de leer.
+
+Ese estilo debe repetirse en todos los libros sin cambiar la paleta oficial de
+personajes. La belleza del color nunca debe permitir redisenar a un
+Dinoamigo, cambiar ropa base de un nino, adelantar poderes o romper la linea
+temporal.
+
 ## Rasgos visuales
 
 - líneas claras
@@ -37,4 +49,3 @@ Las ilustraciones deben funcionar en blanco y negro:
 - espacios amplios para colorear
 - composición clara
 - expresiones fáciles de leer
-

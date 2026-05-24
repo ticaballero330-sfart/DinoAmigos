@@ -1,0 +1,8 @@
+interface:
+  display_name: "DinoAmigos Visual Continuity"
+  short_description: "Visual style, palettes, and prompt consistency"
+  brand_color: "#22C55E"
+  default_prompt: "Use $dinoamigos-visual-continuity to make this DinoAmigos image prompt consistent with the official character designs."
+
+policy:
+  allow_implicit_invocation: true

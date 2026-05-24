@@ -1,45 +1,115 @@
-# Prompts de personajes
+# Prompts de personajes - Libro 2
+
+
+BOOK 2 VISUAL TIMELINE: Designs remain from Book 1. No Cofre Dorado powers yet. Rexxie has no wings and no red mark. Trici has no armor. Velo has no glowing claws. Mega has no turbo fins. Luna has no glowing wings. Mía has no energy bracelets. Leo has no jump boots. Teo has no speed-power legs. Do not include Olic, Luke, the Cofre Dorado, or character powers. Do not show a blue flying saucer; only abstract blue light, portal glow, or distant mystery light is allowed.
+
+STRICT CHARACTER COLOR CONTINUITY. Do not redesign characters. Keep the same official colors in every image:
+Rexxie is soft forest green with a warm cream belly, rounded teeth, big expressive eyes.
+Dipo is warm pastel yellow with mint green spots, long neck, rounded body.
+Trici is soft coral pink with a light lilac frill and ivory rounded horns.
+Velo is bright turquoise with soft dark blue stripes, small agile baby raptor body.
+Mega is ocean blue with a pale sky-blue belly and darker blue fins, cute baby megalodon, never scary.
+Maxi is a cheerful brown-skinned boy with orange shirt, green explorer vest and blue shorts.
+Luna is a blonde gentle girl with light blue shirt and soft yellow clothing accents.
+Teo has curly hair, red soft shirt, green pants and explorer backpack.
+Mía is an Asian-featured girl with violet shirt, light explorer vest and smart observant expression.
+Leo is a red-haired boy with freckles, light green shirt and blue pants.
+No alternate colors, no random palette, no redesign, no adult versions, no realistic scary dinosaurs.
 
 ## Rexxie
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Rexxie: Pequeño, ojos expresivos, dientes redondeados, alas de energía desde Libro 3, marca roja desde Libro 4.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Rexxie: Cute baby T-Rex, soft forest green, warm cream belly, rounded teeth, big expressive eyes, small body, brave and tender. Libro 2 only: no wings, no red mark, no star mark, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Dipo
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Dipo: Cuello largo, cuerpo redondeado, sonrisa amable, patas fuertes desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Dipo: Cute baby Diplodocus, warm pastel yellow, mint green spots, long neck, rounded body, gentle smile, calm posture. Libro 2 only: no glowing strong legs, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Trici
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Trici: Tres cuernitos redondeados, escudo suave, armadura brillante desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Trici: Cute baby Triceratops, soft coral pink, light lilac frill, three ivory rounded horns, protective and affectionate expression. Libro 2 only: no armor, no powers, never aggressive.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Velo
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Velo: Pequeño, ágil, postura de corredor, garras veloces desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Velo: Cute baby raptor, bright turquoise, soft dark blue stripes, small agile body, playful runner posture, clever smile. Libro 2 only: no glowing claws, no dangerous talons, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Mega
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Mega: Tiburón prehistórico bebé con carrito-acuario transparente y aletas turbo desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Mega: Cute baby megalodon, ocean blue, pale sky-blue belly, darker blue fins, big friendly smile, bubbles, never scary. In modern scenes he must be in water or in a transparent aquarium cart. Libro 2 only: no turbo fins, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Maxi
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Maxi: Ropa cómoda de explorador, sonrisa grande.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Maxi: Cheerful brown-skinned boy, orange shirt, green explorer vest, blue shorts, expressive happy face, caring companion for Mega.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Luna
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Luna: Cabello claro, mirada calma, alas luminosas desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Luna: Gentle blonde girl, light blue shirt, soft yellow clothing accents, calm caring expression. Libro 2 only: no glowing wings, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Teo
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Teo: Pelo rizado, mochila, patas veloces desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Teo: Curious child with curly hair, red soft shirt, green pants, explorer backpack, playful but safe body language. Libro 2 only: no speed-power legs, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Mía
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Mía: Ropa de exploradora ordenada, brazaletes de energía desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Mía: Asian-featured girl, violet shirt, light explorer vest, smart observant expression, practical notebook or map. Libro 2 only: no energy bracelets, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Leo
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Leo: Pecas, expresión expresiva, botas de salto desde Libro 3.. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Leo: Red-haired boy with freckles, light green shirt, blue pants, honest brave expression. Libro 2 only: no jump boots, no powers.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.
+
 
 ## Gran T-Rex protector
 
-Children's coloring book illustration, cute baby dinosaurs and children explorers, expressive faces, clean bold outlines, simple shapes, magical adventure atmosphere, friendly fantasy science fiction, suitable for children ages 5 to 10, no scary horror, no realistic violence, whimsical, playful, high readability, large characters, clear composition, black and white line art version for coloring book, optional full color version for cover and animation reference. Character reference for Gran T-Rex protector: Gran T-Rex protector. Consistent children's book design, friendly expression, readable silhouette.
+FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10.
+
+Character reference for Gran T-Rex protector: Large adult T-Rex in the prehistoric era, imponente but kind and protective, warm eyes, rounded non-scary teeth, gentle guardian posture. Never realistic horror, never violent, not Orin by name in Libro 2.
+
+Consistent children's book design, friendly expression, readable silhouette, no redesign.

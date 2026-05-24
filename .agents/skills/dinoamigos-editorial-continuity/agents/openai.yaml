@@ -1,0 +1,8 @@
+interface:
+  display_name: "DinoAmigos Editorial Continuity"
+  short_description: "Story continuity and editorial guardrails"
+  brand_color: "#3B82F6"
+  default_prompt: "Use $dinoamigos-editorial-continuity to review this DinoAmigos scene for story continuity, tone, and age fit."
+
+policy:
+  allow_implicit_invocation: true

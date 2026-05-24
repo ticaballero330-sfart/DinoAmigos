@@ -1,0 +1,8 @@
+interface:
+  display_name: "DinoAmigos Image QA"
+  short_description: "Approve, correct, or reject visual outputs"
+  brand_color: "#F97316"
+  default_prompt: "Use $dinoamigos-image-qa to review this DinoAmigos image or prompt and give an approved, correct, or rejected verdict."
+
+policy:
+  allow_implicit_invocation: true
