@@ -13,13 +13,27 @@ Colores brillantes pero limpios: azules mágicos, verdes de aventura, dorados su
 Las imagenes finales a color de `book_01_los_dinoamigos_nacen/images/finals/`
 son la referencia estetica oficial de la saga. Todas las nuevas imagenes a
 color deben mantener ese acabado: cuento infantil animado, luminoso, alegre,
-pulido, con colores saturados suaves, luz calida o brillo azul magico,
+pulido, con colores saturados suaves, luz calida preferida y brillo azul magico
+solo como acento pequeno que no oscurece la imagen,
 contornos limpios, personajes redondeados, ojos expresivos y fondos ricos pero
 legibles.
 
 Este estilo solo fija el acabado visual. La paleta, forma, edad, ropa,
 accesorios, poderes y estado narrativo de cada personaje deben seguir
 estrictamente `bible/10_character_design_color_rules.md`.
+
+## LUMINOUS BOOK 1 COLOR STYLE
+
+Toda imagen a color debe conservar luminosidad global alta, alegria visual,
+personajes bien iluminados, sombras minimas, fondos claros o pastel cuando la
+escena lo permita y contraste suave. El objetivo es que incluso las escenas de
+misterio se vean como cuento infantil luminoso, no como cine oscuro.
+
+Para noche, cueva, ruinas, niebla, camara y espacio: usar noche luminosa
+infantil con cielo azul claro o morado suave, estrellas grandes, linternas
+calidas, brillos pastel y rostros visibles. Evitar dominio azul marino,
+iluminacion low-key, sombras cinematicas, filtro azul apagado, paleta gloomy o
+drama sci-fi oscuro.
 
 ## Line art
 
@@ -49,7 +63,7 @@ Traviesos, pequeños, redondos, con cascos transparentes.
 
 ## Tecnología mágica
 
-Add glowing bubbles, blue magical light, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary.
+Add glowing bubbles, blue magical light as a small accent, soft stars, flying sparkles, friendly blue flying saucer, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary. Keep the overall image bright and cheerful; blue light must not dominate or darken the palette.
 
 ## Acción segura
 

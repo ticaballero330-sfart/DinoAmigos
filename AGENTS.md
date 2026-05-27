@@ -33,6 +33,16 @@ Para trabajos especificos de un libro, leer tambien su `README.md`, `story/page_
   `book_01_los_dinoamigos_nacen/images/finals/` son la referencia estetica
   oficial para toda la saga. Imitar su acabado alegre, luminoso, pulido,
   colorido y de cuento infantil animado en los 5 libros.
+- LUMINOUS BOOK 1 COLOR STYLE: toda imagen a color debe mantener luminosidad
+  global alta, alegria visual, cielos/fondos claros cuando la escena lo
+  permita, sombras minimas y saturacion suave. La luz calida es preferida; el
+  brillo azul magico debe funcionar como acento pequeno, no como paleta
+  dominante ni como filtro oscuro.
+- Las escenas de noche, cueva, ruinas, niebla, camara o espacio deben
+  resolverse como "noche luminosa infantil": personajes bien iluminados,
+  linternas calidas, estrellas grandes, azules o morados claros y lectura
+  alegre. No aceptar dominio azul marino, iluminacion low-key, sombras
+  cinematicas, drama oscuro ni paleta apagada.
 - El estilo del Libro 1 controla luz, acabado, alegria, contraste suave,
   riqueza de color y sensacion magica; no autoriza cambiar la paleta,
   cuerpo, edad, especie, ropa, poderes o accesorios de ningun personaje.
@@ -42,8 +52,8 @@ Para trabajos especificos de un libro, leer tambien su `README.md`, `story/page_
 - No improvisar colores, cuerpos, edades, rasgos, poderes ni ropa base.
 - No usar versiones adultas, agresivas, realistas o terrorificas de los Dinoamigos.
 - Para imagenes a color, aplicar siempre las reglas de `bible/10_character_design_color_rules.md`.
-- Todo prompt a color debe incluir un bloque `STYLE LOCK` basado en el Libro 1
-  y el bloque `STRICT CHARACTER COLOR CONTINUITY`.
+- Todo prompt a color debe incluir `STYLE LOCK`, `LUMINOUS BOOK 1 COLOR STYLE`
+  y `STRICT CHARACTER COLOR CONTINUITY`.
 - Para paginas en blanco y negro, preservar identidad por silueta, rasgos fijos y zonas coloreables limpias.
 - La espectacularidad nunca debe romper la continuidad visual.
 
@@ -69,6 +79,8 @@ Rechazar o corregir cualquier imagen, prompt o descripcion visual si:
 - Omite la marca/estrella roja de Rexxie cuando ya corresponde.
 - Muestra a Mega en ciudad o campamento moderno sin agua ni carrito-acuario.
 - Muestra a Olic sin marcas cian u ojos dorados en color.
+- Aunque respete paleta, queda demasiado oscura, apagada, azul marino,
+  cinematica, dramatica o diferente al color alegre del Libro 1.
 - Satura una pagina de colorear con detalles pequenos, sombreado gris o fondos confusos.
 - Rompe el tono seguro, luminoso y familiar de la saga.
 

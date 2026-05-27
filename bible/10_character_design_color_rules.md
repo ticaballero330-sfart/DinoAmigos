@@ -14,14 +14,31 @@ Cada personaje debe mantener siempre el mismo color base, los mismos acentos, la
 
 El estilo de color deseado para toda la saga es el look alegre y luminoso de
 las imagenes finales del Libro 1 (`book_01_los_dinoamigos_nacen/images/finals/`):
-acabado de cuento infantil animado, colores vivos pero suaves, luz calida o
-azul magica, fondos ricos pero legibles, contornos limpios y personajes
-redondeados.
+acabado de cuento infantil animado, colores vivos pero suaves, luz calida
+preferida y azul magico solo como acento pequeno, fondos ricos pero legibles,
+contornos limpios y personajes redondeados.
 
 Este estilo se aplica a iluminacion, acabado, saturacion, alegria y atmosfera.
 No se aplica a identidad. Si el generador propone una imagen hermosa pero
 cambia colores, silueta, edad, ropa base, especie, poderes o accesorios de un
 personaje, la imagen debe rechazarse.
+
+## LUMINOUS BOOK 1 COLOR STYLE
+
+La luminosidad del Libro 1 es obligatoria en toda imagen a color: brillo global
+alto, alegria visual, saturacion suave, sombras minimas, personajes y rostros
+bien iluminados, fondos claros o pastel cuando la escena lo permita y contraste
+suave.
+
+El brillo azul magico no debe dominar la imagen. Usarlo como acento de burbuja,
+portal, nave, cristal o energia, manteniendo el resto de la pagina clara y
+alegre. En escenas nocturnas, cuevas, ruinas, niebla, camaras o espacio, usar
+"noche luminosa infantil": cielo azul claro o morado suave, estrellas grandes,
+linternas calidas, brillos pastel y lectura clara de personajes.
+
+No permitir dark navy dominance, low-key lighting, moody cinematic shadows, dim
+blue cast, gloomy palette, dramatic sci-fi darkness ni fondos apagados que
+alejen el acabado del Libro 1.
 
 ## Paleta oficial de Dinoamigos
 
@@ -84,7 +101,9 @@ La marca de Rexxie sigue roja, deja de doler y al final parece una pequeña estr
 Usar este bloque en todas las imágenes a color:
 
 ```text
-STYLE LOCK. Match the luminous cheerful full-color storybook style of Book 1 final art: polished animated children's book look, joyful magical atmosphere, soft saturated colors, warm sunlight or friendly blue magical glow, clean bold outlines, rounded cute characters, expressive eyes, rich but readable backgrounds, high readability for children ages 5 to 10. Use this style for lighting, finish, color harmony and mood only; do not use it to redesign characters.
+STYLE LOCK. Match the luminous cheerful full-color storybook style of Book 1 final art: polished animated children's book look, joyful magical atmosphere, soft saturated colors, clean bold outlines, rounded cute characters, expressive eyes, rich but readable backgrounds, high readability for children ages 5 to 10. Use this style for lighting, finish, color harmony and mood only; do not use it to redesign characters.
+
+LUMINOUS BOOK 1 COLOR STYLE. Keep high overall brightness, cheerful soft-saturated color, clearly lit faces, minimal shadows, bright readable backgrounds, and a warm animated storybook feeling. Prefer warm sunlight. Use friendly blue magical glow only as a small accent; it must not become the dominant palette or darken the image. For night, cave, ruins, mist, chamber, and space scenes, use child-friendly luminous night: light blue or soft violet sky, large stars, warm lanterns, pastel glows, and readable characters. No dark navy dominance, no low-key lighting, no moody cinematic shadows, no dim blue cast, no gloomy palette, no dramatic sci-fi darkness.
 
 STRICT CHARACTER COLOR CONTINUITY. Do not redesign characters. Keep the same official colors in every image:
 Rexxie is soft forest green with a warm cream belly, rounded teeth, big expressive eyes.
@@ -119,6 +138,7 @@ BLACK AND WHITE COLORING PAGE. Keep character identity by silhouette and fixed d
 - Si Mega aparece en ciudad moderna sin agua o sin carrito-acuario, la imagen debe corregirse.
 - Si Olic aparece sin marcas luminosas cian u ojos dorados en imágenes a color, la imagen debe corregirse.
 - Si una página a color no coincide con la paleta oficial, no usarla para Amazon, portada, interiores ni publicidad.
+- Si una página a color respeta la paleta pero queda oscura, apagada, azul marino dominante, cinematica o gloomy, debe rechazarse o regenerarse.
 
 ## Flujo recomendado para el agente diseñador
 

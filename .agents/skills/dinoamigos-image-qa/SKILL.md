@@ -23,9 +23,9 @@ Read the relevant parts of:
 
 1. Identify intended use: color interior, cover, coloring page, storyboard, reference sheet, ad, or prompt.
 2. Confirm book and timeline state.
-3. For full-color images, check that the finish matches the cheerful luminous Book 1 final art style while preserving the official character palette.
+3. For full-color images, check that the finish matches the cheerful luminous Book 1 final art style while preserving the official character palette. Judge lighting separately from palette: correct character colors do not approve an image if the scene is too dark.
 4. Check character palette, silhouette, age, clothing, expression, powers, and required props.
-5. Check composition: readable action, large characters, visible emotion, safe tone, simple background.
+5. Check composition: readable action, large characters, visible emotion, safe tone, simple background, clearly lit faces, high overall brightness, and soft cheerful color.
 6. For coloring pages, check clean outlines, no grayscale shading, no heavy black fills, and enough open spaces.
 7. Return a verdict and the smallest useful correction.
 
@@ -47,6 +47,7 @@ Then include:
 
 - A main character has the wrong base color.
 - A full-color image ignores the Book 1 cheerful luminous storybook finish and drifts into a different visual style.
+- A full-color image is too dark even if the character palette is correct: dark navy dominance, low-key lighting, moody cinematic shadows, dim blue cast, gloomy palette, or dramatic sci-fi darkness.
 - A Dinoamigo looks adult, scary, aggressive, or realistic.
 - Rexxie's mark appears before the end of Book 4 or is missing when it should persist.
 - Mega is in a modern setting without water or the aquarium cart.
@@ -55,4 +56,4 @@ Then include:
 
 ## Bias
 
-Prioritize continuity over spectacle. A quieter correct image is better than a dramatic inconsistent one. A beautiful image with wrong character colors or silhouettes is not production-ready.
+Prioritize continuity and luminous Book 1 color over spectacle. A quieter correct image is better than a dramatic inconsistent one. A beautiful image with wrong character colors, wrong silhouettes, or a dark gloomy finish is not production-ready.

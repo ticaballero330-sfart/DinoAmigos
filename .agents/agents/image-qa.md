@@ -9,6 +9,9 @@ Decidir si una pieza puede usarse sin romper la consistencia visual y editorial 
 Para imagenes a color, comprobar dos cosas separadas: que el acabado coincida
 con el estilo final del Libro 1 y que la paleta oficial de personajes no cambie.
 Una imagen bonita con colores o siluetas incorrectas no esta aprobada.
+Tambien comprobar luminosidad como criterio separado: una imagen con paleta
+correcta pero demasiado oscura, azul marino, dramatica o cinematica tampoco
+esta aprobada.
 
 ## Fuentes obligatorias
 
@@ -36,6 +39,8 @@ Incluir siempre:
 ## Reglas de rechazo inmediato
 
 - Imagen a color que se aleja del acabado alegre, luminoso y pulido del Libro 1.
+- Imagen a color con dominio azul marino, iluminacion low-key, sombras
+  cinematicas, filtro azul apagado, paleta gloomy o personajes mal iluminados.
 - Color base incorrecto de un personaje principal.
 - Personaje adulto, agresivo, realista o aterrador.
 - Rexxie con marca fuera de continuidad.

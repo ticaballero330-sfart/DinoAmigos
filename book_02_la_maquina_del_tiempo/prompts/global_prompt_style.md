@@ -8,11 +8,25 @@ Children's coloring book illustration, cute baby dinosaurs and children explorer
 
 For every full-color image, match the luminous cheerful full-color storybook
 style of Book 1 final art: polished animated children's book look, joyful
-magical atmosphere, soft saturated colors, warm sunlight or friendly blue
-magical glow, clean bold outlines, rounded cute characters, expressive eyes,
-rich but readable backgrounds, and high readability for children ages 5 to 10.
+magical atmosphere, soft saturated colors, clean bold outlines, rounded cute
+characters, expressive eyes, rich but readable backgrounds, and high
+readability for children ages 5 to 10.
 Use this style for lighting, finish, color harmony and mood only; do not use it
 to redesign characters.
+
+## LUMINOUS BOOK 1 COLOR STYLE
+
+Every full-color image must keep high overall brightness, cheerful
+soft-saturated color, clearly lit faces, minimal shadows, bright readable
+backgrounds, and a warm animated storybook feeling. Prefer warm sunlight. Use
+friendly blue magical glow only as a small accent; it must not become the
+dominant palette or darken the image.
+
+For night, cave, ruins, mist, chamber, and space scenes, use child-friendly
+luminous night: light blue or soft violet sky, large stars, warm lanterns,
+pastel glows, and readable characters. No dark navy dominance, no low-key
+lighting, no moody cinematic shadows, no dim blue cast, no gloomy palette, no
+dramatic sci-fi darkness.
 
 ## STRICT CHARACTER COLOR CONTINUITY
 
@@ -38,7 +52,7 @@ outlines, no grayscale shading, no filled black areas, no tiny details.
 
 ## Escenas mágicas
 
-Add glowing bubbles, blue magical light, soft stars, flying sparkles, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary. For Book 2, show the mystery as an abstract distant blue light, blue portal glow, or Time Machine glow; do not show a visible flying saucer, Olic, Luke, the Cofre Dorado, or any powers.
+Add glowing bubbles, blue magical light as a small accent, soft stars, flying sparkles, dreamy time travel atmosphere, child-safe fantasy science fiction, colorful but clean composition, clear outlines, magical but not scary. For Book 2, show the mystery as an abstract distant blue light, blue portal glow, or Time Machine glow; do not show a visible flying saucer, Olic, Luke, the Cofre Dorado, or any powers. Keep the page bright and cheerful; blue light must not dominate or darken the palette.
 
 ## Timeline visual del Libro 2
 

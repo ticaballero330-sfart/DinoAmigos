@@ -16,6 +16,21 @@ personajes. La belleza del color nunca debe permitir redisenar a un
 Dinoamigo, cambiar ropa base de un nino, adelantar poderes o romper la linea
 temporal.
 
+## LUMINOUS BOOK 1 COLOR STYLE
+
+La estetica del Libro 1 significa luminosidad global alta. Las imagenes a color
+deben sentirse alegres, abiertas y claras: luz calida preferida, cielos o
+fondos claros cuando la escena lo permita, saturacion suave, sombras minimas,
+rostros bien iluminados y contraste amable.
+
+El brillo azul magico es un acento pequeno de fantasia, no una paleta dominante
+ni un filtro oscuro. En escenas de noche, cueva, ruinas, niebla, camara o
+espacio, usar "noche luminosa infantil": azul claro o morado suave, estrellas
+grandes, linternas calidas, brillos pastel y personajes faciles de leer.
+
+No usar dominio azul marino, iluminacion low-key, sombras cinematicas, filtro
+azul apagado, paleta gloomy ni drama visual oscuro.
+
 ## Rasgos visuales
 
 - líneas claras

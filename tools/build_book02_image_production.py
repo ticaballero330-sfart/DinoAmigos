@@ -30,13 +30,16 @@ BW_BLOCK = """BLACK AND WHITE COLORING PAGE. Keep character identity by silhouet
 COLOR_STYLE = """FULL COLOR CHILDREN'S BOOK INTERIOR ILLUSTRATION. Amazon KDP print-ready portrait composition, 8.5 x 11 inch ratio, high resolution, 300 dpi target, clean readable shapes, safe margins, no embedded text, no watermark, no decorative border. Cute baby dinosaurs and diverse children explorers, large expressive characters, clear emotional action, simple recognizable background, magical but safe adventure for children ages 5 to 10."""
 
 
+LUMINOUS_STYLE = """LUMINOUS BOOK 1 COLOR STYLE. Match the bright joyful color finish of Book 1 final art: high overall brightness, cheerful soft-saturated color, clearly lit faces, minimal shadows, bright readable backgrounds, and a warm polished animated storybook feeling. Prefer warm sunlight. Use friendly blue magical glow only as a small accent; it must not become the dominant palette or darken the image. For night, cave, roots, tunnels, portals, prehistoric night, and camp scenes, use child-friendly luminous night: light blue or soft violet sky, large stars, warm lanterns, pastel glows, and readable characters. No dark navy dominance, no low-key lighting, no moody cinematic shadows, no dim blue cast, no gloomy palette, no dramatic sci-fi darkness."""
+
+
 COLORING_STYLE = """Amazon KDP coloring book page, portrait 8.5 x 11 inch ratio, 300 dpi target, clean bold black outlines, white background, no color, no grayscale shading, no soft shadows, no heavy black fills, no tiny details, no text, no watermark, no decorative frame. Use 3 to 5 main visual elements only, large expressive characters, simple recognizable background, wide open spaces for coloring."""
 
 
 TIMELINE = """BOOK 2 VISUAL TIMELINE: Designs remain from Book 1. No Cofre Dorado powers yet. Rexxie has no wings and no red mark. Trici has no armor. Velo has no glowing claws. Mega has no turbo fins. Luna has no glowing wings. Mía has no energy bracelets. Leo has no jump boots. Teo has no speed-power legs. Do not include Olic, Luke, the Cofre Dorado, or character powers. Do not show a blue flying saucer; only abstract blue light, portal glow, or distant mystery light is allowed."""
 
 
-NEGATIVE = """NEGATIVE PROMPT: no horror, no realistic violence, no scary dinosaur teeth, no aggressive adult redesigns, no alternate colors, no text, no logo, no watermark, no decorative border, no muddy gray lighting, no hard science fiction, no Olic, no Luke, no Cofre Dorado, no powers, no wings on Rexxie, no red mark on Rexxie."""
+NEGATIVE = """NEGATIVE PROMPT: no horror, no realistic violence, no scary dinosaur teeth, no aggressive adult redesigns, no alternate colors, no text, no logo, no watermark, no decorative border, no muddy gray lighting, no dark navy dominance, no low-key lighting, no moody cinematic shadows, no dim blue cast, no gloomy palette, no dramatic sci-fi darkness, no hard science fiction, no Olic, no Luke, no Cofre Dorado, no powers, no wings on Rexxie, no red mark on Rexxie."""
 
 
 PAGE_OVERRIDES = {
@@ -47,7 +50,7 @@ PAGE_OVERRIDES = {
     },
     2: {
         "main": "Rexxie, Dipo, Trici, Velo, Mega in his transparent aquarium cart, Maxi, and optional sleeping children in tents.",
-        "focus": "Modern urban camp at night with tents and quiet lanterns, calm and safe.",
+        "focus": "Modern urban camp at child-friendly luminous night with warm lanterns, light blue-violet sky, clearly lit sleeping characters, calm and safe.",
         "simplify": "Tents, moon, lantern, and sleeping characters only.",
     },
     3: {
@@ -87,12 +90,12 @@ PAGE_OVERRIDES = {
     },
     10: {
         "main": "Rexxie, Velo, Mía, Teo, Dipo, and Mega in his aquarium cart at a tunnel entrance.",
-        "focus": "Huge friendly roots with soft blue light underneath; Trici footprints enter the root tunnel.",
+        "focus": "Huge friendly roots with warm daylight at the entrance and soft blue light only as a small accent underneath; Trici footprints enter the root tunnel, but the scene stays bright and readable.",
         "simplify": "Root arch, blue glow shapes, footprints, and a few characters.",
     },
     11: {
         "main": "Mía, Teo, Rexxie, Velo, Dipo, Mega in his aquarium cart, and the team facing the closed Time Machine.",
-        "focus": "Closed circular Time Machine underground with clocks, a simple blue spiral, big buttons, and gentle magical technology.",
+        "focus": "Closed circular Time Machine in a bright friendly underground chamber with warm reflected light, clocks, a simple blue spiral accent, big buttons, and gentle magical technology.",
         "simplify": "Circular door, three clocks, spiral, and large buttons.",
     },
     12: {
@@ -132,7 +135,7 @@ PAGE_OVERRIDES = {
     },
     19: {
         "main": "Rexxie, Dipo, Velo, Mía, Leo, and Mega reacting to a large soft shadow behind leaves.",
-        "focus": "A big rustling shadow suggests the Great T-Rex, but keep it gentle and non-horrific.",
+        "focus": "A big rustling soft shadow suggests the Great T-Rex, but keep the jungle bright, faces clearly lit, and the moment gentle and non-horrific.",
         "simplify": "Big leaf shapes, one soft shadow, expressive faces.",
     },
     20: {
@@ -157,12 +160,12 @@ PAGE_OVERRIDES = {
     },
     24: {
         "main": "Luna asking for patience, Mía waiting carefully, Rexxie, Velo, Dipo, Mega in cart or by water, and the team hidden softly at sunset.",
-        "focus": "Prudence and care; no dangerous stealth or fear.",
+        "focus": "Prudence and care at golden luminous sunset; no dangerous stealth, no fear, no dark hiding.",
         "simplify": "Sunset, gentle bushes, waiting team, distant T-Rex/Trici optional.",
     },
     25: {
         "main": "Great T-Rex sleeping peacefully under large stars, with the team waiting quietly nearby.",
-        "focus": "Calm prehistoric night; the T-Rex must look peaceful, not threatening.",
+        "focus": "Calm child-friendly luminous prehistoric night with large stars, soft violet-blue sky, warm moonlight, and a peaceful sleeping T-Rex, never threatening.",
         "simplify": "Sleeping T-Rex, big stars, simple moon, open ground.",
     },
     26: {
@@ -192,12 +195,12 @@ PAGE_OVERRIDES = {
     },
     31: {
         "main": "Full team, including Trici and Mega in his aquarium cart, looking at a shooting star from camp.",
-        "focus": "Hopeful night sky; the star must not look like a red mark on Rexxie.",
+        "focus": "Hopeful child-friendly luminous night sky with large stars and warm camp light; the star must not look like a red mark on Rexxie.",
         "simplify": "Large sky, one shooting star, quiet silhouettes and faces.",
     },
     32: {
         "main": "Full team united at night, Trici safe, Mega in his aquarium cart, a small distant abstract blue light blinking far away.",
-        "focus": "Gentle hook to the next book: only distant blue light, not a visible flying saucer, no Olic, no Luke.",
+        "focus": "Gentle bright hook to the next book: only a small distant blue accent light in a luminous night sky, not a visible flying saucer, no Olic, no Luke.",
         "simplify": "Group, night sky, one small blue light shape, simple camp.",
     },
 }
@@ -252,6 +255,7 @@ def color_prompt(page):
     spec = PAGE_OVERRIDES[page["page"]]
     return "\n\n".join([
         COLOR_STYLE,
+        LUMINOUS_STYLE,
         TIMELINE,
         COLOR_BLOCK,
         f"PAGE {page['page']:02d} - {page['title']}. Scene: {page['visual']}",
@@ -288,7 +292,7 @@ def write_prompt_markdowns(pages):
 
 
 def write_character_prompts():
-    parts = ["# Prompts de personajes - Libro 2\n", TIMELINE, COLOR_BLOCK]
+    parts = ["# Prompts de personajes - Libro 2\n", LUMINOUS_STYLE, TIMELINE, COLOR_BLOCK]
     for name, desc in CHARACTER_PROMPTS.items():
         parts.append(f"## {name}\n\n{COLOR_STYLE}\n\nCharacter reference for {name}: {desc}\n\nConsistent children's book design, friendly expression, readable silhouette, no redesign.\n")
     (PROMPTS / "character_prompts.md").write_text("\n\n".join(parts), encoding="utf-8")
@@ -353,7 +357,7 @@ def write_production_files(pages):
             "",
         ])
         qa_md.append(
-            f"| {page['page']:02d} | color + colorear | {PAGE_OVERRIDES[page['page']]['focus']} | Revisar paleta oficial, sin poderes, sin marca de Rexxie, Mega con agua/carrito si aplica, escena legible. | Revisar líneas negras limpias, sin grises, sin rellenos negros, 3-5 elementos principales, espacios amplios. |"
+            f"| {page['page']:02d} | color + colorear | {PAGE_OVERRIDES[page['page']]['focus']} | Revisar paleta oficial, luminosidad alta estilo Libro 1, sin dominio azul oscuro, sin poderes, sin marca de Rexxie, Mega con agua/carrito si aplica, escena legible. | Revisar líneas negras limpias, sin grises, sin rellenos negros, 3-5 elementos principales, espacios amplios. |"
         )
 
     tracker_rows = [
@@ -387,6 +391,7 @@ No usar API, `OPENAI_API_KEY`, CLI de generación ni scripts OpenAI. La generaci
 5. Generar la versión de colorear.
 6. Guardar el resultado como `images/coloring_pages/page_01_coloring.png`.
 7. Aplicar `image_qa_matrix.md` antes de seguir.
+8. Rechazar cualquier resultado oscuro, azul marino dominante, cinematico o con filtro azul apagado aunque la paleta de personajes sea correcta.
 
 ## Producción
 
@@ -402,6 +407,7 @@ Generar por bloques de cuatro páginas:
 - 29-32
 
 Para cada página generar primero color y después blanco y negro. Actualizar `manual_production_tracker.md` con `aprobada`, `corregir` o `rechazada`.
+El color solo se aprueba si mantiene `LUMINOUS BOOK 1 COLOR STYLE`: luminosidad alta, personajes bien iluminados, sombras minimas y brillo azul solo como acento.
 
 ## Fallback ChatGPT Plus
 

@@ -11,6 +11,11 @@ Libro 1 en `book_01_los_dinoamigos_nacen/images/finals/`: alegre, luminoso,
 pulido, magico y de cuento infantil animado. Ese estilo fija luz, acabado y
 atmosfera, pero nunca permite cambiar diseno, color o continuidad de personaje.
 
+`LUMINOUS BOOK 1 COLOR STYLE` es obligatorio en prompts a color: luminosidad
+global alta, personajes bien iluminados, saturacion suave y alegre, sombras
+minimas y fondos claros o pastel siempre que la escena lo permita. El brillo
+azul magico debe ser acento, no filtro oscuro dominante.
+
 ## Fuentes obligatorias
 
 - `bible/03_visual_style_guide.md`
@@ -23,7 +28,8 @@ atmosfera, pero nunca permite cambiar diseno, color o continuidad de personaje.
 
 ## Responsabilidades
 
-- Insertar o exigir los bloques `STYLE LOCK` y `STRICT CHARACTER COLOR CONTINUITY` para cualquier imagen a color.
+- Insertar o exigir los bloques `STYLE LOCK`, `LUMINOUS BOOK 1 COLOR STYLE` y `STRICT CHARACTER COLOR CONTINUITY` para cualquier imagen a color.
+- Convertir noche, cuevas, ruinas, niebla, camaras y espacio en versiones infantiles luminosas: cielo azul/morado claro, estrellas grandes, linternas calidas y personajes legibles.
 - Usar identidad por silueta en blanco y negro.
 - Mantener personajes grandes, expresivos, redondeados y aptos para publico infantil.
 - Mantener fondos simples y coloreables, con pocos elementos principales.
@@ -35,6 +41,7 @@ atmosfera, pero nunca permite cambiar diseno, color o continuidad de personaje.
 
 - No aceptar paletas alternativas.
 - No aceptar un estilo de color que se aleje del acabado luminoso y alegre del Libro 1.
+- No aceptar dominio azul marino, iluminacion low-key, sombras cinematicas, paleta apagada o drama sci-fi oscuro aunque los colores de personaje sean correctos.
 - No hacer dinosaurios terrorificos, agresivos o hiperrealistas.
 - No llenar paginas de colorear con texturas pequenas, grises o sombras pesadas.
 - No cambiar el objeto central de un libro por uno visualmente mas espectacular.
