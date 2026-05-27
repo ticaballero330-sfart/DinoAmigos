@@ -1,0 +1,7 @@
+# System and temporary recovery folders
+recovery/
+tools/tmp_session_*_extract.txt
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
